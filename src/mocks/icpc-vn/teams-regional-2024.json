@@ -1,0 +1,6552 @@
+[
+ {
+  "id": "t-rvn24-1",
+  "slug": "fruit-advantages-rvn24",
+  "name": "fruit_advantages",
+  "organizationId": "o-ntu-tw",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 1,
+   "medal": "gold",
+   "solved": 11,
+   "penalty": 1271,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 135
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 251
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 290
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 170
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 98
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 58
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 72
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-2",
+  "slug": "penguin-feeders-rvn24",
+  "name": "Penguin Feeders",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 2,
+   "medal": "gold",
+   "solved": 10,
+   "penalty": 677,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 146
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 36
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 223
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 106,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 81
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 13,
+     "firstSolve": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-3",
+  "slug": "jagermeister-rvn24",
+  "name": "Jägermeister",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 3,
+   "solved": 10,
+   "penalty": 765,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 77,
+     "firstSolve": true
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "E",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 192
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 111
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 66
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-4",
+  "slug": "spiral-rvn24",
+  "name": "Spiral",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 4,
+   "solved": 10,
+   "penalty": 1013,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 244
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 9,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 112,
+     "firstSolve": true
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 210
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 208
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 20,
+     "firstSolve": true
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 40
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-5",
+  "slug": "hcmus-atcoder-rvn24",
+  "name": "HCMUS-AtCoder",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 5,
+   "medal": "gold",
+   "solved": 10,
+   "penalty": 1237,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 186
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "E",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 254
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 296
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 160
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 97
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-6",
+  "slug": "uit-khq-theunkillabledemonkings-rvn24",
+  "name": "UIT.KHQ.TheUnkillableDemonKings",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 6,
+   "medal": "gold",
+   "solved": 9,
+   "penalty": 761,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 162
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 45
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 209
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 132
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 77
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 89
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-7",
+  "slug": "ibm-cloud-rvn24",
+  "name": "IBM Cloud",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 7,
+   "medal": "silver",
+   "solved": 9,
+   "penalty": 775,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 109
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 220
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 175
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 71
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-8",
+  "slug": "te-con-rvn24",
+  "name": "Tê con",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 8,
+   "solved": 9,
+   "penalty": 798,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 234
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "E",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 207
+    },
+    {
+     "label": "J",
+     "tries": 4
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 106
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 65
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 60
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-9",
+  "slug": "bkdn-arcane-rvn24",
+  "name": "BKDN.Arcane",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 9,
+   "medal": "silver",
+   "solved": 9,
+   "penalty": 867,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 236
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 197
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 126
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 85
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-10",
+  "slug": "azure-rvn24",
+  "name": "Azure",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 10,
+   "solved": 9,
+   "penalty": 1126,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 152
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 44
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 296
+    },
+    {
+     "label": "K",
+     "tries": 6,
+     "solvedAt": 256
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 92
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-11",
+  "slug": "uit-knt-2mic1cup-rvn24",
+  "name": "UIT.KNT.2mic1cup",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 11,
+   "solved": 9,
+   "penalty": 1177,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 200
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 53
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 299
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 181
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 121
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-12",
+  "slug": "phoking-rvn24",
+  "name": "PhoKing",
+  "organizationId": "o-postech",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 12,
+   "medal": "silver",
+   "solved": 8,
+   "penalty": 499,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 171
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 8,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 107
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 53
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 46
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-13",
+  "slug": "heroku-rvn24",
+  "name": "Heroku",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 13,
+   "solved": 8,
+   "penalty": 611,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 203
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 47
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 142
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 89
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-14",
+  "slug": "7-is-our-favourite-number-rvn24",
+  "name": "7 is our favourite number",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 14,
+   "medal": "silver",
+   "solved": 8,
+   "penalty": 648,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 192
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 50
+    },
+    {
+     "label": "E",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "J",
+     "tries": 5
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 109
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 75
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 67
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-15",
+  "slug": "make-hcmute-great-rvn24",
+  "name": "Make HCMUTE Great",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 15,
+   "medal": "bronze",
+   "solved": 8,
+   "penalty": 650,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 250
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "J",
+     "tries": 12
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 158
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 52
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-16",
+  "slug": "nameless-rvn24",
+  "name": "nameless",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 16,
+   "solved": 8,
+   "penalty": 658,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 176
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 53
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 74,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "M",
+     "tries": 5,
+     "solvedAt": 129
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-17",
+  "slug": "neu-gugugaga-rvn24",
+  "name": "NEU.gugugaga",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 17,
+   "medal": "bronze",
+   "solved": 8,
+   "penalty": 685,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 108
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "J",
+     "tries": 7
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 234
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 70
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-18",
+  "slug": "google-cloud-platform-rvn24",
+  "name": "Google Cloud Platform",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 18,
+   "solved": 8,
+   "penalty": 737,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 186
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 209
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 61
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 106
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-19",
+  "slug": "uit-ttt-baka-rvn24",
+  "name": "UIT.TTT.Baka",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 19,
+   "solved": 8,
+   "penalty": 748,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 245
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 35
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 127
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 92
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 74
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-20",
+  "slug": "uit-sth-shuriken-rvn24",
+  "name": "UIT.STH.Shuriken",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 20,
+   "solved": 8,
+   "penalty": 777,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 215
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 60
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 161
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 97
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 124
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-21",
+  "slug": "huawei-cloud-rvn24",
+  "name": "Huawei Cloud",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 21,
+   "solved": 8,
+   "penalty": 795,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 245
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 22
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "J",
+     "tries": 4
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 154
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 93
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-22",
+  "slug": "acwyfiphite-rvn24",
+  "name": "acwyfiphite",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 22,
+   "solved": 8,
+   "penalty": 991,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 5,
+     "solvedAt": 275
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 26
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12,
+     "firstSolve": true
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 174
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 74
+    },
+    {
+     "label": "M",
+     "tries": 7,
+     "solvedAt": 146
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-23",
+  "slug": "hcmut-fieryfirefly-rvn24",
+  "name": "HCMUT FieryFirefly",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 23,
+   "medal": "bronze",
+   "solved": 8,
+   "penalty": 998,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 273
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 36
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 214
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 156
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 136
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-24",
+  "slug": "neu-thq-rvn24",
+  "name": "NEU.THQ",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 24,
+   "solved": 8,
+   "penalty": 1025,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 45
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 206,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 159
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 102
+    },
+    {
+     "label": "M",
+     "tries": 5,
+     "solvedAt": 193
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-25",
+  "slug": "nmk-rvn24",
+  "name": "NMK",
+  "organizationId": "o-hanyang",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 25,
+   "medal": "bronze",
+   "solved": 8,
+   "penalty": 1113,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 289
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 50
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 204
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 94
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 205
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-26",
+  "slug": "upcloud-rvn24",
+  "name": "UpCloud",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 26,
+   "solved": 8,
+   "penalty": 1140,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 220
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 36
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 69
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 75
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 150
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 108
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 254
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-27",
+  "slug": "hust-zleap-rvn24",
+  "name": "Hust zleap",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 27,
+   "solved": 8,
+   "penalty": 1155,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 265
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 53
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 209
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 132
+    },
+    {
+     "label": "M",
+     "tries": 10,
+     "solvedAt": 141
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-28",
+  "slug": "hcmus-hld-rvn24",
+  "name": "HCMUS-HLD",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 28,
+   "solved": 7,
+   "penalty": 586,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 129
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 202
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "M",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-29",
+  "slug": "fptu-old-era-rvn24",
+  "name": "FPTU Old Era",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 29,
+   "solved": 7,
+   "penalty": 648,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 42
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 230
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 68
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 124
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-30",
+  "slug": "hcmus-wolfflow-rvn24",
+  "name": "HCMUS-Wolfflow",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 30,
+   "solved": 7,
+   "penalty": 672,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 64
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 272
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 99
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 137
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-31",
+  "slug": "ptit-nutriboost-rvn24",
+  "name": "PTIT.Nutriboost",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 31,
+   "solved": 7,
+   "penalty": 707,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 235
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 68
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 22
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "K",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 84
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 148
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-32",
+  "slug": "hust-retired-rvn24",
+  "name": "HUST Retired",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 32,
+   "solved": 7,
+   "penalty": 721,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 9
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 24
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 180
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 245
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 84
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-33",
+  "slug": "hcmus-newjeans-rvn24",
+  "name": "HCMUS-NewJeans",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 33,
+   "solved": 7,
+   "penalty": 895,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 6
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 66
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 123
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 246
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 250
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-34",
+  "slug": "bogosort-rvn24",
+  "name": "BogoSort",
+  "organizationId": "o-smu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 34,
+   "solved": 7,
+   "penalty": 936,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 42
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 74
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 261
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 220
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 154
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-35",
+  "slug": "ovhcloud-rvn24",
+  "name": "OVHcloud",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 35,
+   "solved": 7,
+   "penalty": 977,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 39
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 270
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 153
+    },
+    {
+     "label": "M",
+     "tries": 5,
+     "solvedAt": 247
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-36",
+  "slug": "bkdn-chmod-rvn24",
+  "name": "BKDN.Chmod",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 36,
+   "solved": 7,
+   "penalty": 1058,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 118
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 286
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 153
+    },
+    {
+     "label": "M",
+     "tries": 6,
+     "solvedAt": 205
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-37",
+  "slug": "uit-tvh-htv3-rvn24",
+  "name": "UIT.TVH.HTV3",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 37,
+   "solved": 7,
+   "penalty": 1062,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 295
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 85
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 65
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 299
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 102
+    },
+    {
+     "label": "M",
+     "tries": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-38",
+  "slug": "link-cut-tree-rvn24",
+  "name": "Link Cut Tree",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 38,
+   "solved": 6,
+   "penalty": 351,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 37
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 36
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 173
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "M",
+     "tries": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-39",
+  "slug": "conforza-rvn24",
+  "name": "ConForza",
+  "organizationId": "o-postech",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 39,
+   "solved": 6,
+   "penalty": 382,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 71
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 117
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-40",
+  "slug": "fuv-crescent-rvn24",
+  "name": "FUV_Crescent",
+  "organizationId": "o-fuv",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 40,
+   "solved": 6,
+   "penalty": 516,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 16
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "K",
+     "tries": 15
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 135
+    },
+    {
+     "label": "M",
+     "tries": 6,
+     "solvedAt": 122
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-41",
+  "slug": "hus-had-rvn24",
+  "name": "HUS.HAD",
+  "organizationId": "o-hus-vnu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 41,
+   "solved": 6,
+   "penalty": 538,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 62
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 43
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 15
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 202
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 137
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-42",
+  "slug": "iuh-green-rvn24",
+  "name": "IUH.GREEN",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 42,
+   "solved": 6,
+   "penalty": 623,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 61
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 7,
+     "solvedAt": 227
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 108
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-43",
+  "slug": "ptit-wibu-rvn24",
+  "name": "PTIT.Wibu",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 43,
+   "solved": 6,
+   "penalty": 631,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 105
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 36
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 194
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 121
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-44",
+  "slug": "hust-smile-ball-rvn24",
+  "name": "HUST Smile Ball",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 44,
+   "solved": 6,
+   "penalty": 641,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 79
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 181
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 169
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-45",
+  "slug": "husc-newbie-rvn24",
+  "name": "HUSC.Newbie",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 45,
+   "solved": 6,
+   "penalty": 679,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 77
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 105
+    },
+    {
+     "label": "M",
+     "tries": 10,
+     "solvedAt": 243
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-46",
+  "slug": "haui-peekaboo-rvn24",
+  "name": "HaUI.peekaboo",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 46,
+   "solved": 6,
+   "penalty": 706,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 99
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 62
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 236
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 197
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-47",
+  "slug": "iuh-tripl3k-rvn24",
+  "name": "IUH.Tripl3K",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 47,
+   "solved": 6,
+   "penalty": 740,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 107
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 54
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 181
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 288
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-48",
+  "slug": "fptu-algorillas-rvn24",
+  "name": "FPTU Algorillas",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 48,
+   "solved": 6,
+   "penalty": 802,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 81
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 35
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 9,
+     "solvedAt": 223
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 135
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-49",
+  "slug": "fuda-0x01h-rvn24",
+  "name": "FUDA-0x01h",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 49,
+   "solved": 6,
+   "penalty": 842,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 50
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 56
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 57
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 145
+    },
+    {
+     "label": "M",
+     "tries": 7,
+     "solvedAt": 269
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-50",
+  "slug": "utc-tichpx-rvn24",
+  "name": "UTC_TICHPX",
+  "organizationId": "o-utc",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 50,
+   "solved": 6,
+   "penalty": 844,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 71
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 42
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 237
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 214
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-51",
+  "slug": "ncku-duckpancake-rvn24",
+  "name": "NCKU-DuckPancake",
+  "organizationId": "o-ncku",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 51,
+   "solved": 6,
+   "penalty": 845,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 6,
+     "solvedAt": 296
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 170
+    },
+    {
+     "label": "M",
+     "tries": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-52",
+  "slug": "bkdn-skiplegday-rvn24",
+  "name": "BKDN.SkipLegDay",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 52,
+   "solved": 6,
+   "penalty": 857,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 109
+    },
+    {
+     "label": "M",
+     "tries": 14,
+     "solvedAt": 293
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-53",
+  "slug": "vku-mailaanhem-rvn24",
+  "name": "VKU.MaiLaAnhEm",
+  "organizationId": "o-vku",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 53,
+   "solved": 5,
+   "penalty": 253,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 56
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-54",
+  "slug": "fptu-new-era-rvn24",
+  "name": "FPTU New Era",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 54,
+   "solved": 5,
+   "penalty": 291,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 56
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "J",
+     "tries": 4
+    },
+    {
+     "label": "K",
+     "tries": 44
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 136
+    },
+    {
+     "label": "M",
+     "tries": 48
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-55",
+  "slug": "hhc-rvn24",
+  "name": "Hhc",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 55,
+   "solved": 5,
+   "penalty": 319,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 57
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 19
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "K",
+     "tries": 16
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 85
+    },
+    {
+     "label": "M",
+     "tries": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-56",
+  "slug": "vinuni-dauchienthangphat-rvn24",
+  "name": "VinUni DauChienThangPhat",
+  "organizationId": "o-vinuni",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 56,
+   "solved": 5,
+   "penalty": 336,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 24
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 123
+    },
+    {
+     "label": "M",
+     "tries": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-57",
+  "slug": "hcmut-alpha-rvn24",
+  "name": "HCMUT Alpha",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 57,
+   "solved": 5,
+   "penalty": 352,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 81
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 16
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 145
+    },
+    {
+     "label": "M",
+     "tries": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-58",
+  "slug": "psa-bitmask-rvn24",
+  "name": "PSA_bitmask",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 58,
+   "solved": 5,
+   "penalty": 355,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 45
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 61
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 130
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-59",
+  "slug": "ptit-hash-rvn24",
+  "name": "PTIT.Hash",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 59,
+   "solved": 5,
+   "penalty": 371,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 200
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-60",
+  "slug": "bkdn-followdreams-rvn24",
+  "name": "BKDN.FollowDreams",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 60,
+   "solved": 5,
+   "penalty": 384,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 94
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 46
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "K",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 167
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-61",
+  "slug": "ptit-noodles-rvn24",
+  "name": "PTIT.Noodles",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 61,
+   "solved": 5,
+   "penalty": 414,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 84
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "L",
+     "tries": 4
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 214
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-62",
+  "slug": "vn-army-rvn24",
+  "name": "Vn_Army",
+  "organizationId": "o-mta",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 62,
+   "solved": 5,
+   "penalty": 431,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 113
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 43
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 148
+    },
+    {
+     "label": "M",
+     "tries": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-63",
+  "slug": "hcmut-barely-alive-rvn24",
+  "name": "HCMUT barely_alive",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 63,
+   "solved": 5,
+   "penalty": 450,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 69
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 47
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 211
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-64",
+  "slug": "ptithcm-3-main9-rvn24",
+  "name": "PTITHCM.3.main9",
+  "organizationId": "o-ptit-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 64,
+   "solved": 5,
+   "penalty": 480,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 94
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 255
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-65",
+  "slug": "fptu-js-fold-8386-rvn24",
+  "name": "FPTU JS Fold 8386",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 65,
+   "solved": 5,
+   "penalty": 487,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 35
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 174
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-66",
+  "slug": "hust-wings-rvn24",
+  "name": "HUST Wings",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 66,
+   "solved": 5,
+   "penalty": 525,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 59
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 40
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 273
+    },
+    {
+     "label": "L",
+     "tries": 3
+    },
+    {
+     "label": "M",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-67",
+  "slug": "ctu-stresstesters-rvn24",
+  "name": "CTU.stresstesters",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 67,
+   "solved": 5,
+   "penalty": 550,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 118
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 74
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "K",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 227
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-68",
+  "slug": "pka-gomen-amanai-rvn24",
+  "name": "PKA Gomen amanai",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 68,
+   "solved": 5,
+   "penalty": 561,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 65
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 132
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 58
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 219
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-69",
+  "slug": "vinuni-gtv-rvn24",
+  "name": "VinUni GTV",
+  "organizationId": "o-vinuni",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 69,
+   "solved": 5,
+   "penalty": 583,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 42
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 15
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 291
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-70",
+  "slug": "the-mob-rvn24",
+  "name": "The Mob",
+  "organizationId": "o-qnu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 70,
+   "solved": 5,
+   "penalty": 586,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 31
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 67
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 51
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 268
+    },
+    {
+     "label": "M",
+     "tries": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-71",
+  "slug": "hcmiu-risingstars-rvn24",
+  "name": "HCMIU_RisingStars",
+  "organizationId": "o-iu-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 71,
+   "solved": 5,
+   "penalty": 629,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 124
+    },
+    {
+     "label": "F",
+     "tries": 8,
+     "solvedAt": 77
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "K",
+     "tries": 14
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 226
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-72",
+  "slug": "bkdn-anonymous-rvn24",
+  "name": "BKDN.Anonymous",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 72,
+   "solved": 5,
+   "penalty": 631,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 66
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 117
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 46
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 255
+    },
+    {
+     "label": "M",
+     "tries": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-73",
+  "slug": "haui-thay-chua-thay-chua-em-rvn24",
+  "name": "HaUI.thay_chua_thay_chua_em",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 73,
+   "solved": 5,
+   "penalty": 710,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 79
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 178
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 81
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 228
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-74",
+  "slug": "hust-chick-rvn24",
+  "name": "HUST Chick",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 74,
+   "solved": 5,
+   "penalty": 878,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 78
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 14
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1
+    },
+    {
+     "label": "M",
+     "tries": 15,
+     "solvedAt": 279
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-75",
+  "slug": "ppa-initiators-rvn24",
+  "name": "PPA_Initiators",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 75,
+   "solved": 5,
+   "penalty": 884,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 7,
+     "solvedAt": 151
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 143
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 63
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 298
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-76",
+  "slug": "hcmut-bun-cha-rvn24",
+  "name": "HCMUT Bun cha",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 76,
+   "solved": 5,
+   "penalty": 938,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 8,
+     "solvedAt": 133
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 109
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 281
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-77",
+  "slug": "hcmute-3sat-rvn24",
+  "name": "HCMUTE.3SAT",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 77,
+   "solved": 4,
+   "penalty": 138,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 45
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "L",
+     "tries": 15
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-78",
+  "slug": "ctu-accepted-rvn24",
+  "name": "CTU.Accepted",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 78,
+   "solved": 4,
+   "penalty": 294,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 5,
+     "solvedAt": 37
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 120
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 51
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "L",
+     "tries": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-79",
+  "slug": "iuh-zerothree-rvn24",
+  "name": "IUH.ZeroThree",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 79,
+   "solved": 4,
+   "penalty": 356,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 152
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 11
+    },
+    {
+     "label": "L",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-80",
+  "slug": "tdmu-star-rvn24",
+  "name": "TDMU_Star",
+  "organizationId": "o-tdmu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 80,
+   "solved": 4,
+   "penalty": 378,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 60
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 146
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 70
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "K",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-81",
+  "slug": "moodeng-rvn24",
+  "name": "MooDeng",
+  "organizationId": "o-cmu-th",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 81,
+   "solved": 4,
+   "penalty": 384,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 80
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 150
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-82",
+  "slug": "hcmue-return-false-rvn24",
+  "name": "HCMUE - RETURN FALSE",
+  "organizationId": "o-hcmue",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 82,
+   "solved": 4,
+   "penalty": 388,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 138
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 74
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "L",
+     "tries": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-83",
+  "slug": "tdtu-lkk-rvn24",
+  "name": "TDTU_LKK",
+  "organizationId": "o-tdtu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 83,
+   "solved": 4,
+   "penalty": 396,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 49
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 163
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 73
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "L",
+     "tries": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-84",
+  "slug": "fptu-dolphin-rvn24",
+  "name": "FPTU Dolphin",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 84,
+   "solved": 4,
+   "penalty": 424,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 50
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 171
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 25
+    },
+    {
+     "label": "L",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-85",
+  "slug": "haui-bosslong-rvn24",
+  "name": "HaUI.BossLong",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 85,
+   "solved": 4,
+   "penalty": 441,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 199
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 91
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-86",
+  "slug": "tlu-gpt-1-5-rvn24",
+  "name": "TLU GPT -1.5",
+  "organizationId": "o-thanglong-u",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 86,
+   "solved": 4,
+   "penalty": 449,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 182
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 124
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 14
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-87",
+  "slug": "hcmue-black-myth-rvn24",
+  "name": "HCMUE - Black Myth",
+  "organizationId": "o-hcmue",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 87,
+   "solved": 4,
+   "penalty": 452,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 65
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 183
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-88",
+  "slug": "fit-hnue-rvn24",
+  "name": "FIT_HNUE",
+  "organizationId": "o-hnue",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 88,
+   "solved": 4,
+   "penalty": 477,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 24
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 236
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 65
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "L",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-89",
+  "slug": "neu-newbies-rvn24",
+  "name": "NEU.Newbies",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 89,
+   "solved": 4,
+   "penalty": 486,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 73
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 155
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 94
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "M",
+     "tries": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-90",
+  "slug": "iuh-newgen-rvn24",
+  "name": "IUH.NewGen",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 90,
+   "solved": 4,
+   "penalty": 491,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 100
+    },
+    {
+     "label": "D",
+     "tries": 5,
+     "solvedAt": 234
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 47
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-91",
+  "slug": "tlu02-rvn24",
+  "name": "TLU02",
+  "organizationId": "o-tlu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 91,
+   "solved": 4,
+   "penalty": 496,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 193
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 84
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-92",
+  "slug": "ctu-redo-rvn24",
+  "name": "CTU.Redo",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 92,
+   "solved": 4,
+   "penalty": 511,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 12,
+     "solvedAt": 211
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "L",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-93",
+  "slug": "eiu-meowmeow-rvn24",
+  "name": "EIU.Meowmeow",
+  "organizationId": "o-eiu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 93,
+   "solved": 4,
+   "penalty": 536,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 209
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 8,
+     "solvedAt": 121
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-94",
+  "slug": "ppa-libra-rvn24",
+  "name": "PPA_Libra",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 94,
+   "solved": 4,
+   "penalty": 566,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 207
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 164
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-95",
+  "slug": "tcu01-rvn24",
+  "name": "TCU01",
+  "organizationId": "o-tcu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 95,
+   "solved": 4,
+   "penalty": 576,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 86
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 245
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 54
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-96",
+  "slug": "hcmut-j05-rvn24",
+  "name": "HCMUT J05",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 96,
+   "solved": 4,
+   "penalty": 582,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 7,
+     "solvedAt": 118
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 70
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 227
+    },
+    {
+     "label": "L",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-97",
+  "slug": "vku-nguoiganhta-rvn24",
+  "name": "VKU.NguoiGanhTa",
+  "organizationId": "o-vku",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 97,
+   "solved": 4,
+   "penalty": 587,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 125
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 255
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 55
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-98",
+  "slug": "hutech-tkp-rvn24",
+  "name": "HUTECH.TKP",
+  "organizationId": "o-hutech",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 98,
+   "solved": 4,
+   "penalty": 595,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 142
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 229
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 65
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-99",
+  "slug": "utedn-tat-rvn24",
+  "name": "UTEDN_TAT",
+  "organizationId": "o-ute-dn",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 99,
+   "solved": 4,
+   "penalty": 615,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 6,
+     "solvedAt": 68
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 137
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 63
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "K",
+     "tries": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-100",
+  "slug": "husc-addicted-man-rvn24",
+  "name": "HUSC.Addicted_Man",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 100,
+   "solved": 4,
+   "penalty": 640,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 57
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 101
+    },
+    {
+     "label": "F",
+     "tries": 13,
+     "solvedAt": 112
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 70
+    },
+    {
+     "label": "K",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-101",
+  "slug": "utc2-first-rvn24",
+  "name": "UTC2_FIRST",
+  "organizationId": "o-utc2",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 101,
+   "solved": 4,
+   "penalty": 698,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 9,
+     "solvedAt": 286
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 81
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "L",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-102",
+  "slug": "umt-rollingintheheap-rvn24",
+  "name": "UMT.rollingInTheHeap",
+  "organizationId": "o-umt",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 102,
+   "solved": 4,
+   "penalty": 732,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 99
+    },
+    {
+     "label": "D",
+     "tries": 10,
+     "solvedAt": 291
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 44
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "K",
+     "tries": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-103",
+  "slug": "huce-capybara-rvn24",
+  "name": "HUCE_Capybara",
+  "organizationId": "o-huce",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 103,
+   "solved": 4,
+   "penalty": 903,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 40
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 268
+    },
+    {
+     "label": "F",
+     "tries": 11,
+     "solvedAt": 202
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "L",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-104",
+  "slug": "uth-threemusketeers-rvn24",
+  "name": "UTH.ThreeMusketeers",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 104,
+   "solved": 4,
+   "penalty": 942,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 83
+    },
+    {
+     "label": "D",
+     "tries": 15,
+     "solvedAt": 264
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 7,
+     "solvedAt": 124
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-105",
+  "slug": "huflit-gitgud-rvn24",
+  "name": "HUFLIT_GitGud",
+  "organizationId": "o-huflit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 105,
+   "solved": 4,
+   "penalty": 998,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 8,
+     "solvedAt": 209
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 296
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 148
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 65
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-106",
+  "slug": "pka-blackmythyassuo-rvn24",
+  "name": "PKA BlackMythYassuo",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 106,
+   "solved": 4,
+   "penalty": 1105,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 14,
+     "solvedAt": 278
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 213
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 9,
+     "solvedAt": 157
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-107",
+  "slug": "siu-sirocco-rvn24",
+  "name": "SIU_Sirocco",
+  "organizationId": "o-siu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 107,
+   "solved": 3,
+   "penalty": 244,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 24
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 110
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-108",
+  "slug": "t06-one-rvn24",
+  "name": "T06_one",
+  "organizationId": "o-ufp",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 108,
+   "solved": 3,
+   "penalty": 249,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 124
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 55
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-109",
+  "slug": "hou-youngster-rvn24",
+  "name": "HOU Youngster",
+  "organizationId": "o-hou",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 109,
+   "solved": 3,
+   "penalty": 277,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 71
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 81
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-110",
+  "slug": "haiphongvmu-rvn24",
+  "name": "HaiPhongVMU",
+  "organizationId": "o-vmu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 110,
+   "solved": 3,
+   "penalty": 339,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 124
+    },
+    {
+     "label": "D",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 108
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-111",
+  "slug": "usth-ducks-the-coder-rvn24",
+  "name": "USTH Ducks The Coder",
+  "organizationId": "o-usth",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 111,
+   "solved": 3,
+   "penalty": 397,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 10
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 92
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 135
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-112",
+  "slug": "navy-rvn24",
+  "name": "Navy",
+  "organizationId": "o-naval",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 112,
+   "solved": 3,
+   "penalty": 461,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 212
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 132
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "K",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-113",
+  "slug": "penalty-enjoyer-rvn24",
+  "name": "Penalty Enjoyer",
+  "organizationId": "o-cmu-th",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 113,
+   "solved": 3,
+   "penalty": 462,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 150
+    },
+    {
+     "label": "F",
+     "tries": 8,
+     "solvedAt": 122
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-114",
+  "slug": "mta-01-rvn24",
+  "name": "MTA_01",
+  "organizationId": "o-mta",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 114,
+   "solved": 3,
+   "penalty": 489,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 87
+    },
+    {
+     "label": "D",
+     "tries": 6
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 237
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-115",
+  "slug": "ftu-knights-2-rvn24",
+  "name": "FTU Knights 2",
+  "organizationId": "o-ftu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 115,
+   "solved": 3,
+   "penalty": 505,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 7,
+     "solvedAt": 262
+    },
+    {
+     "label": "D",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 77
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 26
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-116",
+  "slug": "duy-tan-scs-dz1-rvn24",
+  "name": "DUY TAN SCS-DZ1",
+  "organizationId": "o-dtu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 116,
+   "solved": 3,
+   "penalty": 508,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2
+    },
+    {
+     "label": "B",
+     "tries": 3
+    },
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 141
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 175
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 12
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 5
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-117",
+  "slug": "ftu-knights-1-rvn24",
+  "name": "FTU Knights 1",
+  "organizationId": "o-ftu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 117,
+   "solved": 3,
+   "penalty": 515,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 6,
+     "solvedAt": 145
+    },
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 8,
+     "solvedAt": 121
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-118",
+  "slug": "next-gen-rvn24",
+  "name": "Next Gen",
+  "organizationId": "o-sgu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 118,
+   "solved": 3,
+   "penalty": 614,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 245
+    },
+    {
+     "label": "D",
+     "tries": 2
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 9,
+     "solvedAt": 135
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 14
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-119",
+  "slug": "hau-never-give-up-rvn24",
+  "name": "HAU - Never_give_up",
+  "organizationId": "o-hau",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 119,
+   "solved": 3,
+   "penalty": 688,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 8
+    },
+    {
+     "label": "D",
+     "tries": 9,
+     "solvedAt": 269
+    },
+    {
+     "label": "F",
+     "tries": 7,
+     "solvedAt": 124
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-120",
+  "slug": "404-not-found-rvn24",
+  "name": "404 Not Found",
+  "organizationId": "o-hdu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 120,
+   "solved": 3,
+   "penalty": 1043,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 12,
+     "solvedAt": 279
+    },
+    {
+     "label": "E",
+     "tries": 9
+    },
+    {
+     "label": "F",
+     "tries": 15,
+     "solvedAt": 147
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 37
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-121",
+  "slug": "ptithcm-clique-rvn24",
+  "name": "PTITHCM.Clique",
+  "organizationId": "o-ptit-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 121,
+   "solved": 2,
+   "penalty": 58,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 9
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 28
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-122",
+  "slug": "soldier-rvn24",
+  "name": "Soldier",
+  "organizationId": "o-sgu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 122,
+   "solved": 2,
+   "penalty": 123,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 15
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 72
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-123",
+  "slug": "haui-breath-of-stone-rvn24",
+  "name": "HaUI.Breath_of_Stone",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 123,
+   "solved": 2,
+   "penalty": 177,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 133
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-124",
+  "slug": "sea1-rvn24",
+  "name": "SEA1",
+  "organizationId": "o-ntu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 124,
+   "solved": 2,
+   "penalty": 186,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 10
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 103
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "L",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-125",
+  "slug": "the-naroditsky-rvn24",
+  "name": "The Naroditsky",
+  "organizationId": "o-unpar",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 125,
+   "solved": 2,
+   "penalty": 204,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 91
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-126",
+  "slug": "psa-betapcode-rvn24",
+  "name": "PSA_betapcode",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 126,
+   "solved": 2,
+   "penalty": 206,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 11
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 133
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 13
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-127",
+  "slug": "due1-rvn24",
+  "name": "DUE1",
+  "organizationId": "o-due-dn",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 127,
+   "solved": 2,
+   "penalty": 230,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3
+    },
+    {
+     "label": "D",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 165
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-128",
+  "slug": "ppu-rvn24",
+  "name": "PPU",
+  "organizationId": "o-ppu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 128,
+   "solved": 2,
+   "penalty": 296,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 188
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 10
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 28
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-129",
+  "slug": "3knights-rvn24",
+  "name": "3Knights",
+  "organizationId": "o-rmit",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 129,
+   "solved": 2,
+   "penalty": 362,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 223
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 19
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-130",
+  "slug": "dthu-chickeneatbug-rvn24",
+  "name": "DThU.Chickeneatbug",
+  "organizationId": "o-dthu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 130,
+   "solved": 2,
+   "penalty": 371,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 16
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 152
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 39
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-131",
+  "slug": "anbanhuongtra-rvn24",
+  "name": "AnBanhUongTra",
+  "organizationId": "o-ou-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 131,
+   "solved": 2,
+   "penalty": 450,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 27
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 17,
+     "solvedAt": 108
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-132",
+  "slug": "nosolution-rvn24",
+  "name": "nosolution",
+  "organizationId": "o-cmu-th",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 132,
+   "solved": 2,
+   "penalty": 575,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 6
+    },
+    {
+     "label": "F",
+     "tries": 15,
+     "solvedAt": 234
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 21
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-133",
+  "slug": "iuh-legitmen-rvn24",
+  "name": "IUH.LegitMen",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 133,
+   "solved": 1,
+   "penalty": 39,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 12
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 7
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-134",
+  "slug": "ued-bit-rvn24",
+  "name": "UED_bit",
+  "organizationId": "o-ued-dn",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 134,
+   "solved": 1,
+   "penalty": 56,
+   "problems": [
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 17
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 36
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-135",
+  "slug": "tgu1-rvn24",
+  "name": "TGU1",
+  "organizationId": "o-tgu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 135,
+   "solved": 1,
+   "penalty": 181,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 16
+    },
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 121
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-136",
+  "slug": "moodang-rvn24",
+  "name": "MooDang",
+  "organizationId": "o-cmu-th",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 136,
+   "solved": 1,
+   "penalty": 299,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 9,
+     "solvedAt": 139
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn24-137",
+  "slug": "it-epu-rvn24",
+  "name": "IT_EPU",
+  "organizationId": "o-epu",
+  "contestEditionId": "e-icpc-regional-vn-2024",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 137,
+   "solved": 0,
+   "penalty": 0,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 13
+    },
+    {
+     "label": "J",
+     "tries": 2
+    }
+   ]
+  }
+ }
+]

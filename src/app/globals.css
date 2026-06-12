@@ -1,0 +1,172 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+/* ── Design tokens - SPEC §12.2 ─────────────────────────────── */
+@theme {
+  /* Cool & crisp - near-white blue-tinted neutrals, OKLCH */
+  --color-paper: oklch(98.6% 0.003 250);
+  --color-card: oklch(99.6% 0.0015 250);
+  --color-wash: oklch(96.6% 0.005 250); /* borderless surface fill */
+  --color-ink: oklch(22% 0.014 260);
+  --color-ink-soft: oklch(50% 0.016 258);
+  --color-ink-faint: oklch(68% 0.014 256);
+  --color-line: oklch(92.6% 0.006 255);
+  --color-line-strong: oklch(87% 0.009 255);
+  /* ── 4-color semantic palette - flag-anchored hues, AA verified ──
+     red 28 (cờ đỏ) · green 148 (solve) · blue 256 (accent) · yellow 88 (sao vàng)
+     Steps: soft (tint bg) · bg (chips, cells) · base (solid) · strong (hover,
+     border) · deep (text on tint/paper, ≥4.5:1).
+     Pairing rules: white text only on red, red-strong, green-strong, blue,
+     blue-strong. Never white on yellow - use ink or yellow-deep; yellow-strong
+     is yellow's only 3:1 boundary step vs paper. */
+  --color-red-soft: oklch(96.5% 0.013 28);
+  --color-red-bg: oklch(91% 0.045 28);
+  --color-red: oklch(55% 0.2 28);
+  --color-red-strong: oklch(48% 0.19 28);
+  --color-red-deep: oklch(42% 0.15 28);
+
+  --color-green-soft: oklch(96.5% 0.025 148);
+  --color-green-bg: oklch(91% 0.07 148);
+  --color-green: oklch(57% 0.15 148);
+  --color-green-strong: oklch(48% 0.125 148);
+  --color-green-deep: oklch(40% 0.11 148);
+
+  --color-blue-soft: oklch(96.5% 0.015 256);
+  --color-blue-bg: oklch(91% 0.04 256);
+  --color-blue: oklch(50% 0.15 256);
+  --color-blue-strong: oklch(43% 0.14 256);
+  --color-blue-deep: oklch(38% 0.12 256);
+
+  --color-yellow-soft: oklch(97% 0.03 95);
+  --color-yellow-bg: oklch(93% 0.075 92);
+  --color-yellow: oklch(80% 0.16 88);
+  --color-yellow-strong: oklch(62% 0.125 87);
+  --color-yellow-deep: oklch(50% 0.1 86);
+
+  /* Semantic aliases into the ramps */
+  --color-accent: var(--color-blue);
+  --color-accent-deep: var(--color-blue-strong);
+  --color-accent-soft: oklch(50% 0.15 256 / 0.07);
+  --color-accent-softer: oklch(50% 0.15 256 / 0.04);
+  --color-gold: oklch(55% 0.105 87); /* yellow family, ≥4.5:1 on paper */
+  --color-gold-bg: oklch(80% 0.16 88 / 0.13);
+  --color-silver: oklch(58% 0.012 260);
+  --color-silver-bg: oklch(58% 0.012 260 / 0.11);
+  --color-bronze: oklch(55% 0.09 55);
+  --color-bronze-bg: oklch(55% 0.09 55 / 0.11);
+
+  /* logo - themeable, consumed by src/components/logo.tsx */
+  --color-logo-circle: #ffc40c;
+  --color-logo-star: #f99f1b;
+  --color-logo-subtract: #ffffff;
+
+  /* ICPC scoreboard cells */
+  --color-solve: var(--color-green-bg); /* accepted */
+  --color-solve-strong: var(--color-green-strong); /* first to solve */
+  --color-fail: var(--color-red-bg); /* tried, not solved */
+
+  --font-sans: var(--font-gotham), 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, Menlo, Consolas, monospace;
+
+  /* Type scale - the only font sizes used in JSX (text-3xs … text-3xl).
+     xs / sm / lg / 3xl keep Tailwind defaults and are listed for completeness. */
+  --text-3xs: 0.5625rem; /* 9px - medal pip letters, scoreboard cell tries */
+  --text-3xs--line-height: 1.3;
+  --text-2xs: 0.65625rem; /* 10.5px - mono micro-labels, handles, captions */
+  --text-2xs--line-height: 1.4;
+  --text-body: 0.8125rem; /* 13px - default body, table cells */
+  --text-body--line-height: 1.45;
+  --text-md: 0.9375rem; /* 15px - emphasized row titles */
+  --text-md--line-height: 1.4;
+  --text-xl: 1.375rem; /* 22px - section numerals */
+  --text-xl--line-height: 1.2;
+  --text-stat: 1.625rem; /* 26px - big stat numerals */
+  --text-stat--line-height: 1;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────────────────
+   App-shell scrolling: the viewport never scrolls (header stays full-bleed);
+   the content area below the header scrolls instead, with
+   `scrollbar-gutter: stable` so short ↔ long navigation never shifts layout.
+   The gutter sits inside the white content area, so it is invisible when
+   empty. Thumb is a slim pill (line-strong → ink-faint on hover). */
+
+/* Firefox (no ::-webkit-scrollbar support) */
+@supports not selector(::-webkit-scrollbar) {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-line-strong) transparent;
+  }
+}
+
+/* Chrome / Edge / Safari */
+::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--color-line-strong);
+  border: 4px solid transparent; /* inset padding around the pill */
+  border-radius: 999px;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover,
+::-webkit-scrollbar-thumb:active {
+  background-color: var(--color-ink-faint);
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* micro-label - mono uppercase, SPEC §12.3 */
+.label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  color: var(--color-ink-soft);
+}
+
+/* large result tables: skip layout/paint for off-screen rows.
+   Content stays in SSR HTML - no SEO impact. */
+.cv-row {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 56px;
+}
+
+/* one-time staggered entrance - SPEC §12.5 */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+  }
+}
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

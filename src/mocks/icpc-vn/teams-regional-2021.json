@@ -1,0 +1,6077 @@
+[
+ {
+  "id": "t-rvn21-1",
+  "slug": "hcmus-flamingtomatoes-rvn21",
+  "name": "HCMUS-FlamingTomatoes",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 1,
+   "solved": 11,
+   "penalty": 875,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 147
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 15
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 101,
+     "firstSolve": true
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 5,
+     "firstSolve": true
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 6,
+     "solvedAt": 242
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 48,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-2",
+  "slug": "pendle-rvn21",
+  "name": "PENDLE",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 2,
+   "solved": 11,
+   "penalty": 989,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 4
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 89,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 164
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 188
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 192
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 139
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 20,
+     "firstSolve": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-3",
+  "slug": "hcmiu-thinkingtourists-rvn21",
+  "name": "HCMIU_ThinkingTourists",
+  "organizationId": "o-iu-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 3,
+   "solved": 10,
+   "penalty": 654,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 215
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 59,
+     "firstSolve": true
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 157
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 100
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 2
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 38
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-4",
+  "slug": "hcmus-rationalkittens-rvn21",
+  "name": "HCMUS-RationalKitteNs",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 4,
+   "solved": 10,
+   "penalty": 1091,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 253
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "E",
+     "tries": 5,
+     "solvedAt": 182
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 191
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "K",
+     "tries": 6,
+     "solvedAt": 139
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 76
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-5",
+  "slug": "meld-rvn21",
+  "name": "Meld",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 5,
+   "solved": 10,
+   "penalty": 1098,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 4,
+     "solvedAt": 229,
+     "firstSolve": true
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "E",
+     "tries": 3,
+     "solvedAt": 159
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 217
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "I",
+     "tries": 4
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 89
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 71
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-6",
+  "slug": "ethereum-rvn21",
+  "name": "Ethereum",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 6,
+   "solved": 9,
+   "penalty": 584,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 194
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 3,
+     "solvedAt": 117
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 44
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-7",
+  "slug": "nano-rvn21",
+  "name": "NANO",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 7,
+   "solved": 9,
+   "penalty": 616,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 198
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "E",
+     "tries": 4,
+     "solvedAt": 170
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 71
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-8",
+  "slug": "hcmus-clique-rvn21",
+  "name": "HCMUS-Clique",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 8,
+   "solved": 9,
+   "penalty": 668,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 261
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 136
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 8,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 66
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 101
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-9",
+  "slug": "vaccinated-rvn21",
+  "name": "Vaccinated",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 9,
+   "solved": 9,
+   "penalty": 751,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "C",
+     "tries": 6,
+     "solvedAt": 296
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 3,
+     "firstSolve": true
+    },
+    {
+     "label": "E",
+     "tries": 2,
+     "solvedAt": 108
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 63
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-10",
+  "slug": "secret-rvn21",
+  "name": "Secret",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 10,
+   "solved": 9,
+   "penalty": 1123,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "E",
+     "tries": 4,
+     "solvedAt": 226
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 99
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 79
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 275
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 138
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 84
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-11",
+  "slug": "quark-rvn21",
+  "name": "Quark",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 11,
+   "solved": 8,
+   "penalty": 522,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "E",
+     "tries": 4,
+     "solvedAt": 151
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 102
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 8
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 56
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-12",
+  "slug": "bkdn-natural-rvn21",
+  "name": "BKDN.Natural",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 12,
+   "solved": 8,
+   "penalty": 580,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "E",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 256
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 33
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 106
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 59
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-13",
+  "slug": "fptu-refresh-rvn21",
+  "name": "FPTU Refresh",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 13,
+   "solved": 8,
+   "penalty": 615,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 164
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 177
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 100
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-14",
+  "slug": "tld-rvn21",
+  "name": "TLD",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 14,
+   "solved": 8,
+   "penalty": 620,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 131
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 41
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 159,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 64
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-15",
+  "slug": "juhustsu-rvn21",
+  "name": "juhustsu",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 15,
+   "solved": 8,
+   "penalty": 647,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 3,
+     "solvedAt": 185
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 66
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 126
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-16",
+  "slug": "lowkeyboi-rvn21",
+  "name": "LowkeyBoi",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 16,
+   "solved": 8,
+   "penalty": 673,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 236
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 151
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 67
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-17",
+  "slug": "hcmut-35p-rvn21",
+  "name": "HCMUT 35P",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 17,
+   "solved": 8,
+   "penalty": 810,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 96
+    },
+    {
+     "label": "G",
+     "tries": 6,
+     "solvedAt": 258
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 150
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 73
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-18",
+  "slug": "uit-ethereum-rvn21",
+  "name": "UIT.Ethereum",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 18,
+   "solved": 8,
+   "penalty": 818,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 68
+    },
+    {
+     "label": "G",
+     "tries": 14
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 281
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 149
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 170
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-19",
+  "slug": "bkdn-complex-rvn21",
+  "name": "BKDN.Complex",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 19,
+   "solved": 8,
+   "penalty": 823,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "E",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 114
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 276
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 161
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 65
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-20",
+  "slug": "hcmut-onlyboysthelast-rvn21",
+  "name": "HCMUT OnlyBoysTheLast",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 20,
+   "solved": 8,
+   "penalty": 859,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "E",
+     "tries": 4,
+     "solvedAt": 299
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 60
+    },
+    {
+     "label": "G",
+     "tries": 15
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 167
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 68
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-21",
+  "slug": "atom-rvn21",
+  "name": "Atom",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 21,
+   "solved": 8,
+   "penalty": 941,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "G",
+     "tries": 13,
+     "solvedAt": 274
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 49
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 130
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 59
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-22",
+  "slug": "fptu-the-damn-virus-rvn21",
+  "name": "FPTU The Damn Virus",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 22,
+   "solved": 8,
+   "penalty": 988,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "E",
+     "tries": 2,
+     "solvedAt": 281
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 17
+    },
+    {
+     "label": "K",
+     "tries": 8,
+     "solvedAt": 289
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 1,
+     "firstSolve": true
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 159
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-23",
+  "slug": "hcmus-multiverse-rvn21",
+  "name": "HCMUS-Multiverse",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 23,
+   "solved": 7,
+   "penalty": 354,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 3
+    },
+    {
+     "label": "E",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 42
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 97
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 46
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-24",
+  "slug": "frostangel-rvn21",
+  "name": "FrostAngel",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 24,
+   "solved": 7,
+   "penalty": 379,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 124
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 92
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-25",
+  "slug": "knc-rvn21",
+  "name": "KNC",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 25,
+   "solved": 7,
+   "penalty": 380,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "E",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 92
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 87
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-26",
+  "slug": "neu-two-rvn21",
+  "name": "NEU_TWO",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 26,
+   "solved": 7,
+   "penalty": 393,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 58
+    },
+    {
+     "label": "G",
+     "tries": 7
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 26
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 107
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-27",
+  "slug": "fuv-crescent-rvn21",
+  "name": "FUV_Crescent",
+  "organizationId": "o-fuv",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 27,
+   "solved": 7,
+   "penalty": 421,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 218
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 57
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-28",
+  "slug": "vinuni-gitgut-rvn21",
+  "name": "VinUni-GitGuT",
+  "organizationId": "o-vinuni",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 28,
+   "solved": 7,
+   "penalty": 430,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 8
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 77
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 140
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 97
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-29",
+  "slug": "bkdn-integer-rvn21",
+  "name": "BKDN.Integer",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 29,
+   "solved": 7,
+   "penalty": 456,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 181
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 160
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-30",
+  "slug": "uit-excalibur-rvn21",
+  "name": "UIT.Excalibur",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 30,
+   "solved": 7,
+   "penalty": 474,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 58
+    },
+    {
+     "label": "G",
+     "tries": 8
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 126
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 125
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-31",
+  "slug": "xanh9-rvn21",
+  "name": "XaNH9",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 31,
+   "solved": 7,
+   "penalty": 486,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 78
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 162
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 99
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-32",
+  "slug": "fptu-nemo-rvn21",
+  "name": "FPTU Nemo",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 32,
+   "solved": 7,
+   "penalty": 567,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "G",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 80
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 131,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 151
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-33",
+  "slug": "iuh-copypaste-rvn21",
+  "name": "IUH.CopyPaste",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 33,
+   "solved": 7,
+   "penalty": 597,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 37
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "E",
+     "tries": 4,
+     "solvedAt": 253
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 112
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 66
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-34",
+  "slug": "muforlife-rvn21",
+  "name": "MUForLife",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 34,
+   "solved": 7,
+   "penalty": 641,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 209
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 168
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-35",
+  "slug": "hcmus-dmh-rvn21",
+  "name": "HCMUS-DMH",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 35,
+   "solved": 7,
+   "penalty": 657,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 249
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 71
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 111
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-36",
+  "slug": "uit-aha-rvn21",
+  "name": "UIT.AHA",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 36,
+   "solved": 7,
+   "penalty": 671,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 101
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 232
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 141
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-37",
+  "slug": "uit-pdp-rvn21",
+  "name": "UIT.PDP",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 37,
+   "solved": 7,
+   "penalty": 682,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 141
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 136
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 5
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 170
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-38",
+  "slug": "hcmut-king-s-landing-rvn21",
+  "name": "HCMUT King's Landing",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 38,
+   "solved": 7,
+   "penalty": 737,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 59
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 39
+    },
+    {
+     "label": "K",
+     "tries": 6,
+     "solvedAt": 293
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 102
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-39",
+  "slug": "ptit-3ga-rvn21",
+  "name": "PTIT.3ga",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 39,
+   "solved": 7,
+   "penalty": 788,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 117
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 65
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 128
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 210
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 108
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-40",
+  "slug": "fptu-codingmonkeys-rvn21",
+  "name": "FPTU CodingMonkeys",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 40,
+   "solved": 7,
+   "penalty": 803,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 136
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 167
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 240
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 72
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-41",
+  "slug": "notemplate-rvn21",
+  "name": "noTemplate",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 41,
+   "solved": 7,
+   "penalty": 815,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 28
+    },
+    {
+     "label": "K",
+     "tries": 8,
+     "solvedAt": 285
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 173
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-42",
+  "slug": "hit-titans-rvn21",
+  "name": "HIT_TitanS",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 42,
+   "solved": 7,
+   "penalty": 867,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 31
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 177
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 267
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 154
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-43",
+  "slug": "bk-uwu-rvn21",
+  "name": "BK.UwU",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 43,
+   "solved": 7,
+   "penalty": 881,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 35
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 200
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 52
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 266
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 155
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-44",
+  "slug": "luna-rvn21",
+  "name": "Luna",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 44,
+   "solved": 7,
+   "penalty": 905,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "K",
+     "tries": 24,
+     "solvedAt": 186
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 77
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-45",
+  "slug": "the-chariot-rvn21",
+  "name": "The_Chariot",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 45,
+   "solved": 6,
+   "penalty": 311,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 94
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "K",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 54
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-46",
+  "slug": "bkdn-real-rvn21",
+  "name": "BKDN.Real",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 46,
+   "solved": 6,
+   "penalty": 321,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 86
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 126
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-47",
+  "slug": "hcmut-torment-therapy-rvn21",
+  "name": "HCMUT Torment Therapy",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 47,
+   "solved": 6,
+   "penalty": 405,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 35
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 81
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 17
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 142
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-48",
+  "slug": "panda-rvn21",
+  "name": "Panda",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 48,
+   "solved": 6,
+   "penalty": 436,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 66
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "G",
+     "tries": 7
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 85
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 168
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-49",
+  "slug": "the-phoenix-rises-rvn21",
+  "name": "The Phoenix Rises",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 49,
+   "solved": 6,
+   "penalty": 453,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 45
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 56
+    },
+    {
+     "label": "K",
+     "tries": 6
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 280
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-50",
+  "slug": "uit-meow-rvn21",
+  "name": "UIT.Meow",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 50,
+   "solved": 6,
+   "penalty": 470,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "E",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 119
+    },
+    {
+     "label": "K",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 197
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-51",
+  "slug": "ptit-nightbringer-rvn21",
+  "name": "PTIT.Nightbringer",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 51,
+   "solved": 6,
+   "penalty": 474,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 8
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 158
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 135
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-52",
+  "slug": "ftu-knights-2-rvn21",
+  "name": "FTU Knights 2",
+  "organizationId": "o-ftu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 52,
+   "solved": 6,
+   "penalty": 476,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 116
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 75
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 234
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-53",
+  "slug": "sgu-cutecute-rvn21",
+  "name": "SGU_CuteCute",
+  "organizationId": "o-sgu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 53,
+   "solved": 6,
+   "penalty": 477,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 163
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 26
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 93
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-54",
+  "slug": "mta-vnarmy-rvn21",
+  "name": "MTA_VnArmy",
+  "organizationId": "o-mta",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 54,
+   "solved": 6,
+   "penalty": 497,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 104
+    },
+    {
+     "label": "K",
+     "tries": 11
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 166
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-55",
+  "slug": "hcmussh-strangewaters-rvn21",
+  "name": "HCMUSSH-StrangeWaters",
+  "organizationId": "o-ussh-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 55,
+   "solved": 6,
+   "penalty": 538,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 44
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 129
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 65
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 206
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-56",
+  "slug": "ctu-monocarp-rvn21",
+  "name": "CTU.Monocarp",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 56,
+   "solved": 6,
+   "penalty": 544,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 91
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 149
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 223
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-57",
+  "slug": "fptu-nineoneone-rvn21",
+  "name": "FPTU NineOneOne",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 57,
+   "solved": 6,
+   "penalty": 567,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 120
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 279
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-58",
+  "slug": "revolution-rvn21",
+  "name": "Revolution",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 58,
+   "solved": 6,
+   "penalty": 578,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 6
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 134
+    },
+    {
+     "label": "H",
+     "tries": 5,
+     "solvedAt": 57
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 252
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-59",
+  "slug": "ptithcm-xylitol-rvn21",
+  "name": "PTITHCM.Xylitol",
+  "organizationId": "o-ptit-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 59,
+   "solved": 6,
+   "penalty": 643,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 180
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 282
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-60",
+  "slug": "allrussea-rvn21",
+  "name": "AllRusSea",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 60,
+   "solved": 6,
+   "penalty": 644,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 144
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 93
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 36
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 180
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-61",
+  "slug": "bk-starbugs-rvn21",
+  "name": "BK_StarBugs",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 61,
+   "solved": 6,
+   "penalty": 648,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 16
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 149
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 62
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 257
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-62",
+  "slug": "ctu-banhpia-rvn21",
+  "name": "CTU.BanhPia",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 62,
+   "solved": 6,
+   "penalty": 649,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 70
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 73
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 112
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 277
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-63",
+  "slug": "rmit-raka-rvn21",
+  "name": "RMIT - Raka",
+  "organizationId": "o-rmit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 63,
+   "solved": 6,
+   "penalty": 653,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 187
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 54
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 245
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-64",
+  "slug": "tdmu-a-rvn21",
+  "name": "TDMU_A",
+  "organizationId": "o-tdmu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 64,
+   "solved": 6,
+   "penalty": 665,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 249
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 102
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 206
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-65",
+  "slug": "duy-tan-snmb-rvn21",
+  "name": "Duy Tan SNMB",
+  "organizationId": "o-dtu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 65,
+   "solved": 6,
+   "penalty": 674,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 136
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 90
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 37
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 203
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-66",
+  "slug": "phe-runtime-error-squad-rvn21",
+  "name": "PHE.\"Runtime Error Squad\"",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 66,
+   "solved": 6,
+   "penalty": 736,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "D",
+     "tries": 5,
+     "solvedAt": 36
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 160
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 18
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 229
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-67",
+  "slug": "ptit-echkidieu-rvn21",
+  "name": "PTIT.echkidieu",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 67,
+   "solved": 6,
+   "penalty": 744,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 64
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 165
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 103
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 268
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-68",
+  "slug": "segment-fault-rvn21",
+  "name": "Segment Fault",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 68,
+   "solved": 6,
+   "penalty": 806,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 115
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 139
+    },
+    {
+     "label": "K",
+     "tries": 6,
+     "solvedAt": 288
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 45
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-69",
+  "slug": "uit-explosion-rvn21",
+  "name": "UIT.Explosion",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 69,
+   "solved": 5,
+   "penalty": 200,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 107
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 39
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-70",
+  "slug": "ut1-rvn21",
+  "name": "UT1",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 70,
+   "solved": 5,
+   "penalty": 251,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 115
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-71",
+  "slug": "computer-vision-rvn21",
+  "name": "Computer Vision",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 71,
+   "solved": 5,
+   "penalty": 261,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 64
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-72",
+  "slug": "technophobes-rvn21",
+  "name": "Technophobes",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 72,
+   "solved": 5,
+   "penalty": 266,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 125
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 5
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-73",
+  "slug": "ptithcm-anhbana-rvn21",
+  "name": "PTITHCM.AnhBanA",
+  "organizationId": "o-ptit-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 73,
+   "solved": 5,
+   "penalty": 373,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 164
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 68
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 5
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-74",
+  "slug": "sgou21-rvn21",
+  "name": "SGOU21",
+  "organizationId": "o-ou-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 74,
+   "solved": 5,
+   "penalty": 394,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 93
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 141
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 21
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-75",
+  "slug": "sea1-rvn21",
+  "name": "SEA1",
+  "organizationId": "o-ntu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 75,
+   "solved": 5,
+   "penalty": 418,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 37
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 21
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 201
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-76",
+  "slug": "tlu-geobyte-mtp-rvn21",
+  "name": "TLU_GeoByte_MTP",
+  "organizationId": "o-thanglong-u",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 76,
+   "solved": 5,
+   "penalty": 441,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 62
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 85
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 121
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 143
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-77",
+  "slug": "hus-penguin-ok-rvn21",
+  "name": "HUS.penguin_OK",
+  "organizationId": "o-hus-vnu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 77,
+   "solved": 5,
+   "penalty": 441,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 183
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 5,
+     "solvedAt": 104
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-78",
+  "slug": "psa-bigc500moi-rvn21",
+  "name": "PSA_BigC500moi",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 78,
+   "solved": 5,
+   "penalty": 450,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 36
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 121
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 214
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 13
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-79",
+  "slug": "hus-lmt-rvn21",
+  "name": "HUS.LMT",
+  "organizationId": "o-hus-vnu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 79,
+   "solved": 5,
+   "penalty": 453,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 23
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 141
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 72
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-80",
+  "slug": "sgu-arwin-rvn21",
+  "name": "SGU_ArWin",
+  "organizationId": "o-sgu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 80,
+   "solved": 5,
+   "penalty": 506,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 169
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 39
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 144
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "M",
+     "tries": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-81",
+  "slug": "ppa-dmt-rvn21",
+  "name": "PPA_DMT",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 81,
+   "solved": 5,
+   "penalty": 512,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 73
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 224
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 130
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-82",
+  "slug": "ppa-vam-rvn21",
+  "name": "PPA_VAM",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 82,
+   "solved": 5,
+   "penalty": 542,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 71
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 266
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 103
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 13
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-83",
+  "slug": "jungle-rvn21",
+  "name": "Jungle",
+  "organizationId": "o-utc",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 83,
+   "solved": 5,
+   "penalty": 556,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 37
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 181
+    },
+    {
+     "label": "G",
+     "tries": 8
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 197
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-84",
+  "slug": "hou-k18-rvn21",
+  "name": "HOU - K18",
+  "organizationId": "o-hou",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 84,
+   "solved": 5,
+   "penalty": 557,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 295
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 75
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-85",
+  "slug": "neu-three-rvn21",
+  "name": "NEU_THREE",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 85,
+   "solved": 5,
+   "penalty": 625,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 290
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 172
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-86",
+  "slug": "vku-02-rvn21",
+  "name": "VKU_02",
+  "organizationId": "o-vku",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 86,
+   "solved": 5,
+   "penalty": 643,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 19
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 142
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 288
+    },
+    {
+     "label": "K",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-87",
+  "slug": "navy-tak-rvn21",
+  "name": "NAVY.TAK",
+  "organizationId": "o-naval",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 87,
+   "solved": 5,
+   "penalty": 682,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 6,
+     "solvedAt": 146
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 90
+    },
+    {
+     "label": "H",
+     "tries": 6,
+     "solvedAt": 177
+    },
+    {
+     "label": "K",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "M",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-88",
+  "slug": "iuh-god-of-mischief-rvn21",
+  "name": "IUH. God_of_Mischief",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 88,
+   "solved": 5,
+   "penalty": 688,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 52
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 25
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 144
+    },
+    {
+     "label": "H",
+     "tries": 7,
+     "solvedAt": 223
+    },
+    {
+     "label": "K",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-89",
+  "slug": "aof-tigers-rvn21",
+  "name": "AOF.Tigers",
+  "organizationId": "o-aof",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 89,
+   "solved": 5,
+   "penalty": 700,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 140
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 160
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 202
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-90",
+  "slug": "ctu-chicken-rvn21",
+  "name": "CTU.Chicken",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 90,
+   "solved": 5,
+   "penalty": 781,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 73
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 115
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 288
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 152
+    },
+    {
+     "label": "K",
+     "tries": 6
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 13
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-91",
+  "slug": "ppa-ktc-rvn21",
+  "name": "PPA_KTC",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 91,
+   "solved": 5,
+   "penalty": 811,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 170
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 117
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 265
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 223
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-92",
+  "slug": "huflit-numberone-rvn21",
+  "name": "HUFLIT.NumberOne",
+  "organizationId": "o-huflit",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 92,
+   "solved": 5,
+   "penalty": 978,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 81
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 92
+    },
+    {
+     "label": "F",
+     "tries": 7,
+     "solvedAt": 262
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 281
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 42
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-93",
+  "slug": "code-with-mr-son-rvn21",
+  "name": "Code with Mr. Son",
+  "organizationId": "o-hnue",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 93,
+   "solved": 5,
+   "penalty": 1031,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 165
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 259
+    },
+    {
+     "label": "H",
+     "tries": 12,
+     "solvedAt": 295
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-94",
+  "slug": "phe-f1-rvn21",
+  "name": "PHE.F1",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 94,
+   "solved": 4,
+   "penalty": 190,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 50
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-95",
+  "slug": "codeonpaper-rvn21",
+  "name": "CodeOnPaper",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 95,
+   "solved": 4,
+   "penalty": 196,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 60
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 18
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-96",
+  "slug": "fptu-b-team-rvn21",
+  "name": "FPTU B Team",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 96,
+   "solved": 4,
+   "penalty": 245,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 175
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 46
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-97",
+  "slug": "tlu-2022-rvn21",
+  "name": "TLU.2022",
+  "organizationId": "o-tlu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 97,
+   "solved": 4,
+   "penalty": 281,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 15
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "G",
+     "tries": 7
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 160
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-98",
+  "slug": "hcmiu-penguins-rvn21",
+  "name": "HCMIU_Penguins",
+  "organizationId": "o-iu-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 98,
+   "solved": 4,
+   "penalty": 354,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 179
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 35
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-99",
+  "slug": "haui-rickroll-rvn21",
+  "name": "HaUI_Rickroll",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 99,
+   "solved": 4,
+   "penalty": 392,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "H",
+     "tries": 7,
+     "solvedAt": 227
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-100",
+  "slug": "fuv-mall-rvn21",
+  "name": "FUV_Mall",
+  "organizationId": "o-fuv",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 100,
+   "solved": 4,
+   "penalty": 396,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 80
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 108
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 139
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 49
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-101",
+  "slug": "iuh-l4ever-rvn21",
+  "name": "IUH.L4ever",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 101,
+   "solved": 4,
+   "penalty": 415,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 279
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-102",
+  "slug": "siu-icpc01-rvn21",
+  "name": "SIU-ICPC01",
+  "organizationId": "o-siu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 102,
+   "solved": 4,
+   "penalty": 420,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 171
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 49
+    },
+    {
+     "label": "F",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 93
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-103",
+  "slug": "haui-the-three-amigos-rvn21",
+  "name": "HaUI_The_Three_Amigos",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 103,
+   "solved": 4,
+   "penalty": 424,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 195
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 41
+    },
+    {
+     "label": "F",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 8
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-104",
+  "slug": "ictu-three-musketeers-rvn21",
+  "name": "ICTU Three Musketeers",
+  "organizationId": "o-ictu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 104,
+   "solved": 4,
+   "penalty": 442,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "D",
+     "tries": 6,
+     "solvedAt": 74
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 161
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "M",
+     "tries": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-105",
+  "slug": "iuh-mang-non-rvn21",
+  "name": "IUH.Mang_Non",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 105,
+   "solved": 4,
+   "penalty": 711,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 104
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 160
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 258
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-106",
+  "slug": "hutech-it-rvn21",
+  "name": "HUTECH.IT",
+  "organizationId": "o-hutech",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 106,
+   "solved": 4,
+   "penalty": 822,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 243
+    },
+    {
+     "label": "D",
+     "tries": 5,
+     "solvedAt": 79
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 5,
+     "solvedAt": 273
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-107",
+  "slug": "hou-3idiots-rvn21",
+  "name": "HOU - 3Idiots",
+  "organizationId": "o-hou",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 107,
+   "solved": 4,
+   "penalty": 872,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 10,
+     "solvedAt": 214
+    },
+    {
+     "label": "D",
+     "tries": 6,
+     "solvedAt": 92
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 255
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-108",
+  "slug": "tlu-targetacpt-dht-rvn21",
+  "name": "TLU_TargetAcpt_DHT",
+  "organizationId": "o-thanglong-u",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 108,
+   "solved": 3,
+   "penalty": 385,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 91
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 260
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-109",
+  "slug": "tcu-kgm-rvn21",
+  "name": "TCU.KGM",
+  "organizationId": "o-tcu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 109,
+   "solved": 2,
+   "penalty": 125,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 88
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 37
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-110",
+  "slug": "hcmue-spirit-rvn21",
+  "name": "<--HCMUE.Spirit--<",
+  "organizationId": "o-hcmue",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 110,
+   "solved": 2,
+   "penalty": 131,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 86
+    },
+    {
+     "label": "D",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-111",
+  "slug": "t06-doritos-rvn21",
+  "name": "T06_Doritos",
+  "organizationId": "o-ufp",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 111,
+   "solved": 2,
+   "penalty": 150,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 8
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 65
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-112",
+  "slug": "39hz-rvn21",
+  "name": "39hz",
+  "organizationId": "o-vmu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 112,
+   "solved": 2,
+   "penalty": 218,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 109
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 49
+    },
+    {
+     "label": "M",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-113",
+  "slug": "tdmu-kca-rvn21",
+  "name": "TDMU_KCA",
+  "organizationId": "o-tdmu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 113,
+   "solved": 2,
+   "penalty": 255,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 6
+    },
+    {
+     "label": "F",
+     "tries": 5
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 239
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-114",
+  "slug": "vku-04-rvn21",
+  "name": "VKU_04",
+  "organizationId": "o-vku",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 114,
+   "solved": 2,
+   "penalty": 282,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 222
+    },
+    {
+     "label": "D",
+     "tries": 6
+    },
+    {
+     "label": "K",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-115",
+  "slug": "ftu-knights-1-rvn21",
+  "name": "FTU Knights 1",
+  "organizationId": "o-ftu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 115,
+   "solved": 2,
+   "penalty": 302,
+   "problems": [
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 265
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-116",
+  "slug": "ute-udn-j4f-rvn21",
+  "name": "UTE_UDN_J4F",
+  "organizationId": "o-ute-dn",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 116,
+   "solved": 1,
+   "penalty": 18,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 18
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-117",
+  "slug": "ut2-rvn21",
+  "name": "UT2",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 117,
+   "solved": 1,
+   "penalty": 27,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-118",
+  "slug": "hdu-1-2022-rvn21",
+  "name": "HDU_1_2022",
+  "organizationId": "o-hdu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 118,
+   "solved": 1,
+   "penalty": 38,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 38
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-119",
+  "slug": "yud-pine-rvn21",
+  "name": "YUD-PINE",
+  "organizationId": "o-yersin",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 119,
+   "solved": 1,
+   "penalty": 90,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-120",
+  "slug": "hcmue-frost-s-descent-rvn21",
+  "name": "HCMUE.Frost's Descent",
+  "organizationId": "o-hcmue",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 120,
+   "solved": 1,
+   "penalty": 125,
+   "problems": [
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 125
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-121",
+  "slug": "ued-noname-rvn21",
+  "name": "UED.noname",
+  "organizationId": "o-ued-dn",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 121,
+   "solved": 1,
+   "penalty": 209,
+   "problems": [
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 109
+    },
+    {
+     "label": "M",
+     "tries": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-122",
+  "slug": "ut3-rvn21",
+  "name": "UT3",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 122,
+   "solved": 1,
+   "penalty": 228,
+   "problems": [
+    {
+     "label": "L",
+     "tries": 8,
+     "solvedAt": 88
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-123",
+  "slug": "duy-tan-dnl-rvn21",
+  "name": "Duy Tan DNL",
+  "organizationId": "o-dtu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 123,
+   "solved": 1,
+   "penalty": 297,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 10,
+     "solvedAt": 117
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn21-124",
+  "slug": "fptpl-poly-01-rvn21",
+  "name": "FPTPL Poly_01",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 124,
+   "solved": 0,
+   "penalty": 0,
+   "problems": []
+  }
+ },
+ {
+  "id": "t-rvn21-125",
+  "slug": "psa-tripleh-rvn21",
+  "name": "PSA_TripleH",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 124,
+   "solved": 0,
+   "penalty": 0,
+   "problems": []
+  }
+ },
+ {
+  "id": "t-rvn21-126",
+  "slug": "eiu-risolverex-rvn21",
+  "name": "EIU RisolvereX",
+  "organizationId": "o-eiu",
+  "contestEditionId": "e-icpc-regional-vn-2021",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 124,
+   "solved": 0,
+   "penalty": 0,
+   "problems": []
+  }
+ }
+]

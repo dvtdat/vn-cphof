@@ -1,0 +1,2446 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VN CP Hall of Fame - Hi-fi design preview</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* SVN-Gotham - licensed family, files live in src/fonts/svn-gotham/ */
+      @font-face {
+        font-family: 'SVN-Gotham';
+        src: url('src/fonts/svn-gotham/SVN-Gotham-Book.otf') format('opentype');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SVN-Gotham';
+        src: url('src/fonts/svn-gotham/SVN-Gotham-Book-Italic.otf')
+          format('opentype');
+        font-weight: 400;
+        font-style: italic;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SVN-Gotham';
+        src: url('src/fonts/svn-gotham/SVN-Gotham-Regular.otf')
+          format('opentype');
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SVN-Gotham';
+        src: url('src/fonts/svn-gotham/SVN-Gotham-Bold.otf') format('opentype');
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: 'SVN-Gotham';
+        src: url('src/fonts/svn-gotham/SVN-Gotham-Black.otf') format('opentype');
+        font-weight: 800;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      :root {
+        --paper: #faf9f5;
+        --card: #ffffff;
+        --ink: #1c1b17;
+        --ink-soft: #6e6b62;
+        --ink-faint: #a8a49a;
+        --line: #e7e4dc;
+        --line-strong: #cfcbbf;
+        --accent: #08558c;
+        --accent-deep: #07406b;
+        --accent-soft: rgba(8, 85, 140, 0.06);
+        --accent-softer: rgba(8, 85, 140, 0.035);
+        --gold: #a8821f;
+        --gold-bg: rgba(168, 130, 31, 0.1);
+        --silver: #81817b;
+        --silver-bg: rgba(129, 129, 123, 0.1);
+        --bronze: #9a6537;
+        --bronze-bg: rgba(154, 101, 55, 0.1);
+        --logo-circle: #ffc40c;
+        --logo-star: #f99f1b;
+        --logo-subtract: #ffffff;
+        --sans:
+          'SVN-Gotham', 'Montserrat', 'Helvetica Neue', Helvetica, Arial,
+          sans-serif;
+        --mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+        --container: 1180px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--sans);
+        font-size: 14px;
+        line-height: 1.45;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+      }
+      a {
+        color: inherit;
+      }
+      button {
+        font: inherit;
+      }
+      :focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+        border-radius: 2px;
+      }
+      .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+        white-space: nowrap;
+      }
+
+      /* ============ Review chrome (not part of the product) ============ */
+      .review-bar {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: var(--ink);
+        color: #edebe4;
+        display: flex;
+        align-items: center;
+        gap: 18px;
+        padding: 0 22px;
+        height: 46px;
+        font-family: var(--mono);
+        font-size: 11px;
+      }
+      .review-bar .rb-title {
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #b9b5a9;
+        white-space: nowrap;
+      }
+      .review-bar .rb-title b {
+        color: #fff;
+        font-weight: 600;
+      }
+      .review-tabs {
+        display: flex;
+        gap: 2px;
+        margin-left: 6px;
+      }
+      .review-tabs button {
+        background: none;
+        border: none;
+        color: #b9b5a9;
+        cursor: pointer;
+        font-family: var(--mono);
+        font-size: 11px;
+        letter-spacing: 0.5px;
+        padding: 6px 12px;
+        border-radius: 4px;
+      }
+      .review-tabs button:hover {
+        color: #fff;
+        background: #ffffff14;
+      }
+      .review-tabs button[aria-current='true'] {
+        color: #fff;
+        background: #ffffff1f;
+        font-weight: 600;
+      }
+      .review-bar .rb-meta {
+        margin-left: auto;
+        color: #8a867b;
+        white-space: nowrap;
+      }
+
+      /* ============ Product: site header ============ */
+      .site-header {
+        background: var(--accent);
+        color: #fff;
+      }
+      .site-header-inner {
+        max-width: var(--container);
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        gap: 28px;
+        padding: 18px 24px;
+      }
+      .wordmark {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        text-decoration: none;
+      }
+      .emblem {
+        width: 34px;
+        height: 34px;
+        flex: 0 0 auto;
+        background: var(--accent);
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        border-radius: 3px;
+      }
+      .wordmark-text {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+      }
+      .wordmark-text .wm-top {
+        font-family: var(--mono);
+        font-size: 9px;
+        letter-spacing: 2.2px;
+        text-transform: uppercase;
+        color: #ffffffb3;
+        white-space: nowrap;
+      }
+      .wordmark-text .wm-name {
+        font-weight: 800;
+        font-size: 15px;
+        letter-spacing: -0.2px;
+        line-height: 1.1;
+        color: #fff;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .site-nav {
+        display: flex;
+        gap: 4px;
+        margin-left: 10px;
+      }
+      .site-nav a {
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 13px;
+        color: #ffffffbf;
+        padding: 7px 11px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .site-nav a:hover {
+        color: #fff;
+        background: #ffffff1a;
+      }
+      .site-nav a[aria-current='page'] {
+        color: #fff;
+      }
+
+      .header-right {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
+      .lang-toggle {
+        display: inline-flex;
+        border: 1px solid #ffffff4d;
+        border-radius: 5px;
+        overflow: hidden;
+      }
+      .lang-toggle button {
+        border: none;
+        background: transparent;
+        color: #ffffff99;
+        cursor: pointer;
+        font-family: var(--mono);
+        font-size: 10.5px;
+        font-weight: 600;
+        padding: 6px 9px;
+      }
+      .lang-toggle button.on {
+        background: #fff;
+        color: var(--accent);
+      }
+      .kbd-hint {
+        font-size: 12.5px;
+        color: #ffffffb3;
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        width: 256px;
+        border: 1px solid #ffffff40;
+        border-radius: 6px;
+        padding: 8px 14px;
+        background: #ffffff1a;
+      }
+      .kbd-hint kbd {
+        font-family: var(--mono);
+        font-size: 10px;
+        border: 1px solid #ffffff40;
+        border-radius: 4px;
+        padding: 1px 6px;
+        color: #ffffff99;
+      }
+
+      /* ============ Layout ============ */
+      .page {
+        max-width: var(--container);
+        margin: 0 auto;
+        padding: 38px 24px 90px;
+      }
+      .screen {
+        display: none;
+      }
+      .screen.active {
+        display: block;
+      }
+
+      /* staggered row reveal on screen switch - restrained, one-time */
+      @media (prefers-reduced-motion: no-preference) {
+        .screen.active .reveal {
+          animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+        }
+        .screen.active .reveal:nth-child(1) {
+          animation-delay: 0.02s;
+        }
+        .screen.active .reveal:nth-child(2) {
+          animation-delay: 0.05s;
+        }
+        .screen.active .reveal:nth-child(3) {
+          animation-delay: 0.08s;
+        }
+        .screen.active .reveal:nth-child(4) {
+          animation-delay: 0.11s;
+        }
+        .screen.active .reveal:nth-child(5) {
+          animation-delay: 0.14s;
+        }
+        .screen.active .reveal:nth-child(6) {
+          animation-delay: 0.17s;
+        }
+        .screen.active .reveal:nth-child(7) {
+          animation-delay: 0.2s;
+        }
+        .screen.active .reveal:nth-child(8) {
+          animation-delay: 0.23s;
+        }
+        .screen.active .reveal:nth-child(9) {
+          animation-delay: 0.26s;
+        }
+        .screen.active .reveal:nth-child(10) {
+          animation-delay: 0.29s;
+        }
+      }
+      @keyframes rise {
+        from {
+          opacity: 0;
+          transform: translateY(6px);
+        }
+        to {
+          opacity: 1;
+          transform: none;
+        }
+      }
+
+      /* ============ Type ============ */
+      h1,
+      h2,
+      h3 {
+        margin: 0;
+        letter-spacing: -0.4px;
+      }
+      .h1 {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.1;
+      }
+      .h3 {
+        font-size: 18px;
+        font-weight: 800;
+      }
+      .sub {
+        color: var(--ink-soft);
+        font-size: 13px;
+        margin-top: 5px;
+      }
+      .label {
+        font-family: var(--mono);
+        font-size: 10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 1.4px;
+        color: var(--ink-soft);
+      }
+      .mono {
+        font-family: var(--mono);
+      }
+      .soft {
+        color: var(--ink-soft);
+      }
+      .faint {
+        color: var(--ink-faint);
+      }
+      .num {
+        font-family: var(--mono);
+        font-variant-numeric: tabular-nums;
+      }
+
+      /* ============ Buttons / chips / tabs ============ */
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        font-weight: 700;
+        font-size: 13px;
+        cursor: pointer;
+        border: 1px solid var(--accent);
+        border-radius: 6px;
+        padding: 9px 18px;
+        background: var(--accent);
+        color: #fff;
+      }
+      .btn:hover {
+        background: var(--accent-deep);
+        border-color: var(--accent-deep);
+      }
+      .btn.ghost {
+        background: transparent;
+        color: var(--accent);
+      }
+      .btn.ghost:hover {
+        background: var(--accent-soft);
+      }
+      .btn.neutral {
+        border-color: var(--line-strong);
+        background: var(--card);
+        color: var(--ink-soft);
+      }
+      .btn.neutral:hover {
+        color: var(--ink);
+        border-color: var(--ink-faint);
+        background: var(--card);
+      }
+
+      .mode-tabs {
+        display: flex;
+        gap: 2px;
+        border-bottom: 1px solid var(--line-strong);
+        margin-top: 26px;
+      }
+      .mode-tab {
+        background: none;
+        border: none;
+        cursor: pointer;
+        font-size: 13.5px;
+        font-weight: 600;
+        color: var(--ink-soft);
+        padding: 10px 16px 11px;
+        border-bottom: 2px solid transparent;
+        margin-bottom: -1px;
+      }
+      .mode-tab:hover {
+        color: var(--ink);
+      }
+      .mode-tab[aria-selected='true'] {
+        color: var(--accent);
+        border-bottom-color: var(--accent);
+        font-weight: 700;
+      }
+
+      .filter-bar {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+        margin: 20px 0 6px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        cursor: pointer;
+        font-size: 12.5px;
+        font-weight: 500;
+        color: var(--ink);
+        border: 1px solid var(--line-strong);
+        background: var(--card);
+        padding: 7px 13px;
+        border-radius: 18px;
+      }
+      .chip:hover {
+        border-color: var(--ink-faint);
+      }
+      .chip .caret {
+        width: 0;
+        height: 0;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        border-top: 5px solid var(--ink-faint);
+      }
+      .chip.on {
+        border-color: var(--accent);
+        color: var(--accent);
+        background: var(--accent-soft);
+      }
+      .chip.on .caret {
+        border-top-color: var(--accent);
+      }
+
+      .search {
+        flex: 1 1 230px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        border: 1px solid var(--line-strong);
+        background: var(--card);
+        border-radius: 18px;
+        padding: 7px 14px;
+      }
+      .search svg {
+        flex: 0 0 auto;
+        color: var(--ink-faint);
+      }
+      .search input {
+        border: none;
+        background: none;
+        outline: none;
+        width: 100%;
+        font-family: var(--sans);
+        font-size: 12.5px;
+        color: var(--ink);
+      }
+      .search input::placeholder {
+        color: var(--ink-faint);
+      }
+
+      /* ============ Tables ============ */
+      table.data {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 14px;
+      }
+      table.data th {
+        text-align: left;
+        font-family: var(--mono);
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 1.3px;
+        text-transform: uppercase;
+        color: var(--ink-soft);
+        padding: 10px 14px;
+        border-bottom: 1px solid var(--line-strong);
+        white-space: nowrap;
+      }
+      table.data th.r,
+      table.data td.r {
+        text-align: right;
+      }
+      table.data td {
+        padding: 13px 14px;
+        border-bottom: 1px solid var(--line);
+        vertical-align: middle;
+      }
+      tr.person-row {
+        cursor: pointer;
+      }
+      tr.person-row:hover td {
+        background: var(--accent-soft);
+      }
+
+      td.rank-cell {
+        width: 56px;
+      }
+      .rank {
+        font-weight: 800;
+        font-size: 16px;
+        font-variant-numeric: tabular-nums;
+      }
+      tr.top3 td.rank-cell {
+        box-shadow: inset 3px 0 0 var(--accent);
+      }
+      tr.top3 .rank {
+        color: var(--accent);
+      }
+
+      .person {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .person .p-name {
+        font-weight: 700;
+        font-size: 13.5px;
+        line-height: 1.2;
+      }
+      .person .p-handle {
+        font-family: var(--mono);
+        font-size: 11px;
+        color: var(--ink-soft);
+        margin-top: 2px;
+      }
+
+      .avatar {
+        width: 38px;
+        height: 38px;
+        border-radius: 50%;
+        flex: 0 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 12.5px;
+        letter-spacing: 0.3px;
+        color: #fff;
+      }
+      .avatar.lg {
+        width: 108px;
+        height: 108px;
+        font-size: 32px;
+        border-radius: 10px;
+      }
+      .av-1 {
+        background: #4a6fa5;
+      }
+      .av-2 {
+        background: #6b7f5c;
+      }
+      .av-3 {
+        background: #9a6537;
+      }
+      .av-4 {
+        background: #7c6a8e;
+      }
+      .av-5 {
+        background: #4e8385;
+      }
+      .av-6 {
+        background: #a5705f;
+      }
+      .av-7 {
+        background: #5c748c;
+      }
+      .av-8 {
+        background: #8a7a4e;
+      }
+
+      /* medal tokens - color + letter + count, never color alone */
+      .medals {
+        display: inline-flex;
+        gap: 10px;
+        align-items: center;
+      }
+      .medal {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        font-family: var(--mono);
+        font-size: 12px;
+        font-weight: 600;
+      }
+      .medal .pip {
+        width: 17px;
+        height: 17px;
+        border-radius: 50%;
+        border: 1.5px solid;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 8.5px;
+        font-weight: 600;
+      }
+      .medal.g {
+        color: var(--gold);
+      }
+      .medal.g .pip {
+        border-color: var(--gold);
+        background: var(--gold-bg);
+      }
+      .medal.s {
+        color: var(--silver);
+      }
+      .medal.s .pip {
+        border-color: var(--silver);
+        background: var(--silver-bg);
+      }
+      .medal.b {
+        color: var(--bronze);
+      }
+      .medal.b .pip {
+        border-color: var(--bronze);
+        background: var(--bronze-bg);
+      }
+      .no-medal {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--ink-faint);
+      }
+
+      /* province tag */
+      .prov-tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--ink);
+        border: 1px solid var(--line);
+        background: var(--card);
+        border-radius: 5px;
+        padding: 4px 9px;
+        white-space: nowrap;
+      }
+      .prov-tag .pv {
+        width: 8px;
+        height: 8px;
+        border-radius: 2px;
+        flex: 0 0 auto;
+      }
+      .pv-hanoi {
+        background: #b23a48;
+      }
+      .pv-hcm {
+        background: #2e6e8e;
+      }
+      .pv-haiphong {
+        background: #c07a2d;
+      }
+      .pv-namdinh {
+        background: #5b7a4a;
+      }
+      .pv-bacninh {
+        background: #8e5c7c;
+      }
+      .pv-danang {
+        background: #3e7e78;
+      }
+      .pv-nghean {
+        background: #7a6a3e;
+      }
+      .pv-hue {
+        background: #6e5c8e;
+      }
+      .pv-cantho {
+        background: #4a7a5c;
+      }
+
+      /* linked accounts */
+      .accounts {
+        display: flex;
+        gap: 7px;
+        flex-wrap: wrap;
+      }
+      .acct {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: var(--mono);
+        font-size: 11px;
+        color: var(--ink-soft);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 5px 9px;
+        background: var(--card);
+      }
+      .acct:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+      .acct .glyph {
+        width: 15px;
+        height: 15px;
+        border-radius: 4px;
+        flex: 0 0 auto;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 8.5px;
+        font-weight: 600;
+        color: #fff;
+      }
+      .gl-cf {
+        background: #b23a48;
+      }
+      .gl-ac {
+        background: #555;
+      }
+      .gl-vn {
+        background: #2e6e8e;
+      }
+      .gl-tc {
+        background: #7c6a8e;
+      }
+      .gl-cc {
+        background: #8a7a4e;
+      }
+
+      /* stat cards */
+      .stat-row {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+      .stat-card {
+        border: 1px solid var(--line-strong);
+        background: var(--card);
+        border-radius: 8px;
+        padding: 14px 18px;
+        min-width: 116px;
+      }
+      .stat-card .big {
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 1;
+        font-variant-numeric: tabular-nums;
+      }
+      .stat-card .big.accent {
+        color: var(--accent);
+      }
+      .stat-card .label {
+        margin-top: 7px;
+      }
+
+      /* cards / boxes */
+      .box {
+        border: 1px solid var(--line-strong);
+        background: var(--card);
+        border-radius: 10px;
+      }
+      .divider {
+        border: none;
+        height: 1px;
+        background: var(--line);
+        margin: 26px 0;
+      }
+
+      /* ============ Profile ============ */
+      .profile-grid {
+        display: grid;
+        grid-template-columns: 300px 1fr;
+        gap: 28px;
+        align-items: start;
+      }
+      .rail {
+        position: sticky;
+        top: 64px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+      .id-card {
+        padding: 22px;
+      }
+      .id-card .name {
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: -0.3px;
+        margin-top: 16px;
+      }
+      .id-card .handle {
+        font-family: var(--mono);
+        font-size: 12px;
+        color: var(--ink-soft);
+        margin-top: 4px;
+      }
+      .id-card .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+        margin-top: 14px;
+      }
+      .lifetime {
+        padding: 18px 20px;
+      }
+      .lifetime-grid {
+        display: flex;
+        gap: 26px;
+        margin-top: 12px;
+      }
+      .lt {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+      .lt .n {
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 1;
+        font-variant-numeric: tabular-nums;
+      }
+      .lt.g .n {
+        color: var(--gold);
+      }
+      .lt.s .n {
+        color: var(--silver);
+      }
+      .lt.b .n {
+        color: var(--bronze);
+      }
+
+      .timeline {
+        position: relative;
+        padding-left: 30px;
+        margin-top: 16px;
+      }
+      .timeline::before {
+        content: '';
+        position: absolute;
+        left: 8px;
+        top: 6px;
+        bottom: 6px;
+        width: 1.5px;
+        background: var(--line-strong);
+      }
+      .tl-item {
+        position: relative;
+        padding-bottom: 24px;
+      }
+      .tl-item:last-child {
+        padding-bottom: 4px;
+      }
+      .tl-dot {
+        position: absolute;
+        left: -30px;
+        top: 3px;
+        width: 17px;
+        height: 17px;
+        border-radius: 50%;
+        border: 2px solid var(--line-strong);
+        background: var(--card);
+      }
+      .tl-dot.g {
+        border-color: var(--gold);
+        background: var(--gold-bg);
+      }
+      .tl-dot.s {
+        border-color: var(--silver);
+        background: var(--silver-bg);
+      }
+      .tl-dot.b {
+        border-color: var(--bronze);
+        background: var(--bronze-bg);
+      }
+      .tl-year {
+        font-family: var(--mono);
+        font-size: 10.5px;
+        color: var(--ink-soft);
+        letter-spacing: 0.5px;
+      }
+      .tl-title {
+        font-weight: 700;
+        font-size: 14px;
+        margin-top: 2px;
+      }
+      .tl-meta {
+        font-size: 12px;
+        color: var(--ink-soft);
+        margin-top: 2px;
+      }
+
+      .track-group {
+        margin-top: 22px;
+      }
+      table.track {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+      }
+      table.track td {
+        padding: 11px 12px;
+        border-bottom: 1px solid var(--line);
+        font-size: 13px;
+        vertical-align: middle;
+      }
+      table.track td.y {
+        width: 64px;
+        font-family: var(--mono);
+        font-size: 11.5px;
+        color: var(--ink-soft);
+      }
+      table.track td.c {
+        font-weight: 700;
+      }
+      table.track td.d {
+        color: var(--ink-soft);
+        font-size: 12.5px;
+      }
+      table.track td.a {
+        text-align: right;
+      }
+      .award-text {
+        font-family: var(--mono);
+        font-size: 11.5px;
+        color: var(--ink-soft);
+      }
+
+      /* verified badge */
+      .verified {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        font-family: var(--mono);
+        font-size: 10px;
+        color: var(--accent);
+        border: 1px solid var(--accent);
+        border-radius: 9px;
+        padding: 1px 7px;
+        background: var(--accent-soft);
+      }
+
+      /* ============ Contest ============ */
+      .contest-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        gap: 20px;
+        flex-wrap: wrap;
+      }
+      .crumb {
+        display: flex;
+        align-items: baseline;
+        gap: 9px;
+        margin-bottom: 10px;
+      }
+      .cutoffs {
+        margin-left: auto;
+        font-family: var(--mono);
+        font-size: 11px;
+        color: var(--ink-soft);
+        display: inline-flex;
+        gap: 14px;
+        align-items: center;
+      }
+
+      /* ============ Department ============ */
+      .prov-head {
+        display: flex;
+        gap: 22px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .seal {
+        width: 84px;
+        height: 84px;
+        border-radius: 50%;
+        flex: 0 0 auto;
+        border: 2px solid var(--accent);
+        color: var(--accent);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2px;
+        background: var(--accent-softer);
+      }
+      .seal .s-init {
+        font-weight: 800;
+        font-size: 24px;
+        letter-spacing: 1px;
+      }
+      .seal .s-star {
+        font-size: 9px;
+      }
+      .notables {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-top: 14px;
+      }
+      .notable {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        padding: 15px 16px;
+        cursor: pointer;
+      }
+      .notable:hover {
+        border-color: var(--accent);
+      }
+      .notable .n-name {
+        font-weight: 700;
+        font-size: 13px;
+      }
+      .notable .n-rank {
+        font-family: var(--mono);
+        font-size: 10.5px;
+        color: var(--ink-soft);
+        margin-top: 2px;
+      }
+      .notable .medals {
+        margin-top: 7px;
+      }
+
+      .section-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 34px;
+      }
+
+      .load-more {
+        display: flex;
+        justify-content: center;
+        margin-top: 24px;
+      }
+
+      /* ============ Review footnotes ============ */
+      .footnotes {
+        max-width: var(--container);
+        margin: 0 auto;
+        padding: 26px 24px 60px;
+        border-top: 1px dashed var(--line-strong);
+      }
+      .footnotes ol {
+        margin: 12px 0 0;
+        padding-left: 18px;
+        color: var(--ink-soft);
+        font-size: 12.5px;
+      }
+      .footnotes li {
+        margin-bottom: 6px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- ════════ Review chrome (delete when integrating) ════════ -->
+    <div
+      class="review-bar"
+      role="navigation"
+      aria-label="Design preview screens"
+    >
+      <span class="rb-title"><b>vn-cphof</b> · hi-fi preview</span>
+      <div class="review-tabs" id="reviewTabs">
+        <button data-screen="leaderboard" aria-current="true">
+          Leaderboard
+        </button>
+        <button data-screen="profile">Profile</button>
+        <button data-screen="contest">Contest</button>
+        <button data-screen="province">Department</button>
+      </div>
+      <span class="rb-meta"
+        >approach A × 4 · desktop 1180 · click any person row → profile</span
+      >
+    </div>
+
+    <!-- ════════ Product: site header ════════ -->
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a
+          class="wordmark"
+          href="#"
+          onclick="showScreen('leaderboard');return false;"
+        >
+          <svg
+            width="38"
+            height="38"
+            viewBox="0 0 187 183"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-hidden="true"
+            style="flex: 0 0 auto"
+          >
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M93.0586 0C144.453 0.000222344 186.116 40.8492 186.116 91.2383C186.116 141.627 144.453 182.475 93.0586 182.476C41.6641 182.476 0.000256569 141.627 0 91.2383C0 40.849 41.664 0 93.0586 0ZM94.1387 30.627C92.3109 30.627 90.5357 31.2278 89.0977 32.333C87.6192 33.4446 86.5324 34.9811 85.9893 36.7275L76.0586 68.1826H43.9971C42.8649 68.1774 41.7457 68.4195 40.7207 68.8906C39.6957 69.3485 38.7708 69.9968 37.998 70.7998C37.2092 71.6115 36.582 72.5612 36.1494 73.5986C35.6943 74.6733 35.4605 75.8258 35.4609 76.9893C35.465 78.3675 35.7802 79.7281 36.3848 80.9727C36.9869 82.2078 37.8873 83.2807 39.0068 84.0996L65.002 103.522L54.8691 134.944C54.5949 135.808 54.4535 136.707 54.4492 137.611C54.434 138.787 54.6682 139.953 55.1377 141.035C55.5743 142.075 56.201 143.029 56.9863 143.85C57.7611 144.639 58.6783 145.28 59.6914 145.742C60.7438 146.221 61.8926 146.463 63.0527 146.45C64.8758 146.483 66.6554 145.901 68.0938 144.804L94.1055 125.349L120.033 144.837C121.479 145.921 123.254 146.501 125.074 146.483C126.23 146.491 127.376 146.261 128.436 145.809C130.507 144.882 132.132 143.207 132.972 141.134C133.408 140.055 133.63 138.904 133.627 137.743C133.613 136.807 133.472 135.877 133.207 134.978L123.276 103.522L149.339 84.0996C150.454 83.2761 151.352 82.2041 151.96 80.9727C152.564 79.7281 152.881 78.3675 152.885 76.9893C152.909 75.8246 152.697 74.6664 152.263 73.582C151.834 72.5385 151.201 71.5871 150.397 70.7832C149.635 69.9762 148.715 69.327 147.692 68.874C146.641 68.3935 145.491 68.1513 144.331 68.166H112.203L102.238 36.7275C101.7 34.9917 100.632 33.4585 99.1797 32.333C97.7416 31.2278 95.9665 30.627 94.1387 30.627Z"
+              fill="var(--logo-subtract)"
+            />
+          </svg>
+          <span class="wordmark-text">
+            <span class="wm-top">Vietnam | Competitive Programming</span>
+            <span class="wm-name">HALL OF FAME</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a
+            href="#"
+            data-nav="leaderboard"
+            aria-current="page"
+            onclick="showScreen('leaderboard');return false;"
+            >Leaderboard</a
+          >
+          <a
+            href="#"
+            data-nav="contest"
+            onclick="showScreen('contest');return false;"
+            >Contests</a
+          >
+          <a
+            href="#"
+            data-nav="province"
+            onclick="showScreen('province');return false;"
+            >Departments</a
+          >
+          <a href="#">Organizations</a>
+          <a href="#">About</a>
+        </nav>
+        <div class="header-right">
+          <span class="kbd-hint">Search… <kbd>⌘K</kbd></span>
+          <div class="lang-toggle" role="group" aria-label="Language">
+            <button class="on" aria-pressed="true">VI</button>
+            <button aria-pressed="false">EN</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="page">
+      <!-- ════════════════ SCREEN 1 · Leaderboard (Approach A: dense ranked table) ════════════════ -->
+      <section
+        class="screen active"
+        id="screen-leaderboard"
+        aria-label="Leaderboard"
+      >
+        <div
+          class="reveal"
+          style="
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 20px;
+          "
+        >
+          <div>
+            <h1 class="h1">Hall of Fame</h1>
+            <p class="sub">
+              Vietnam Competitive Programming · permanent record
+            </p>
+          </div>
+          <!-- "+ Submit a profile" button intentionally absent: /submit ships in Phase 2 (SPEC §2) -->
+        </div>
+
+        <div class="mode-tabs reveal" role="tablist" aria-label="Ranking mode">
+          <button class="mode-tab" role="tab" aria-selected="true">
+            Overall
+          </button>
+          <button class="mode-tab" role="tab" aria-selected="false">IOI</button>
+          <button class="mode-tab" role="tab" aria-selected="false">
+            APIO
+          </button>
+          <button class="mode-tab" role="tab" aria-selected="false">
+            ICPC
+          </button>
+          <button class="mode-tab" role="tab" aria-selected="false">VOI</button>
+          <button class="mode-tab" role="tab" aria-selected="false">OLP</button>
+          <button class="mode-tab" role="tab" aria-selected="false">
+            Departmental
+          </button>
+        </div>
+
+        <div class="filter-bar reveal">
+          <button class="chip">Contest <span class="caret"></span></button>
+          <button class="chip">Department <span class="caret"></span></button>
+          <button class="chip">Organization <span class="caret"></span></button>
+          <button class="chip">Year <span class="caret"></span></button>
+          <button class="chip">Achievement <span class="caret"></span></button>
+          <label class="search">
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.4"
+              aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="7" />
+              <line x1="21" y1="21" x2="16.5" y2="16.5" />
+            </svg>
+            <input
+              type="search"
+              placeholder="Search people…"
+              aria-label="Search people"
+            />
+          </label>
+        </div>
+
+        <table class="data reveal">
+          <caption class="sr-only">
+            Overall ranking of Vietnamese competitive programmers
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Person</th>
+              <th scope="col">Department</th>
+              <th scope="col">Medals</th>
+              <th scope="col" class="r" aria-sort="descending">Score ▾</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">1</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-1">LM</span
+                  ><span
+                    ><span class="p-name">Lê Quang Minh</span><br /><span
+                      class="p-handle"
+                      >@minhlq</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hanoi"></span>Hà Nội</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>3</span
+                  ><span class="medal s"
+                    ><span class="pip">S</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 980</td>
+            </tr>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">2</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-2">TP</span
+                  ><span
+                    ><span class="p-name">Trần Hữu Phúc</span><br /><span
+                      class="p-handle"
+                      >@phuctran</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hcm"></span>TP. Hồ Chí Minh</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>2</span
+                  ><span class="medal s"><span class="pip">S</span>2</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 871</td>
+            </tr>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">3</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-3">BA</span
+                  ><span
+                    ><span class="p-name">Nguyễn Bảo Anh</span><br /><span
+                      class="p-handle"
+                      >@baoanh</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-haiphong"></span>Hải Phòng</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>2</span
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 790</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">4</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-4">DD</span
+                  ><span
+                    ><span class="p-name">Phạm Đức Duy</span><br /><span
+                      class="p-handle"
+                      >@duypham</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-namdinh"></span>Nam Định</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>1</span
+                  ><span class="medal s"><span class="pip">S</span>2</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 654</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">5</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-5">HL</span
+                  ><span
+                    ><span class="p-name">Vũ Hoàng Long</span><br /><span
+                      class="p-handle"
+                      >@longvu</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-bacninh"></span>Bắc Ninh</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>1</span
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 533</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">6</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-6">KV</span
+                  ><span
+                    ><span class="p-name">Đỗ Khánh Vy</span><br /><span
+                      class="p-handle"
+                      >@vydo</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-danang"></span>Đà Nẵng</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 487</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">7</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-7">GB</span
+                  ><span
+                    ><span class="p-name">Hoàng Gia Bảo</span><br /><span
+                      class="p-handle"
+                      >@baohg</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-nghean"></span>Nghệ An</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"><span class="pip">S</span>2</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 401</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">8</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-8">TT</span
+                  ><span
+                    ><span class="p-name">Bùi Thanh Tùng</span><br /><span
+                      class="p-handle"
+                      >@tungbt</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hanoi"></span>Hà Nội</span
+                >
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 356</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="load-more reveal">
+          <button class="btn neutral">Load more ↓</button>
+        </div>
+      </section>
+
+      <!-- ════════════════ SCREEN 2 · Profile (Approach A: two-column rail) ════════════════ -->
+      <section
+        class="screen"
+        id="screen-profile"
+        aria-label="Profile - Lê Quang Minh"
+      >
+        <div class="profile-grid">
+          <div class="rail">
+            <div class="box id-card reveal">
+              <span class="avatar lg av-1">LM</span>
+              <div class="name">Lê Quang Minh</div>
+              <div class="handle">
+                @minhlq · Overall rank <b style="color: var(--accent)">#1</b>
+              </div>
+              <div class="tags">
+                <span class="prov-tag"
+                  ><span class="pv pv-hanoi"></span>Hà Nội</span
+                >
+                <span class="prov-tag">THPT Chuyên KHTN · 2021–2024</span>
+              </div>
+              <div style="margin-top: 18px">
+                <div class="label">Linked accounts</div>
+                <div class="accounts" style="margin-top: 9px">
+                  <a class="acct" href="#"
+                    ><span class="glyph gl-cf">CF</span>minhlq</a
+                  >
+                  <a class="acct" href="#"
+                    ><span class="glyph gl-ac">AC</span>minhlq</a
+                  >
+                  <a class="acct" href="#"
+                    ><span class="glyph gl-vn">VN</span>minhlq</a
+                  >
+                  <a class="acct" href="#"
+                    ><span class="glyph gl-tc">TC</span>minhlq</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="box lifetime reveal">
+              <div class="label">Lifetime medals</div>
+              <div class="lifetime-grid">
+                <div class="lt g">
+                  <span class="n">3</span><span class="label">Gold</span>
+                </div>
+                <div class="lt s">
+                  <span class="n">1</span><span class="label">Silver</span>
+                </div>
+                <div class="lt b">
+                  <span class="n">1</span><span class="label">Bronze</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="reveal">
+              <div class="label">Achievement timeline</div>
+              <div class="timeline">
+                <div class="tl-item">
+                  <span class="tl-dot g" aria-hidden="true"></span>
+                  <div class="tl-year">2024</div>
+                  <div class="tl-title">
+                    IOI 2024 - Gold <span class="verified">✓ verified</span>
+                  </div>
+                  <div class="tl-meta">Alexandria, Egypt · rank 8 / 350</div>
+                </div>
+                <div class="tl-item">
+                  <span class="tl-dot g" aria-hidden="true"></span>
+                  <div class="tl-year">2024</div>
+                  <div class="tl-title">
+                    VOI 2024 - Giải Nhất
+                    <span class="verified">✓ verified</span>
+                  </div>
+                  <div class="tl-meta">National Olympiad in Informatics</div>
+                </div>
+                <div class="tl-item">
+                  <span class="tl-dot s" aria-hidden="true"></span>
+                  <div class="tl-year">2023</div>
+                  <div class="tl-title">
+                    APIO 2023 - Silver <span class="verified">✓ verified</span>
+                  </div>
+                  <div class="tl-meta">Asia-Pacific Informatics Olympiad</div>
+                </div>
+                <div class="tl-item">
+                  <span class="tl-dot b" aria-hidden="true"></span>
+                  <div class="tl-year">2023</div>
+                  <div class="tl-title">ICPC Asia Hanoi - 3rd</div>
+                  <div class="tl-meta">Team NoLogN · regional</div>
+                </div>
+                <div class="tl-item">
+                  <span class="tl-dot s" aria-hidden="true"></span>
+                  <div class="tl-year">2022</div>
+                  <div class="tl-title">
+                    VOI 2022 - Giải Nhì <span class="verified">✓ verified</span>
+                  </div>
+                  <div class="tl-meta">National Olympiad in Informatics</div>
+                </div>
+              </div>
+            </div>
+
+            <hr class="divider" />
+
+            <div class="reveal">
+              <h2 class="h3">Track record</h2>
+
+              <div class="track-group">
+                <div class="label">Major individual</div>
+                <table class="track">
+                  <tbody>
+                    <tr>
+                      <td class="y">2024</td>
+                      <td class="c">IOI 2024</td>
+                      <td class="d">Individual · Alexandria</td>
+                      <td class="a">
+                        <span class="medals"
+                          ><span class="medal g"
+                            ><span class="pip">G</span>1</span
+                          ></span
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="y">2023</td>
+                      <td class="c">APIO 2023</td>
+                      <td class="d">Individual · online</td>
+                      <td class="a">
+                        <span class="medals"
+                          ><span class="medal s"
+                            ><span class="pip">S</span>1</span
+                          ></span
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="y">2022</td>
+                      <td class="c">IOI 2022</td>
+                      <td class="d">Individual · Indonesia</td>
+                      <td class="a">
+                        <span class="medals"
+                          ><span class="medal b"
+                            ><span class="pip">B</span>1</span
+                          ></span
+                        >
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+              <div class="track-group">
+                <div class="label">National</div>
+                <table class="track">
+                  <tbody>
+                    <tr>
+                      <td class="y">2024</td>
+                      <td class="c">VOI 2024</td>
+                      <td class="d">National Olympiad</td>
+                      <td class="a">
+                        <span class="award-text">Giải Nhất</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="y">2022</td>
+                      <td class="c">VOI 2022</td>
+                      <td class="d">National Olympiad</td>
+                      <td class="a">
+                        <span class="award-text">Giải Nhì</span>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+              <div class="track-group">
+                <div class="label">ICPC team appearances</div>
+                <table class="track">
+                  <tbody>
+                    <tr>
+                      <td class="y">2023</td>
+                      <td class="c">ICPC Asia Hanoi</td>
+                      <td class="d">Team NoLogN</td>
+                      <td class="a">
+                        <span class="medals"
+                          ><span class="medal b"
+                            ><span class="pip">B</span>1</span
+                          ></span
+                        >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="y">2022</td>
+                      <td class="c">ICPC Asia Hue</td>
+                      <td class="d">Team NoLogN</td>
+                      <td class="a"><span class="award-text">Top 10</span></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ════════════════ SCREEN 3 · Contest (Approach A: single results table) ════════════════ -->
+      <section
+        class="screen"
+        id="screen-contest"
+        aria-label="Contest - IOI 2023"
+      >
+        <div class="reveal">
+          <div class="crumb">
+            <span class="label">Contest</span>
+            <span class="mono soft" style="font-size: 11px"
+              >· international olympiad</span
+            >
+          </div>
+          <div class="contest-head">
+            <div>
+              <h1 class="h1">IOI 2023</h1>
+              <p class="sub">Szeged, Hungary · 28 Aug – 4 Sep 2023</p>
+            </div>
+            <div class="stat-row">
+              <div class="stat-card">
+                <div class="big">6</div>
+                <div class="label">VN participants</div>
+              </div>
+              <div class="stat-card">
+                <div class="big accent">2</div>
+                <div class="label">Gold</div>
+              </div>
+              <div class="stat-card">
+                <div class="big">#4</div>
+                <div class="label">Country rank</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-bar reveal" style="margin-top: 28px">
+          <label class="search" style="flex: 0 1 250px">
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.4"
+              aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="7" />
+              <line x1="21" y1="21" x2="16.5" y2="16.5" />
+            </svg>
+            <input
+              type="search"
+              placeholder="Search participants…"
+              aria-label="Search participants"
+            />
+          </label>
+          <button class="chip">Department <span class="caret"></span></button>
+          <button class="chip">Award <span class="caret"></span></button>
+          <span class="cutoffs"
+            >cutoffs:
+            <span class="medal g"><span class="pip">G</span>≥ 500</span>
+            <span class="medal s"><span class="pip">S</span>≥ 440</span>
+            <span class="medal b"><span class="pip">B</span>≥ 390</span>
+          </span>
+        </div>
+
+        <table class="data reveal">
+          <caption class="sr-only">
+            Vietnamese results at IOI 2023
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Participant</th>
+              <th scope="col">Department</th>
+              <th scope="col" class="r">Score</th>
+              <th scope="col" style="width: 130px">Award</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">1</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-1">LM</span
+                  ><span
+                    ><span class="p-name">Lê Quang Minh</span><br /><span
+                      class="p-handle"
+                      >@minhlq</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hanoi"></span>Hà Nội</span
+                >
+              </td>
+              <td class="r num">542</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"
+                    ><span class="pip">G</span>Gold</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">2</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-2">TP</span
+                  ><span
+                    ><span class="p-name">Trần Hữu Phúc</span><br /><span
+                      class="p-handle"
+                      >@phuctran</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hcm"></span>TP. HCM</span
+                >
+              </td>
+              <td class="r num">528</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"
+                    ><span class="pip">G</span>Gold</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr
+              class="person-row top3"
+              onclick="showScreen('profile')"
+              tabindex="0"
+            >
+              <td class="rank-cell"><span class="rank">3</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-3">BA</span
+                  ><span
+                    ><span class="p-name">Nguyễn Bảo Anh</span><br /><span
+                      class="p-handle"
+                      >@baoanh</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-haiphong"></span>Hải Phòng</span
+                >
+              </td>
+              <td class="r num">511</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"
+                    ><span class="pip">G</span>Gold</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">4</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-4">DD</span
+                  ><span
+                    ><span class="p-name">Phạm Đức Duy</span><br /><span
+                      class="p-handle"
+                      >@duypham</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-namdinh"></span>Nam Định</span
+                >
+              </td>
+              <td class="r num">489</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"
+                    ><span class="pip">S</span>Silver</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">5</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-5">HL</span
+                  ><span
+                    ><span class="p-name">Vũ Hoàng Long</span><br /><span
+                      class="p-handle"
+                      >@longvu</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-bacninh"></span>Bắc Ninh</span
+                >
+              </td>
+              <td class="r num">472</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"
+                    ><span class="pip">S</span>Silver</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">6</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-6">KV</span
+                  ><span
+                    ><span class="p-name">Đỗ Khánh Vy</span><br /><span
+                      class="p-handle"
+                      >@vydo</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-danang"></span>Đà Nẵng</span
+                >
+              </td>
+              <td class="r num">455</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"
+                    ><span class="pip">S</span>Silver</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">7</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-7">GB</span
+                  ><span
+                    ><span class="p-name">Hoàng Gia Bảo</span><br /><span
+                      class="p-handle"
+                      >@baohg</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-nghean"></span>Nghệ An</span
+                >
+              </td>
+              <td class="r num">430</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal b"
+                    ><span class="pip">B</span>Bronze</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">8</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-8">TT</span
+                  ><span
+                    ><span class="p-name">Bùi Thanh Tùng</span><br /><span
+                      class="p-handle"
+                      >@tungbt</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-hanoi"></span>Hà Nội</span
+                >
+              </td>
+              <td class="r num">418</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal b"
+                    ><span class="pip">B</span>Bronze</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">9</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-1">AK</span
+                  ><span
+                    ><span class="p-name">Mai Anh Khoa</span><br /><span
+                      class="p-handle"
+                      >@khoama</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"><span class="pv pv-hue"></span>Huế</span>
+              </td>
+              <td class="r num">402</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal b"
+                    ><span class="pip">B</span>Bronze</span
+                  ></span
+                >
+              </td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">10</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-2">GH</span
+                  ><span
+                    ><span class="p-name">Lý Gia Hân</span><br /><span
+                      class="p-handle"
+                      >@hanly</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td>
+                <span class="prov-tag"
+                  ><span class="pv pv-cantho"></span>Cần Thơ</span
+                >
+              </td>
+              <td class="r num">388</td>
+              <td><span class="no-medal">-</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- ════════════════ SCREEN 4 · Department (Approach A: stats header + notables + list) ════════════════ -->
+      <section
+        class="screen"
+        id="screen-province"
+        aria-label="Department - Hà Nội"
+      >
+        <div class="prov-head reveal">
+          <div class="seal" aria-hidden="true">
+            <span class="s-star">✶</span>
+            <span class="s-init">HN</span>
+          </div>
+          <div style="flex: 1">
+            <h1 class="h1">Hà Nội</h1>
+            <p class="sub">42 hall-of-famers · 9 organizations represented</p>
+          </div>
+          <div class="stat-row">
+            <div class="stat-card">
+              <div class="big accent">9</div>
+              <div class="label">Gold</div>
+            </div>
+            <div class="stat-card">
+              <div class="big">14</div>
+              <div class="label">Silver</div>
+            </div>
+            <div class="stat-card">
+              <div class="big">11</div>
+              <div class="label">Bronze</div>
+            </div>
+          </div>
+        </div>
+
+        <hr class="divider" />
+
+        <div class="reveal">
+          <div class="label">Notable names</div>
+          <div class="notables">
+            <div
+              class="box notable"
+              onclick="showScreen('profile')"
+              tabindex="0"
+              role="link"
+            >
+              <span class="avatar av-1">LM</span>
+              <span>
+                <span class="n-name">Lê Quang Minh</span><br />
+                <span class="n-rank">overall #1</span>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>3</span
+                  ><span class="medal s"
+                    ><span class="pip">S</span>1</span
+                  ></span
+                >
+              </span>
+            </div>
+            <div
+              class="box notable"
+              onclick="showScreen('profile')"
+              tabindex="0"
+              role="link"
+            >
+              <span class="avatar av-8">TT</span>
+              <span>
+                <span class="n-name">Bùi Thanh Tùng</span><br />
+                <span class="n-rank">overall #8</span>
+                <span class="medals"
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </span>
+            </div>
+            <div
+              class="box notable"
+              onclick="showScreen('profile')"
+              tabindex="0"
+              role="link"
+            >
+              <span class="avatar av-4">MQ</span>
+              <span>
+                <span class="n-name">Đặng Minh Quân</span><br />
+                <span class="n-rank">overall #12</span>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-head reveal">
+          <div class="label">All hall-of-famers from Hà Nội</div>
+          <button class="chip">Organization <span class="caret"></span></button>
+        </div>
+
+        <table class="data reveal">
+          <caption class="sr-only">
+            All hall-of-famers from Hà Nội
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">Overall</th>
+              <th scope="col">Person</th>
+              <th scope="col">Top organization</th>
+              <th scope="col">Medals</th>
+              <th scope="col" class="r">Score</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">1</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-1">LM</span
+                  ><span
+                    ><span class="p-name">Lê Quang Minh</span><br /><span
+                      class="p-handle"
+                      >@minhlq</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">THPT Chuyên KHTN</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>3</span
+                  ><span class="medal s"
+                    ><span class="pip">S</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 980</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">8</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-8">TT</span
+                  ><span
+                    ><span class="p-name">Bùi Thanh Tùng</span><br /><span
+                      class="p-handle"
+                      >@tungbt</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">
+                THPT Chuyên Hà Nội – Amsterdam
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 356</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">12</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-4">MQ</span
+                  ><span
+                    ><span class="p-name">Đặng Minh Quân</span><br /><span
+                      class="p-handle"
+                      >@quandm</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">THPT Chuyên KHTN</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal g"><span class="pip">G</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 310</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">18</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-5">TM</span
+                  ><span
+                    ><span class="p-name">Ngô Thảo My</span><br /><span
+                      class="p-handle"
+                      >@myngo</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">
+                THPT Chuyên Nguyễn Huệ
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"><span class="pip">S</span>1</span
+                  ><span class="medal b"
+                    ><span class="pip">B</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 188</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">24</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-7">VH</span
+                  ><span
+                    ><span class="p-name">Trịnh Văn Hùng</span><br /><span
+                      class="p-handle"
+                      >@hungtv</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">THPT Chuyên KHTN</td>
+              <td>
+                <span class="medals"
+                  ><span class="medal b"
+                    ><span class="pip">B</span>2</span
+                  ></span
+                >
+              </td>
+              <td class="r num">2 050</td>
+            </tr>
+            <tr class="person-row" onclick="showScreen('profile')" tabindex="0">
+              <td class="rank-cell"><span class="rank">31</span></td>
+              <td>
+                <span class="person"
+                  ><span class="avatar av-6">BN</span
+                  ><span
+                    ><span class="p-name">Cao Bảo Ngọc</span><br /><span
+                      class="p-handle"
+                      >@ngoccb</span
+                    ></span
+                  ></span
+                >
+              </td>
+              <td class="soft" style="font-size: 12.5px">
+                THPT Chuyên Hà Nội – Amsterdam
+              </td>
+              <td>
+                <span class="medals"
+                  ><span class="medal s"
+                    ><span class="pip">S</span>1</span
+                  ></span
+                >
+              </td>
+              <td class="r num">1 980</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="load-more reveal">
+          <button class="btn neutral">Load more ↓</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- ════════ Review footnotes (delete when integrating) ════════ -->
+    <footer class="footnotes">
+      <span class="label">Implementation notes - for review</span>
+      <ol>
+        <li>
+          <b>Typography:</b> <b>SVN-Gotham</b> (licensed family, provided in
+          repo) - Book 400 / Regular 500 / Bold 700 / Black 800, loaded from
+          <code>src/fonts/svn-gotham/</code>. Montserrat is the documented
+          fallback.
+        </li>
+        <li>
+          <b>Approach A chosen for all 4 screens</b> per review: dense ranked
+          table / two-column profile rail / single results table / stats-header
+          department page. Submission form screen skipped - Phase 2 per SPEC.md.
+        </li>
+        <li>
+          <b>"+ Submit a profile" button</b> hidden until Phase 2 (resolved
+          conflict - no dead buttons). Mode tabs use SPEC's canonical 7: Overall
+          / IOI / APIO / ICPC / VOI / OLP / Departmental.
+        </li>
+        <li>
+          <b>Medal tokens</b> always pair color with a letter (G/S/B) and
+          count/word - color is never the only signal (NFR-6).
+        </li>
+        <li>
+          <b>Top-3 marker:</b> 3px blue inset hairline + accent rank numeral,
+          per wireframe note "understated, not gamified".
+        </li>
+        <li>
+          <b>Avatars & department seals</b> are flat initial-based placeholders;
+          real photos/seals drop in without layout change. Department dot colors
+          are deterministic per-department tokens.
+        </li>
+        <li>
+          <b>Data is sample fixture content</b> from the wireframes (not real
+          results). VOI tiers shown in Vietnamese (Giải Nhất/Nhì) matching SPEC
+          i18n direction.
+        </li>
+        <li>
+          <b>Interactions in this preview:</b> top dark bar switches screens;
+          any person row / notable card opens the Profile screen. Filters, tabs,
+          search, language toggle are visual only.
+        </li>
+      </ol>
+    </footer>
+
+    <script>
+      function showScreen(id) {
+        document.querySelectorAll('.screen').forEach(function (s) {
+          s.classList.toggle('active', s.id === 'screen-' + id)
+        })
+        document.querySelectorAll('#reviewTabs button').forEach(function (b) {
+          b.setAttribute(
+            'aria-current',
+            b.dataset.screen === id ? 'true' : 'false'
+          )
+        })
+        document
+          .querySelectorAll('.site-nav a[data-nav]')
+          .forEach(function (a) {
+            if (a.dataset.nav === id) a.setAttribute('aria-current', 'page')
+            else a.removeAttribute('aria-current')
+          })
+        window.scrollTo({ top: 0 })
+      }
+
+      document
+        .getElementById('reviewTabs')
+        .addEventListener('click', function (e) {
+          var btn = e.target.closest('button[data-screen]')
+          if (btn) showScreen(btn.dataset.screen)
+        })
+
+      // keyboard activation for clickable rows/cards
+      document.querySelectorAll('[onclick][tabindex]').forEach(function (el) {
+        el.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault()
+            el.click()
+          }
+        })
+      })
+    </script>
+  </body>
+</html>

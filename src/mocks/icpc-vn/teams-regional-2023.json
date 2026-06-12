@@ -1,0 +1,5396 @@
+[
+ {
+  "id": "t-rvn23-1",
+  "slug": "newtrend-rvn23",
+  "name": "NewTrend",
+  "organizationId": "o-snu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 1,
+   "solved": 10,
+   "penalty": 1272,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 68
+    },
+    {
+     "label": "E",
+     "tries": 10,
+     "solvedAt": 299
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 79
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 104
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 294
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 60,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 9,
+     "firstSolve": true
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 127,
+     "firstSolve": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-2",
+  "slug": "absinthe-rvn23",
+  "name": "absinthe",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 2,
+   "solved": 10,
+   "penalty": 1362,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 71
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 294,
+     "firstSolve": true
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 215,
+     "firstSolve": true
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 153
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 128
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 90
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 30
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 267
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-3",
+  "slug": "cossacks-and-samurai-rvn23",
+  "name": "Cossacks and Samurai",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 3,
+   "solved": 10,
+   "penalty": 1565,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 5,
+     "solvedAt": 165
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 86
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 62,
+     "firstSolve": true
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 190,
+     "firstSolve": true
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 201
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 254,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 94
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 279
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-4",
+  "slug": "too-soft-rvn23",
+  "name": "too_soft",
+  "organizationId": "o-ntu-tw",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 4,
+   "solved": 9,
+   "penalty": 1060,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 117
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 122
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 270
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 170
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 22
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 191
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-5",
+  "slug": "sudo-rvn23",
+  "name": "sudo",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 5,
+   "solved": 8,
+   "penalty": 663,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 6
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 88
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 120
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 161
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 186
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-6",
+  "slug": "the-one-who-strikes-fear-in-others-rvn23",
+  "name": "the one who strikes fear in others",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 6,
+   "solved": 8,
+   "penalty": 816,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 107
+    },
+    {
+     "label": "E",
+     "tries": 10
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 58,
+     "firstSolve": true
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 87
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 160
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 28
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 212
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-7",
+  "slug": "te-con-rvn23",
+  "name": "Tê con",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 7,
+   "solved": 8,
+   "penalty": 1113,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 75
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 124
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 160
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 256
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 274
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-8",
+  "slug": "hcmus-exploringworld-rvn23",
+  "name": "HCMUS-ExploringWorld",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 8,
+   "solved": 8,
+   "penalty": 1204,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 105
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 202
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 128
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 247
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 26
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 258
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-9",
+  "slug": "hcmus-smokintomatoes-rvn23",
+  "name": "HCMUS-SmokinTomatoes",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 9,
+   "solved": 7,
+   "penalty": 524,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 146
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 127
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 120
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-10",
+  "slug": "rigor-mormist-rvn23",
+  "name": "Rigor Mormist",
+  "organizationId": "o-ui-id",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 10,
+   "solved": 7,
+   "penalty": 526,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 17,
+     "firstSolve": true
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 87
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 182
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 160
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-11",
+  "slug": "1rzck-rvn23",
+  "name": "1RZck",
+  "organizationId": "o-ntu-tw",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 11,
+   "solved": 7,
+   "penalty": 652,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 52
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 208
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 69
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 177
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-12",
+  "slug": "my-penguin-is-dead-rvn23",
+  "name": "My Penguin is Dead!",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 12,
+   "solved": 7,
+   "penalty": 677,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 3,
+     "firstSolve": true
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 191
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 172
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 135
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 14
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-13",
+  "slug": "bkdn-leaderturnsback-rvn23",
+  "name": "BKDN.LeaderTurnsBack",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 13,
+   "solved": 7,
+   "penalty": 763,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 192
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 208
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 138
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 59
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-14",
+  "slug": "hcmus-petalnyking-rvn23",
+  "name": "HCMUS-PeTalNyKing",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 14,
+   "solved": 7,
+   "penalty": 799,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 80
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 4
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 198
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 132
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 179
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-15",
+  "slug": "hust-kite-rvn23",
+  "name": "HUST Kite",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 15,
+   "solved": 7,
+   "penalty": 839,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 74
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 101
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 153
+    },
+    {
+     "label": "J",
+     "tries": 9,
+     "solvedAt": 227
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-16",
+  "slug": "gordon-pear-rvn23",
+  "name": "Gordon Pear",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 16,
+   "solved": 7,
+   "penalty": 997,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 83
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 143
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 184
+    },
+    {
+     "label": "J",
+     "tries": 5,
+     "solvedAt": 260
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 35
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-17",
+  "slug": "cat-rvn23",
+  "name": "cat",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 17,
+   "solved": 7,
+   "penalty": 1008,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 4,
+     "solvedAt": 212
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 285
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 87
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 215
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-18",
+  "slug": "hcmute-fortune-rvn23",
+  "name": "HCMUTE.Fortune",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 18,
+   "solved": 7,
+   "penalty": 1203,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 10
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "G",
+     "tries": 6,
+     "solvedAt": 287
+    },
+    {
+     "label": "H",
+     "tries": 9,
+     "solvedAt": 161
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 272
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-19",
+  "slug": "fptu-hn-ching-cheng-hanji-rvn23",
+  "name": "FPTU HN Ching Cheng Hanji",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 19,
+   "solved": 7,
+   "penalty": 1225,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 179
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 284
+    },
+    {
+     "label": "J",
+     "tries": 11,
+     "solvedAt": 298
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 29
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-20",
+  "slug": "uknowho-rvn23",
+  "name": "UknoWho",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 20,
+   "solved": 6,
+   "penalty": 545,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 76
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "H",
+     "tries": 5,
+     "solvedAt": 153
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 156
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 33
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-21",
+  "slug": "hcmus-unity-rvn23",
+  "name": "HCMUS-Unity",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 21,
+   "solved": 6,
+   "penalty": 636,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 84
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 167
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 242
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 28
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-22",
+  "slug": "uit-hhq-silverbullet-rvn23",
+  "name": "UIT.HHQ.SilverBullet",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 22,
+   "solved": 6,
+   "penalty": 659,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 192
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 93
+    },
+    {
+     "label": "H",
+     "tries": 17
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 252
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-23",
+  "slug": "rmdir-rvn23",
+  "name": "rmdir",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 23,
+   "solved": 6,
+   "penalty": 684,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 150
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 202
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 191
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 22
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-24",
+  "slug": "factor-rvn23",
+  "name": "factor",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 24,
+   "solved": 6,
+   "penalty": 687,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 133
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 127
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 247
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-25",
+  "slug": "time-rvn23",
+  "name": "time",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 25,
+   "solved": 6,
+   "penalty": 852,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 299
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 36
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 142
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 208
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 52
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-26",
+  "slug": "ntrlover-rvn23",
+  "name": "NTRLover",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 26,
+   "solved": 6,
+   "penalty": 901,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 298
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 209
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 268
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-27",
+  "slug": "hostname-rvn23",
+  "name": "hostname",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 27,
+   "solved": 6,
+   "penalty": 962,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 12,
+     "solvedAt": 280
+    },
+    {
+     "label": "H",
+     "tries": 11
+    },
+    {
+     "label": "J",
+     "tries": 5,
+     "solvedAt": 219
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-28",
+  "slug": "mkdir-rvn23",
+  "name": "mkdir",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 28,
+   "solved": 6,
+   "penalty": 1005,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 94
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 259
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 296
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 75
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-29",
+  "slug": "imposters-rvn23",
+  "name": "Imposters",
+  "organizationId": "o-utcc",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 29,
+   "solved": 6,
+   "penalty": 1097,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 289
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 250
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 245
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 46
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-30",
+  "slug": "awk-rvn23",
+  "name": "awk",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 30,
+   "solved": 6,
+   "penalty": 1134,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 48
+    },
+    {
+     "label": "C",
+     "tries": 5,
+     "solvedAt": 154
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 266
+    },
+    {
+     "label": "H",
+     "tries": 10,
+     "solvedAt": 276
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 34
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-31",
+  "slug": "fptu-hn-right-triangle-rvn23",
+  "name": "FPTU HN Right Triangle",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 31,
+   "solved": 5,
+   "penalty": 377,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 51
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 3,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 205
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 28
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-32",
+  "slug": "vaporised-rvn23",
+  "name": "Vaporised",
+  "organizationId": "o-chula",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 32,
+   "solved": 5,
+   "penalty": 481,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 248
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 154
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-33",
+  "slug": "vinuni-triad-code-geniuses-rvn23",
+  "name": "VinUni-Triad Code Geniuses",
+  "organizationId": "o-vinuni",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 33,
+   "solved": 5,
+   "penalty": 512,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 158
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "G",
+     "tries": 4
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 235
+    },
+    {
+     "label": "J",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-34",
+  "slug": "ptit-gcc-rvn23",
+  "name": "PTIT.gcc",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 34,
+   "solved": 5,
+   "penalty": 522,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 279
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-35",
+  "slug": "uit-tvh-rvn23",
+  "name": "UIT.TVH",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 35,
+   "solved": 5,
+   "penalty": 581,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 104
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 242
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 70
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-36",
+  "slug": "hust-na-rvn23",
+  "name": "HUST NA",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 36,
+   "solved": 5,
+   "penalty": 600,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 66
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 15
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 8,
+     "solvedAt": 275
+    },
+    {
+     "label": "J",
+     "tries": 12
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-37",
+  "slug": "uit-kns-love-is-pain-rvn23",
+  "name": "UIT.KNS.Love_is_pain",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 37,
+   "solved": 5,
+   "penalty": 644,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 283
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 17
+    },
+    {
+     "label": "J",
+     "tries": 7,
+     "solvedAt": 101
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 33
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-38",
+  "slug": "uit-nth-holygrail-rvn23",
+  "name": "UIT.NTH.HolyGrail",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 38,
+   "solved": 5,
+   "penalty": 653,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 7,
+     "solvedAt": 256
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 183
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 19
+    },
+    {
+     "label": "M",
+     "tries": 3
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-39",
+  "slug": "kevich-rvn23",
+  "name": "Kevich",
+  "organizationId": "o-binus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 39,
+   "solved": 5,
+   "penalty": 679,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 71
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "H",
+     "tries": 6,
+     "solvedAt": 297
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 53
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-40",
+  "slug": "fptu-hn-sendustokazakhstan-rvn23",
+  "name": "FPTU HN SendUsToKazakhstan",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 40,
+   "solved": 5,
+   "penalty": 857,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "C",
+     "tries": 6,
+     "solvedAt": 216
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "H",
+     "tries": 12,
+     "solvedAt": 168
+    },
+    {
+     "label": "J",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-41",
+  "slug": "chickenwarriors-rvn23",
+  "name": "ChickenWarriors",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 41,
+   "solved": 4,
+   "penalty": 134,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 88
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "H",
+     "tries": 41
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-42",
+  "slug": "destroy-duck-december-rvn23",
+  "name": "Destroy Duck December",
+  "organizationId": "o-chula",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 42,
+   "solved": 4,
+   "penalty": 137,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 39
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-43",
+  "slug": "hcmut-augustus-rvn23",
+  "name": "HCMUT Augustus",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 43,
+   "solved": 4,
+   "penalty": 191,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 48
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-44",
+  "slug": "hus-cathematics-rvn23",
+  "name": "HUS.Cathematics",
+  "organizationId": "o-hus-vnu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 44,
+   "solved": 4,
+   "penalty": 192,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 104
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "G",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 32
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-45",
+  "slug": "haui-meowxinh-rvn23",
+  "name": "HaUI.Meowxinh",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 45,
+   "solved": 4,
+   "penalty": 208,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 97
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 5
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 31
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-46",
+  "slug": "husc-greedforspeed-rvn23",
+  "name": "HUSC.GreedForSpeed",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 46,
+   "solved": 4,
+   "penalty": 238,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 74
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 19
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 36
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-47",
+  "slug": "vinuni-tonariawase-rvn23",
+  "name": "VinUni-Tonariawase",
+  "organizationId": "o-vinuni",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 47,
+   "solved": 4,
+   "penalty": 248,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 88
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-48",
+  "slug": "fuv-crescent-rvn23",
+  "name": "FUV_Crescent",
+  "organizationId": "o-fuv",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 48,
+   "solved": 4,
+   "penalty": 277,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 122
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "J",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 73
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-49",
+  "slug": "hcmussh-bearhands-rvn23",
+  "name": "HCMUSSH-BearHands",
+  "organizationId": "o-ussh-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 49,
+   "solved": 4,
+   "penalty": 278,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 16
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 110
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "H",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 48
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-50",
+  "slug": "bkdn-wonderboys-rvn23",
+  "name": "BKDN.WonderBoys",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 50,
+   "solved": 4,
+   "penalty": 309,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 201
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "H",
+     "tries": 7
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-51",
+  "slug": "hcmute-hopenbh-rvn23",
+  "name": "HCMUTE.HopeNBH",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 51,
+   "solved": 4,
+   "penalty": 321,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 105
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 15
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 35
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-52",
+  "slug": "fptu-hcm-nine-one-one-rvn23",
+  "name": "FPTU HCM Nine One One",
+  "organizationId": "o-fptu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 52,
+   "solved": 4,
+   "penalty": 326,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 44
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 145
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 7
+    },
+    {
+     "label": "J",
+     "tries": 23
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 26
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-53",
+  "slug": "vku-friendshippower-rvn23",
+  "name": "VKU.FriendshipPower",
+  "organizationId": "o-vku",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 53,
+   "solved": 4,
+   "penalty": 369,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 227
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-54",
+  "slug": "hcmus-tiramisu-rvn23",
+  "name": "HCMUS-Tiramisu",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 54,
+   "solved": 4,
+   "penalty": 369,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 282
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-55",
+  "slug": "sgu-warrior-rvn23",
+  "name": "SGU Warrior",
+  "organizationId": "o-sgu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 55,
+   "solved": 4,
+   "penalty": 373,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 36
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "G",
+     "tries": 8
+    },
+    {
+     "label": "H",
+     "tries": 8
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 66
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-56",
+  "slug": "bkdn-yuumifullcrit-rvn23",
+  "name": "BKDN.YuumiFullCrit",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 56,
+   "solved": 4,
+   "penalty": 468,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 15
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "J",
+     "tries": 5,
+     "solvedAt": 297
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-57",
+  "slug": "stiff-coding-rvn23",
+  "name": "Stiff Coding",
+  "organizationId": "o-chula",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 57,
+   "solved": 4,
+   "penalty": 471,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 268
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 43
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-58",
+  "slug": "ptit-code-client-rvn23",
+  "name": "PTIT.Code Client",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 58,
+   "solved": 4,
+   "penalty": 472,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 15
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 258
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 52
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-59",
+  "slug": "hcmiu-lastdance-rvn23",
+  "name": "HCMIU_LastDance",
+  "organizationId": "o-iu-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 59,
+   "solved": 4,
+   "penalty": 663,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 5,
+     "solvedAt": 116
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 17,
+     "solvedAt": 129
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-60",
+  "slug": "iuh-tripl3k-rvn23",
+  "name": "IUH.Tripl3K",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 60,
+   "solved": 4,
+   "penalty": 691,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "C",
+     "tries": 5,
+     "solvedAt": 275
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 156
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-61",
+  "slug": "ptit-stardust-rvn23",
+  "name": "PTIT.Stardust",
+  "organizationId": "o-ptit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 61,
+   "solved": 3,
+   "penalty": 64,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "G",
+     "tries": 19
+    },
+    {
+     "label": "H",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-62",
+  "slug": "hcmut-casual-rvn23",
+  "name": "HCMUT casual",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 62,
+   "solved": 3,
+   "penalty": 77,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 40
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-63",
+  "slug": "emcuoiroia-rvn23",
+  "name": "EmCuoiRoiA",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 63,
+   "solved": 3,
+   "penalty": 93,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "C",
+     "tries": 12
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 54
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-64",
+  "slug": "iuh-plt-legend-rvn23",
+  "name": "IUH.PLT-Legend",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 64,
+   "solved": 3,
+   "penalty": 96,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 8
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 51
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-65",
+  "slug": "reunited-rvn23",
+  "name": "Reunited",
+  "organizationId": "o-hust",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 65,
+   "solved": 3,
+   "penalty": 101,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-66",
+  "slug": "hcmut-feelsoldman-rvn23",
+  "name": "HCMUT FeelsOldMan",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 66,
+   "solved": 3,
+   "penalty": 104,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "C",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 42
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-67",
+  "slug": "psa-assembly-rvn23",
+  "name": "PSA_Assembly",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 67,
+   "solved": 3,
+   "penalty": 106,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "M",
+     "tries": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-68",
+  "slug": "uit-ctk-lanhhanthien-rvn23",
+  "name": "UIT.CTK.LanhHanThien",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 68,
+   "solved": 3,
+   "penalty": 114,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "G",
+     "tries": 10
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 40
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-69",
+  "slug": "tlu-zero-rvn23",
+  "name": "TLU-zero",
+  "organizationId": "o-tlu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 69,
+   "solved": 3,
+   "penalty": 116,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 56
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-70",
+  "slug": "tdmu1-rvn23",
+  "name": "TDMU1",
+  "organizationId": "o-tdmu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 70,
+   "solved": 3,
+   "penalty": 129,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 39
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 56
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-71",
+  "slug": "ctu-negativezero-rvn23",
+  "name": "CTU.NegativeZero",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 71,
+   "solved": 3,
+   "penalty": 131,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "H",
+     "tries": 7
+    },
+    {
+     "label": "J",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 36
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-72",
+  "slug": "ppa-sadthudatink-rvn23",
+  "name": "PPA_sadthudatink",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 72,
+   "solved": 3,
+   "penalty": 134,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 8
+    },
+    {
+     "label": "C",
+     "tries": 20
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 54
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-73",
+  "slug": "hou-tempest-rvn23",
+  "name": "HOU Tempest",
+  "organizationId": "o-hou",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 73,
+   "solved": 3,
+   "penalty": 138,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 5
+    },
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "C",
+     "tries": 5
+    },
+    {
+     "label": "D",
+     "tries": 5
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 12
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "M",
+     "tries": 13
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-74",
+  "slug": "utc-abc123-rvn23",
+  "name": "UTC_abc123",
+  "organizationId": "o-utc",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 74,
+   "solved": 3,
+   "penalty": 149,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 36
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 53
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-75",
+  "slug": "anilist-heatmap-cf-git-heatmap-rvn23",
+  "name": "anilist heatmap > cf/git heatmap",
+  "organizationId": "o-admu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "ph",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 75,
+   "solved": 3,
+   "penalty": 156,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 72
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-76",
+  "slug": "ctu-almostretired-rvn23",
+  "name": "CTU.AlmostRetired",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 76,
+   "solved": 3,
+   "penalty": 158,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 11
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 60
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-77",
+  "slug": "tcu-01-rvn23",
+  "name": "TCU-01",
+  "organizationId": "o-tcu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 77,
+   "solved": 3,
+   "penalty": 159,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 67
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-78",
+  "slug": "vn-army-rvn23",
+  "name": "VN_army",
+  "organizationId": "o-mta",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 78,
+   "solved": 3,
+   "penalty": 160,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 9
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 44
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-79",
+  "slug": "pka-moga-rvn23",
+  "name": "PKA MOGA",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 79,
+   "solved": 3,
+   "penalty": 163,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 12
+    },
+    {
+     "label": "C",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 60
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-80",
+  "slug": "haui-individualism-rvn23",
+  "name": "HaUI.Individualism",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 80,
+   "solved": 3,
+   "penalty": 168,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "C",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "G",
+     "tries": 12
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 34
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-81",
+  "slug": "bkdn-anotherchance-rvn23",
+  "name": "BKDN.AnotherChance",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 81,
+   "solved": 3,
+   "penalty": 169,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 64
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-82",
+  "slug": "nerd-destroyer-rvn23",
+  "name": "Nerd Destroyer",
+  "organizationId": "o-chula",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 82,
+   "solved": 3,
+   "penalty": 185,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 14
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 67
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-83",
+  "slug": "hcmut-apollo-rvn23",
+  "name": "HCMUT Apollo",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 83,
+   "solved": 3,
+   "penalty": 186,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 16
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 63
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-84",
+  "slug": "last-dance-rvn23",
+  "name": "Last Dance",
+  "organizationId": "o-rmit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 84,
+   "solved": 3,
+   "penalty": 187,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 6
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 48
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-85",
+  "slug": "cookforce-rvn23",
+  "name": "COOKFORCE",
+  "organizationId": "o-ptit-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 85,
+   "solved": 3,
+   "penalty": 218,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 46
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 83
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-86",
+  "slug": "ppa-codeonehand-rvn23",
+  "name": "PPA_codeonehand",
+  "organizationId": "o-ppa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 86,
+   "solved": 3,
+   "penalty": 222,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 14
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 63
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-87",
+  "slug": "bkdn-siuuuuuuu-rvn23",
+  "name": "BKDN.Siuuuuuuu",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 87,
+   "solved": 3,
+   "penalty": 239,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 30
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 42
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 67
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-88",
+  "slug": "hcmute-bear-rvn23",
+  "name": "HCMUTE.Bear",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 88,
+   "solved": 3,
+   "penalty": 248,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "C",
+     "tries": 9
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 92
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-89",
+  "slug": "iuh-coban-rvn23",
+  "name": "IUH.CoBan",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 89,
+   "solved": 3,
+   "penalty": 260,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "C",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 126
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-90",
+  "slug": "neu-one-rvn23",
+  "name": "NEU-ONE",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 90,
+   "solved": 3,
+   "penalty": 269,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 77
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-91",
+  "slug": "husc-dph-rvn23",
+  "name": "HUSC.DPH",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 91,
+   "solved": 3,
+   "penalty": 283,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 55
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 102
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-92",
+  "slug": "sea1-rvn23",
+  "name": "SEA1",
+  "organizationId": "o-ntu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 92,
+   "solved": 3,
+   "penalty": 312,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 16
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "L",
+     "tries": 9,
+     "solvedAt": 82
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-93",
+  "slug": "haiphongvmu-rvn23",
+  "name": "HaiPhongVMU",
+  "organizationId": "o-vmu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 93,
+   "solved": 3,
+   "penalty": 319,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 17
+    },
+    {
+     "label": "L",
+     "tries": 10,
+     "solvedAt": 95
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-94",
+  "slug": "haui-cookie-rvn23",
+  "name": "HaUI.Cookie",
+  "organizationId": "o-haui",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 94,
+   "solved": 3,
+   "penalty": 324,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 92
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 83
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-95",
+  "slug": "pka-aduvjp-rvn23",
+  "name": "PKA aduvjp",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 95,
+   "solved": 3,
+   "penalty": 356,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 174
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-96",
+  "slug": "tdtu-riot-game-rvn23",
+  "name": "TDTU-RIOT GAME",
+  "organizationId": "o-tdtu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 96,
+   "solved": 3,
+   "penalty": 357,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 34
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 69
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 94
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-97",
+  "slug": "uth-newfactors-rvn23",
+  "name": "UTH-NewFactors",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 97,
+   "solved": 3,
+   "penalty": 367,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 24
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 39
+    },
+    {
+     "label": "L",
+     "tries": 9,
+     "solvedAt": 104
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-98",
+  "slug": "pka-starchill-rvn23",
+  "name": "PKA StarChill",
+  "organizationId": "o-phenikaa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 98,
+   "solved": 3,
+   "penalty": 432,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 11,
+     "solvedAt": 190
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-99",
+  "slug": "ctu-gensokyo-rvn23",
+  "name": "CTU.Gensokyo",
+  "organizationId": "o-ctu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 99,
+   "solved": 3,
+   "penalty": 461,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 22
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 52
+    },
+    {
+     "label": "L",
+     "tries": 10,
+     "solvedAt": 147
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-100",
+  "slug": "hus-toiuenn-rvn23",
+  "name": "HUS.ToIuenn",
+  "organizationId": "o-hus-vnu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 100,
+   "solved": 3,
+   "penalty": 465,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "F",
+     "tries": 9,
+     "solvedAt": 115
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 70
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-101",
+  "slug": "hcmiu-sushilaugh-rvn23",
+  "name": "HCMIU_SushiLaugh",
+  "organizationId": "o-iu-hcm",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 101,
+   "solved": 3,
+   "penalty": 481,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 6
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "L",
+     "tries": 17,
+     "solvedAt": 122
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-102",
+  "slug": "siu-torch-rvn23",
+  "name": "SIU-Torch",
+  "organizationId": "o-siu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 102,
+   "solved": 3,
+   "penalty": 483,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "C",
+     "tries": 19
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 170
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 83
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-103",
+  "slug": "kapraomoogrob-rvn23",
+  "name": "KapraoMooGrob",
+  "organizationId": "o-cmu-th",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 103,
+   "solved": 3,
+   "penalty": 499,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 47
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 239
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 113
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-104",
+  "slug": "usth-4455434b20-rvn23",
+  "name": "USTH 4455434b20",
+  "organizationId": "o-usth",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 104,
+   "solved": 3,
+   "penalty": 514,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 26
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 98
+    },
+    {
+     "label": "L",
+     "tries": 9,
+     "solvedAt": 170
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-105",
+  "slug": "dtu-dz-2-rvn23",
+  "name": "DTU_DZ 2",
+  "organizationId": "o-dtu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 105,
+   "solved": 3,
+   "penalty": 652,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 24
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 49
+    },
+    {
+     "label": "L",
+     "tries": 16,
+     "solvedAt": 219
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-106",
+  "slug": "upcoder-rvn23",
+  "name": "UPCoder",
+  "organizationId": "o-hcmue",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 106,
+   "solved": 3,
+   "penalty": 665,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 22
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 62
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 17,
+     "solvedAt": 141
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-107",
+  "slug": "dthu-convertoll-rvn23",
+  "name": "DThU.ConvertoLL",
+  "organizationId": "o-dthu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 107,
+   "solved": 3,
+   "penalty": 669,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 257
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 237
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-108",
+  "slug": "dtu-dz-1-rvn23",
+  "name": "DTU_DZ 1",
+  "organizationId": "o-dtu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 108,
+   "solved": 3,
+   "penalty": 695,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 58
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 17,
+     "solvedAt": 250
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-109",
+  "slug": "husc-k46-rvn23",
+  "name": "HUSC.K46",
+  "organizationId": "o-husc",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 109,
+   "solved": 3,
+   "penalty": 715,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "C",
+     "tries": 17
+    },
+    {
+     "label": "F",
+     "tries": 5,
+     "solvedAt": 36
+    },
+    {
+     "label": "L",
+     "tries": 21,
+     "solvedAt": 193
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-110",
+  "slug": "navy-rvn23",
+  "name": "NAVY",
+  "organizationId": "o-naval",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 110,
+   "solved": 3,
+   "penalty": 792,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 6,
+     "solvedAt": 62
+    },
+    {
+     "label": "F",
+     "tries": 11,
+     "solvedAt": 298
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 112
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-111",
+  "slug": "hutech-thl-rvn23",
+  "name": "HUTECH - THL",
+  "organizationId": "o-hutech",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 111,
+   "solved": 3,
+   "penalty": 870,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 94
+    },
+    {
+     "label": "L",
+     "tries": 23,
+     "solvedAt": 232
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-112",
+  "slug": "epuit-rvn23",
+  "name": "EPUIT",
+  "organizationId": "o-epu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 112,
+   "solved": 3,
+   "penalty": 899,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 46
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 27,
+     "solvedAt": 271
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-113",
+  "slug": "gao-pink-rvn23",
+  "name": "Gao Pink",
+  "organizationId": "o-eiu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 113,
+   "solved": 2,
+   "penalty": 84,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 19
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 45
+    },
+    {
+     "label": "L",
+     "tries": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-114",
+  "slug": "iuh-why-so-easy-rvn23",
+  "name": "IUH.Why_So_Easy",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 114,
+   "solved": 2,
+   "penalty": 92,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "C",
+     "tries": 4
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 34
+    },
+    {
+     "label": "L",
+     "tries": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-115",
+  "slug": "ftu-knights-3-rvn23",
+  "name": "FTU Knights 3",
+  "organizationId": "o-ftu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 115,
+   "solved": 2,
+   "penalty": 114,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 24
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "L",
+     "tries": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-116",
+  "slug": "aesir-clan-rvn23",
+  "name": "Aesir clan",
+  "organizationId": "o-vlu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 116,
+   "solved": 2,
+   "penalty": 193,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 135
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-117",
+  "slug": "ued-03-rvn23",
+  "name": "UED_03",
+  "organizationId": "o-ued-dn",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 117,
+   "solved": 2,
+   "penalty": 225,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 5,
+     "solvedAt": 36
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 69
+    },
+    {
+     "label": "L",
+     "tries": 4
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-118",
+  "slug": "tvu-imposter-rvn23",
+  "name": "TVU.Imposter",
+  "organizationId": "o-tvu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 118,
+   "solved": 2,
+   "penalty": 309,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 51
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 238
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-119",
+  "slug": "huflit-vitconlonton-rvn23",
+  "name": "HUFLIT_Vitconlonton",
+  "organizationId": "o-huflit",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 119,
+   "solved": 2,
+   "penalty": 431,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 28
+    },
+    {
+     "label": "F",
+     "tries": 8,
+     "solvedAt": 223
+    },
+    {
+     "label": "L",
+     "tries": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-120",
+  "slug": "due1-national-rvn23",
+  "name": "DUE1_National",
+  "organizationId": "o-due-dn",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 120,
+   "solved": 2,
+   "penalty": 686,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 6,
+     "solvedAt": 116
+    },
+    {
+     "label": "F",
+     "tries": 10,
+     "solvedAt": 290
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-121",
+  "slug": "iuh-l4ever-rvn23",
+  "name": "IUH.L4ever",
+  "organizationId": "o-iuh",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 121,
+   "solved": 2,
+   "penalty": 873,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 15,
+     "solvedAt": 187
+    },
+    {
+     "label": "F",
+     "tries": 10,
+     "solvedAt": 226
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-122",
+  "slug": "banking1-rvn23",
+  "name": "Banking1",
+  "organizationId": "o-bav",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 122,
+   "solved": 1,
+   "penalty": 33,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 2,
+     "solvedAt": 13
+    },
+    {
+     "label": "F",
+     "tries": 19
+    },
+    {
+     "label": "L",
+     "tries": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-123",
+  "slug": "ictu-dragons-rvn23",
+  "name": "ICTU Dragons",
+  "organizationId": "o-ictu",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 123,
+   "solved": 1,
+   "penalty": 85,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 25
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 14
+    },
+    {
+     "label": "L",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-124",
+  "slug": "psa-hunter-rvn23",
+  "name": "PSA_hunter",
+  "organizationId": "o-psa",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 124,
+   "solved": 1,
+   "penalty": 112,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 72
+    },
+    {
+     "label": "F",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvn23-125",
+  "slug": "uth-nextgen-rvn23",
+  "name": "UTH-NextGen",
+  "organizationId": "o-uth",
+  "contestEditionId": "e-icpc-regional-vn-2023",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 125,
+   "solved": 1,
+   "penalty": 188,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 148
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 5
+    },
+    {
+     "label": "G",
+     "tries": 1
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    }
+   ]
+  }
+ }
+]

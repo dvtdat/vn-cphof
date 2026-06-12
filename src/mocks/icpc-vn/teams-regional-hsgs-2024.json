@@ -1,0 +1,2046 @@
+[
+ {
+  "id": "t-rvnhs24-1",
+  "slug": "ring-rvnhs24",
+  "name": "Ring",
+  "organizationId": "o-khtn-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 1,
+   "medal": "gold",
+   "solved": 11,
+   "penalty": 1412,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 200
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 21
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 29
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 231,
+     "firstSolve": true
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 164,
+     "firstSolve": true
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 271
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 150
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 41,
+     "firstSolve": true
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 136
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-2",
+  "slug": "nd-lhp-j97fanclub-rvnhs24",
+  "name": "ND.LHP.J97Fanclub",
+  "organizationId": "o-lhp-nd",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 2,
+   "medal": "gold",
+   "solved": 9,
+   "penalty": 1024,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 266
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 50
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 165
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 219
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 79
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 121
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-3",
+  "slug": "matroid-rvnhs24",
+  "name": "Matroid",
+  "organizationId": "o-khtn-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 3,
+   "solved": 8,
+   "penalty": 487,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 5
+    },
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 191
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 10,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 2
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 84,
+     "firstSolve": true
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 91
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 60
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-4",
+  "slug": "lqdbinhdinh-ttd-the-next-generation-rvnhs24",
+  "name": "LQDBinhDinh_TTD the next generation",
+  "organizationId": "o-lqd-bd",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 4,
+   "medal": "gold",
+   "solved": 8,
+   "penalty": 615,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 222
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 80,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 124
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-5",
+  "slug": "98101116565656-rvnhs24",
+  "name": "98101116565656",
+  "organizationId": "o-thanglong-ld",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 5,
+   "medal": "gold",
+   "solved": 8,
+   "penalty": 699,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 209
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 27
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 159
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 147
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-6",
+  "slug": "set-rvnhs24",
+  "name": "Set",
+  "organizationId": "o-khtn-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 6,
+   "solved": 8,
+   "penalty": 935,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4,
+     "solvedAt": 212
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 27
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 50
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 23
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 206
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 82
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 106
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-7",
+  "slug": "icibidi-rvnhs24",
+  "name": "iCiBiDi",
+  "organizationId": "o-giadinh-hcm",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 7,
+   "medal": "silver",
+   "solved": 8,
+   "penalty": 943,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 103,
+     "firstSolve": true
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 20
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 295
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 141
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 227
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-8",
+  "slug": "lqddn-inscribedquadrilateral-rvnhs24",
+  "name": "LQDDN.InscribedQuadrilateral",
+  "organizationId": "o-lqd-dn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 8,
+   "medal": "silver",
+   "solved": 8,
+   "penalty": 1079,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 3,
+     "solvedAt": 268
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 53
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 24
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 202
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 97
+    },
+    {
+     "label": "M",
+     "tries": 5,
+     "solvedAt": 162
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-9",
+  "slug": "lqddn-saygex-rvnhs24",
+  "name": "LQDDN.SayGex",
+  "organizationId": "o-lqd-dn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 9,
+   "solved": 7,
+   "penalty": 518,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 184
+    },
+    {
+     "label": "K",
+     "tries": 10
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 92
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 123
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-10",
+  "slug": "lqddn-nxm-rvnhs24",
+  "name": "LQDDN.NxM",
+  "organizationId": "o-lqd-dn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 10,
+   "solved": 7,
+   "penalty": 671,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 5
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 37
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 35
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "J",
+     "tries": 2
+    },
+    {
+     "label": "K",
+     "tries": 8,
+     "solvedAt": 181
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 58,
+     "firstSolve": true
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-11",
+  "slug": "phattonhulai-rvnhs24",
+  "name": "PhatToNhuLai",
+  "organizationId": "o-ams",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 11,
+   "medal": "silver",
+   "solved": 7,
+   "penalty": 773,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 14
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 48
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 22
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 263
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 91
+    },
+    {
+     "label": "M",
+     "tries": 4,
+     "solvedAt": 172
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-12",
+  "slug": "furina-rvnhs24",
+  "name": "FURINA",
+  "organizationId": "o-hatinh-hs",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 12,
+   "medal": "silver",
+   "solved": 7,
+   "penalty": 849,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 67
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 259
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 166
+    },
+    {
+     "label": "M",
+     "tries": 1,
+     "solvedAt": 112
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-13",
+  "slug": "qn-ltt-kiddo2k7-rvnhs24",
+  "name": "QN.LTT_Kiddo2k7",
+  "organizationId": "o-ltt-qn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 13,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 936,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 43
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 54
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 280
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 140
+    },
+    {
+     "label": "M",
+     "tries": 5,
+     "solvedAt": 166
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-14",
+  "slug": "csp-marisa-fumo-rvnhs24",
+  "name": "CSP.marisa_fumo",
+  "organizationId": "o-sphn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 14,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 1054,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "D",
+     "tries": 7,
+     "solvedAt": 110
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 28
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "J",
+     "tries": 7
+    },
+    {
+     "label": "K",
+     "tries": 5,
+     "solvedAt": 136
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 153
+    },
+    {
+     "label": "M",
+     "tries": 6,
+     "solvedAt": 290
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-15",
+  "slug": "tonngokhong-rvnhs24",
+  "name": "TonNgoKhong",
+  "organizationId": "o-ams",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 15,
+   "solved": 7,
+   "penalty": 1125,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 93
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 38
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 2,
+     "firstSolve": true
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 279
+    },
+    {
+     "label": "K",
+     "tries": 5
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 173
+    },
+    {
+     "label": "M",
+     "tries": 8,
+     "solvedAt": 260
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-16",
+  "slug": "chv-phk-rvnhs24",
+  "name": "CHV_PHK",
+  "organizationId": "o-hungvuong-bd",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 16,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 1159,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 5,
+     "solvedAt": 285
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 171
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 35
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 89
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 275
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-17",
+  "slug": "category-rvnhs24",
+  "name": "Category",
+  "organizationId": "o-khtn-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 17,
+   "solved": 6,
+   "penalty": 321,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "E",
+     "tries": 2
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 15
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 145
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 88
+    },
+    {
+     "label": "M",
+     "tries": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-18",
+  "slug": "tdn-c12h12o4-n-rvnhs24",
+  "name": "TDN.(C12H12O4)n",
+  "organizationId": "o-tdn-hcm",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 18,
+   "medal": "bronze",
+   "solved": 6,
+   "penalty": 476,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 26
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 9
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 89
+    },
+    {
+     "label": "M",
+     "tries": 2,
+     "solvedAt": 193
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-19",
+  "slug": "csp-cirno-fumo-rvnhs24",
+  "name": "CSP.cirno_fumo",
+  "organizationId": "o-sphn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 19,
+   "solved": 6,
+   "penalty": 531,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 10
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 38
+    },
+    {
+     "label": "E",
+     "tries": 3
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 21
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "K",
+     "tries": 3,
+     "solvedAt": 251
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 118
+    },
+    {
+     "label": "M",
+     "tries": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-20",
+  "slug": "csp-reimu-fumo-rvnhs24",
+  "name": "CSP.reimu_fumo",
+  "organizationId": "o-sphn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 20,
+   "solved": 6,
+   "penalty": 585,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 5,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 29
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 65
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 11
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 223
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "M",
+     "tries": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-21",
+  "slug": "hsg-helloworld-rvnhs24",
+  "name": "HSG-HelloWorld",
+  "organizationId": "o-ptnk",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 21,
+   "solved": 6,
+   "penalty": 616,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 57
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 8,
+     "solvedAt": 155
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 87
+    },
+    {
+     "label": "M",
+     "tries": 34
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-22",
+  "slug": "clc-palmer-rvnhs24",
+  "name": "CLC PALMER",
+  "organizationId": "o-laocai-hs",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 22,
+   "solved": 6,
+   "penalty": 623,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 8,
+     "solvedAt": 38
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 14,
+     "firstSolve": true
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 52
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "J",
+     "tries": 6
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 113
+    },
+    {
+     "label": "L",
+     "tries": 5,
+     "solvedAt": 83
+    },
+    {
+     "label": "M",
+     "tries": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-23",
+  "slug": "hsg-a305-rvnhs24",
+  "name": "HSG-A305",
+  "organizationId": "o-ptnk",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 23,
+   "solved": 6,
+   "penalty": 626,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 1,
+     "solvedAt": 232
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 20
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 11
+    },
+    {
+     "label": "L",
+     "tries": 7,
+     "solvedAt": 177
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-24",
+  "slug": "lhp-needmilktea-rvnhs24",
+  "name": "LHP-NeedMilkTea",
+  "organizationId": "o-lhp-hcm",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 24,
+   "solved": 6,
+   "penalty": 642,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 32
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 6,
+     "solvedAt": 93
+    },
+    {
+     "label": "M",
+     "tries": 3,
+     "solvedAt": 234
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-25",
+  "slug": "nd-lhp-trinhtranphuongtuan-rvnhs24",
+  "name": "ND.LHP.TrinhTranPhuongTuan",
+  "organizationId": "o-lhp-nd",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 25,
+   "solved": 6,
+   "penalty": 719,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 30
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 46
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 52
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 13
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 133
+    },
+    {
+     "label": "M",
+     "tries": 7,
+     "solvedAt": 185
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-26",
+  "slug": "hsg-capy33-rvnhs24",
+  "name": "HSG-Capy33",
+  "organizationId": "o-ptnk",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 26,
+   "solved": 6,
+   "penalty": 796,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 22
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 58
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "K",
+     "tries": 9,
+     "solvedAt": 251
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 170
+    },
+    {
+     "label": "M",
+     "tries": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-27",
+  "slug": "lhp-vim-rvnhs24",
+  "name": "LHP-VIM",
+  "organizationId": "o-lhp-hcm",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 27,
+   "solved": 6,
+   "penalty": 895,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 152
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 17
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 3
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 292
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 228
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-28",
+  "slug": "csp-glory-rvnhs24",
+  "name": "CSP. Glory",
+  "organizationId": "o-sphn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 28,
+   "solved": 6,
+   "penalty": 921,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 4
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 52
+    },
+    {
+     "label": "E",
+     "tries": 7
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 33
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 6
+    },
+    {
+     "label": "K",
+     "tries": 14,
+     "solvedAt": 251
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 173
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-29",
+  "slug": "cnh-meomeo-rvnhs24",
+  "name": "CNH.meomeo",
+  "organizationId": "o-nguyenhue-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 29,
+   "solved": 6,
+   "penalty": 989,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 40
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 194
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "K",
+     "tries": 4,
+     "solvedAt": 270
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 262
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-30",
+  "slug": "chv-simple-rvnhs24",
+  "name": "CHV_SIMPLE",
+  "organizationId": "o-hungvuong-bd",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 30,
+   "solved": 6,
+   "penalty": 1082,
+   "problems": [
+    {
+     "label": "B",
+     "tries": 6,
+     "solvedAt": 163
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 178
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 12
+    },
+    {
+     "label": "K",
+     "tries": 7,
+     "solvedAt": 258
+    },
+    {
+     "label": "M",
+     "tries": 1
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-31",
+  "slug": "nguumavuong-rvnhs24",
+  "name": "NguuMaVuong",
+  "organizationId": "o-ams",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 31,
+   "solved": 6,
+   "penalty": 1364,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 6,
+     "solvedAt": 25
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 134
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 73
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 31
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 151
+    },
+    {
+     "label": "M",
+     "tries": 18,
+     "solvedAt": 290
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-32",
+  "slug": "honghainhi-rvnhs24",
+  "name": "HongHaiNhi",
+  "organizationId": "o-ams",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 32,
+   "solved": 5,
+   "penalty": 233,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 23
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 27
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 7
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 92
+    },
+    {
+     "label": "M",
+     "tries": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-33",
+  "slug": "chl-r2r1-rvnhs24",
+  "name": "CHL R2R1",
+  "organizationId": "o-halong-qn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 33,
+   "solved": 5,
+   "penalty": 250,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 49
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "J",
+     "tries": 6
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 85
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-34",
+  "slug": "tn-hlk-promptac-ed-rvnhs24",
+  "name": "TN.HLK PromptAC-ed",
+  "organizationId": "o-hlk-tn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 34,
+   "solved": 5,
+   "penalty": 713,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 59
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 93
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 30
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 4
+    },
+    {
+     "label": "K",
+     "tries": 11,
+     "solvedAt": 267
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-35",
+  "slug": "hp-ctp-001-rvnhs24",
+  "name": "HP.CTP.001",
+  "organizationId": "o-tranphu-hp",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 35,
+   "solved": 4,
+   "penalty": 271,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1
+    },
+    {
+     "label": "B",
+     "tries": 1
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 109
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 71
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 5
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1
+    },
+    {
+     "label": "K",
+     "tries": 9
+    },
+    {
+     "label": "L",
+     "tries": 10
+    },
+    {
+     "label": "M",
+     "tries": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-36",
+  "slug": "cnh-icoi24-rvnhs24",
+  "name": "CNH.ICOI24",
+  "organizationId": "o-nguyenhue-hn",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 36,
+   "solved": 4,
+   "penalty": 306,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 92
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 100
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 8
+    },
+    {
+     "label": "K",
+     "tries": 13
+    },
+    {
+     "label": "L",
+     "tries": 5
+    },
+    {
+     "label": "M",
+     "tries": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-rvnhs24-37",
+  "slug": "chilang01-rvnhs24",
+  "name": "ChiLang01",
+  "organizationId": "o-chilang-gl",
+  "contestEditionId": "e-icpc-regional-vn-hs-2024",
+  "teamType": "high_school",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 37,
+   "solved": 4,
+   "penalty": 511,
+   "problems": [
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "D",
+     "tries": 5,
+     "solvedAt": 158
+    },
+    {
+     "label": "F",
+     "tries": 6,
+     "solvedAt": 79
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 31
+    },
+    {
+     "label": "K",
+     "tries": 1
+    }
+   ]
+  }
+ }
+]

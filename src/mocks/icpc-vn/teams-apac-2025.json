@@ -1,0 +1,3187 @@
+[
+ {
+  "id": "t-apac25-1",
+  "slug": "screenwalkers-apac25",
+  "name": "Screenwalkers",
+  "organizationId": "o-utokyo",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 1,
+   "medal": "gold",
+   "solved": 10,
+   "penalty": 1277,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 33
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 229
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 183
+    },
+    {
+     "label": "E",
+     "tries": 1
+    },
+    {
+     "label": "F",
+     "tries": 2,
+     "solvedAt": 291
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 143
+    },
+    {
+     "label": "I",
+     "tries": 1,
+     "solvedAt": 75,
+     "firstSolve": true
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 51
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 163
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 21
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-2",
+  "slug": "jagermeister-apac25",
+  "name": "Jägermeister",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 2,
+   "medal": "gold",
+   "solved": 10,
+   "penalty": 1412,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "C",
+     "tries": 3,
+     "solvedAt": 178
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "E",
+     "tries": 1,
+     "solvedAt": 285
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 218
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 19,
+     "firstSolve": true
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 128
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "K",
+     "tries": 2,
+     "solvedAt": 263
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-3",
+  "slug": "objective-kub1-apac25",
+  "name": "Objective-KUB1",
+  "organizationId": "o-kyoto",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 3,
+   "medal": "gold",
+   "solved": 8,
+   "penalty": 970,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "B",
+     "tries": 3
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 274
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 207
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 80,
+     "firstSolve": true
+    },
+    {
+     "label": "I",
+     "tries": 3,
+     "solvedAt": 171
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 28
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-4",
+  "slug": "dolanddool-apac25",
+  "name": "DolAndDool",
+  "organizationId": "o-korea",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 4,
+   "medal": "gold",
+   "solved": 8,
+   "penalty": 1117,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 93,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 75
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 214
+    },
+    {
+     "label": "I",
+     "tries": 3,
+     "solvedAt": 185
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 90
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 281
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 31
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-5",
+  "slug": "bocchi-the-tech-apac25",
+  "name": "Bocchi The Tech",
+  "organizationId": "o-sci-tokyo",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 5,
+   "medal": "silver",
+   "solved": 8,
+   "penalty": 1181,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 50
+    },
+    {
+     "label": "C",
+     "tries": 2,
+     "solvedAt": 294
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 275
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 45
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 169
+    },
+    {
+     "label": "I",
+     "tries": 3,
+     "solvedAt": 136
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-6",
+  "slug": "std-abs-apac25",
+  "name": "std_abs",
+  "organizationId": "o-ntu-tw",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 6,
+   "medal": "silver",
+   "solved": 7,
+   "penalty": 568,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 42
+    },
+    {
+     "label": "C",
+     "tries": 1,
+     "solvedAt": 80,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "F",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 50
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 159
+    },
+    {
+     "label": "I",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 77
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-7",
+  "slug": "fruit-advantages-apac25",
+  "name": "fruit_advantages",
+  "organizationId": "o-ntu-tw",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 7,
+   "medal": "silver",
+   "solved": 7,
+   "penalty": 668,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 156
+    },
+    {
+     "label": "F",
+     "tries": 4
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 49
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 194
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 62
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 89,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    },
+    {
+     "label": "M",
+     "tries": 2
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-8",
+  "slug": "penguin-feeders-apac25",
+  "name": "Penguin Feeders",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 8,
+   "medal": "silver",
+   "solved": 7,
+   "penalty": 733,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 219
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 108,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 57
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 157
+    },
+    {
+     "label": "I",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "K",
+     "tries": 4
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-9",
+  "slug": "amatsukaze-apac25",
+  "name": "AMATSUKAZE",
+  "organizationId": "o-sci-tokyo",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 9,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 736,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 244
+    },
+    {
+     "label": "F",
+     "tries": 2
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 68
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 143
+    },
+    {
+     "label": "I",
+     "tries": 2,
+     "solvedAt": 118
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-10",
+  "slug": "spiral-apac25",
+  "name": "Spiral",
+  "organizationId": "o-nus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 10,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 909,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 54
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 139
+    },
+    {
+     "label": "E",
+     "tries": 6,
+     "solvedAt": 223,
+     "firstSolve": true
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 38
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 275
+    },
+    {
+     "label": "I",
+     "tries": 5
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 12,
+     "firstSolve": true
+    },
+    {
+     "label": "M",
+     "tries": 4
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-11",
+  "slug": "n-dimensional-sum-apac25",
+  "name": "N-Dimensional Sum",
+  "organizationId": "o-binus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 11,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 941,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 87
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 196
+    },
+    {
+     "label": "F",
+     "tries": 1,
+     "solvedAt": 259
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 95
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "I",
+     "tries": 4,
+     "solvedAt": 157
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-12",
+  "slug": "kuuhaku-apac25",
+  "name": "Kuuhaku",
+  "organizationId": "o-dlsu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "ph",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 12,
+   "medal": "bronze",
+   "solved": 7,
+   "penalty": 994,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 199
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 29
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 190
+    },
+    {
+     "label": "I",
+     "tries": 4,
+     "solvedAt": 291
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 54
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-13",
+  "slug": "bkdn-arcane-apac25",
+  "name": "BKDN.Arcane",
+  "organizationId": "o-dut",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 13,
+   "solved": 7,
+   "penalty": 1002,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 169
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 80
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 258
+    },
+    {
+     "label": "I",
+     "tries": 4,
+     "solvedAt": 264
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 34
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-14",
+  "slug": "nycu-mygo-apac25",
+  "name": "NYCU_MyGO!!!",
+  "organizationId": "o-nycu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 14,
+   "solved": 7,
+   "penalty": 1025,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 57
+    },
+    {
+     "label": "C",
+     "tries": 5
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 221
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 113
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 169
+    },
+    {
+     "label": "I",
+     "tries": 3,
+     "solvedAt": 238
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 60
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-15",
+  "slug": "red-phobia-apac25",
+  "name": "Red Phobia",
+  "organizationId": "o-kyoto",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 15,
+   "solved": 7,
+   "penalty": 1070,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 45
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 182
+    },
+    {
+     "label": "F",
+     "tries": 1
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 72
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 279
+    },
+    {
+     "label": "I",
+     "tries": 2,
+     "solvedAt": 196
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 56
+    },
+    {
+     "label": "L",
+     "tries": 4,
+     "solvedAt": 40
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-16",
+  "slug": "daxinghao-apac25",
+  "name": "DaXingHao",
+  "organizationId": "o-snu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 16,
+   "solved": 7,
+   "penalty": 1225,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "D",
+     "tries": 8,
+     "solvedAt": 286
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 78
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 222
+    },
+    {
+     "label": "I",
+     "tries": 6
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 269
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-17",
+  "slug": "hcmus-atcoder-apac25",
+  "name": "HCMUS-AtCoder",
+  "organizationId": "o-hus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 17,
+   "solved": 6,
+   "penalty": 574,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 41
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 85
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 56
+    },
+    {
+     "label": "K",
+     "tries": 1,
+     "solvedAt": 227
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-18",
+  "slug": "bigshot-apac25",
+  "name": "BIGSHOT",
+  "organizationId": "o-kaist",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 18,
+   "solved": 6,
+   "penalty": 599,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 37
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 216
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 88
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 166
+    },
+    {
+     "label": "I",
+     "tries": 8
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-19",
+  "slug": "nycu-cartesiantree-apac25",
+  "name": "NYCU_CartesianTree",
+  "organizationId": "o-nycu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 19,
+   "solved": 6,
+   "penalty": 616,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 15,
+     "firstSolve": true
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 255
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 59
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 171
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 70
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 26
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-20",
+  "slug": "w-3-complete-apac25",
+  "name": "W[3]-complete",
+  "organizationId": "o-unsw",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "au",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 20,
+   "solved": 6,
+   "penalty": 703,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 47
+    },
+    {
+     "label": "F",
+     "tries": 4,
+     "solvedAt": 288
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 61
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 121
+    },
+    {
+     "label": "I",
+     "tries": 12
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 32
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-21",
+  "slug": "xnor-apac25",
+  "name": "XNOR",
+  "organizationId": "o-nit-tokuyama",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 21,
+   "solved": 6,
+   "penalty": 707,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 46
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 161
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 82
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 239
+    },
+    {
+     "label": "I",
+     "tries": 7
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 99
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 60
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-22",
+  "slug": "phoking-apac25",
+  "name": "PhoKing",
+  "organizationId": "o-postech",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 22,
+   "solved": 6,
+   "penalty": 717,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 25
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 75
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 163
+    },
+    {
+     "label": "I",
+     "tries": 5,
+     "solvedAt": 207
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 56
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 31
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-23",
+  "slug": "neu-gugugaga-apac25",
+  "name": "NEU. gugugaga",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 23,
+   "solved": 6,
+   "penalty": 720,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3,
+     "solvedAt": 38
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 252
+    },
+    {
+     "label": "F",
+     "tries": 3,
+     "solvedAt": 140
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 69
+    },
+    {
+     "label": "I",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-24",
+  "slug": "nameless-apac25",
+  "name": "nameless",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 24,
+   "solved": 6,
+   "penalty": 733,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 297
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 70
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 179
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 55
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 29
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-25",
+  "slug": "ibm-cloud-apac25",
+  "name": "IBM Cloud",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 25,
+   "solved": 6,
+   "penalty": 838,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 76
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 265
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 100
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 196
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 74
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-26",
+  "slug": "gyerantak-apac25",
+  "name": "Gyerantak",
+  "organizationId": "o-kaist",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 26,
+   "solved": 6,
+   "penalty": 867,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 26
+    },
+    {
+     "label": "C",
+     "tries": 2
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 114
+    },
+    {
+     "label": "G",
+     "tries": 6,
+     "solvedAt": 241
+    },
+    {
+     "label": "H",
+     "tries": 3,
+     "solvedAt": 261
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 44
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-27",
+  "slug": "wayinwilderness-apac25",
+  "name": "WayInWilderness",
+  "organizationId": "o-khu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 27,
+   "solved": 6,
+   "penalty": 877,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 65
+    },
+    {
+     "label": "D",
+     "tries": 4,
+     "solvedAt": 281
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 60
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 286
+    },
+    {
+     "label": "I",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-28",
+  "slug": "ths-apac25",
+  "name": "THS",
+  "organizationId": "o-kyoto",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 28,
+   "solved": 6,
+   "penalty": 937,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 18
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 58
+    },
+    {
+     "label": "H",
+     "tries": 6,
+     "solvedAt": 298
+    },
+    {
+     "label": "I",
+     "tries": 6,
+     "solvedAt": 207
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 78
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 38
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-29",
+  "slug": "i-do-understand-the-danger-of-overflow-and-apac25",
+  "name": "I_do_understand_the_danger_of_overflow_and_",
+  "organizationId": "o-tsukuba",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 29,
+   "solved": 6,
+   "penalty": 975,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 141
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 189
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 97
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 243
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 172
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 53
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-30",
+  "slug": "team-apac25",
+  "name": ") ? - ? )",
+  "organizationId": "o-chula",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "th",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 30,
+   "solved": 5,
+   "penalty": 383,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 36
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 161
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 59
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 7
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 77
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-31",
+  "slug": "slowforce-apac25",
+  "name": "slowforce",
+  "organizationId": "o-kaist",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 31,
+   "solved": 5,
+   "penalty": 385,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 43
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 140
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 74
+    },
+    {
+     "label": "H",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 83
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-32",
+  "slug": "7-is-our-favourite-number-apac25",
+  "name": "7 is our favourite number",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 32,
+   "solved": 5,
+   "penalty": 432,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 40
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 154
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 92
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-33",
+  "slug": "wadatsumi-apac25",
+  "name": "WADATSUMI",
+  "organizationId": "o-sci-tokyo",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 33,
+   "solved": 5,
+   "penalty": 445,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 84
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 132
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 81
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 35
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-34",
+  "slug": "404-skill-not-found-apac25",
+  "name": "404 Skill Not Found",
+  "organizationId": "o-ui-id",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 34,
+   "solved": 5,
+   "penalty": 534,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3,
+     "solvedAt": 79
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 104
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "I",
+     "tries": 3,
+     "solvedAt": 205
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 31,
+     "firstSolve": true
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-35",
+  "slug": "suzukaze-aobayama-apac25",
+  "name": "suzukaze_Aobayama",
+  "organizationId": "o-tohoku",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 35,
+   "solved": 5,
+   "penalty": 558,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 85
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 233
+    },
+    {
+     "label": "G",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 101
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-36",
+  "slug": "endgame-apac25",
+  "name": "Endgame",
+  "organizationId": "o-yonsei",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 36,
+   "solved": 5,
+   "penalty": 562,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3,
+     "solvedAt": 36
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 264
+    },
+    {
+     "label": "E",
+     "tries": 4
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 45
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 73
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-37",
+  "slug": "anonyms-apac25",
+  "name": "Anonyms",
+  "organizationId": "o-keio",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 37,
+   "solved": 5,
+   "penalty": 600,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 72
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 139
+    },
+    {
+     "label": "G",
+     "tries": 10,
+     "solvedAt": 113
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 54
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 42
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-38",
+  "slug": "alltimelegend-apac25",
+  "name": "AllTimeLegend",
+  "organizationId": "o-sogang",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 38,
+   "solved": 5,
+   "penalty": 616,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 50
+    },
+    {
+     "label": "D",
+     "tries": 3
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 92
+    },
+    {
+     "label": "H",
+     "tries": 5,
+     "solvedAt": 262
+    },
+    {
+     "label": "I",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 68
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-39",
+  "slug": "nycu-friedshrimp-apac25",
+  "name": "NYCU_FriedShrimp",
+  "organizationId": "o-nycu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 39,
+   "solved": 5,
+   "penalty": 639,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 58
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 92
+    },
+    {
+     "label": "H",
+     "tries": 2,
+     "solvedAt": 245
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 101
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 43
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-40",
+  "slug": "make-hcmute-great-apac25",
+  "name": "Make HCMUTE Great",
+  "organizationId": "o-hcmute",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 40,
+   "solved": 5,
+   "penalty": 640,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 33
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 83
+    },
+    {
+     "label": "H",
+     "tries": 4,
+     "solvedAt": 291
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 71
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 42
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-41",
+  "slug": "lebah-ganteng-apac25",
+  "name": "Lebah Ganteng",
+  "organizationId": "o-binus",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 41,
+   "solved": 5,
+   "penalty": 655,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 78
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 262
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 131
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 107
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 17
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-42",
+  "slug": "builtin-orz-apac25",
+  "name": "__builtin_orz()",
+  "organizationId": "o-ncu-tw",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 42,
+   "solved": 5,
+   "penalty": 674,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 61
+    },
+    {
+     "label": "D",
+     "tries": 2,
+     "solvedAt": 216
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 172
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 137
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 28
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-43",
+  "slug": "uit-khq-theunkillabledemonkings-apac25",
+  "name": "UIT.KHQ.TheUnkillableDemonKings",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 43,
+   "solved": 5,
+   "penalty": 696,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 84
+    },
+    {
+     "label": "D",
+     "tries": 1,
+     "solvedAt": 267
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "H",
+     "tries": 20
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 134
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 59
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-44",
+  "slug": "codemaxxing-apac25",
+  "name": "codemaxxing",
+  "organizationId": "o-itb",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 44,
+   "solved": 5,
+   "penalty": 706,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 87
+    },
+    {
+     "label": "C",
+     "tries": 1
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 126
+    },
+    {
+     "label": "H",
+     "tries": 1,
+     "solvedAt": 266
+    },
+    {
+     "label": "I",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 164
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 23
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-45",
+  "slug": "acwyfiphite-apac25",
+  "name": "acwyfiphite",
+  "organizationId": "o-ntu-sg",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 45,
+   "solved": 5,
+   "penalty": 771,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 115
+    },
+    {
+     "label": "D",
+     "tries": 3,
+     "solvedAt": 289
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 102
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 98
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 47
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-46",
+  "slug": "redshift-apac25",
+  "name": "Redshift",
+  "organizationId": "o-sogang",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 46,
+   "solved": 4,
+   "penalty": 319,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 48
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 119
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 15
+    },
+    {
+     "label": "J",
+     "tries": 3,
+     "solvedAt": 78
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 14
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-47",
+  "slug": "kotamanegi-hint-kureya-apac25",
+  "name": "kotamanegi_hint_kureya",
+  "organizationId": "o-uosaka",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 47,
+   "solved": 4,
+   "penalty": 345,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 101
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 93
+    },
+    {
+     "label": "I",
+     "tries": 8
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-48",
+  "slug": "xl-pants-apac25",
+  "name": "XL-pants",
+  "organizationId": "o-nthu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 48,
+   "solved": 4,
+   "penalty": 377,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3,
+     "solvedAt": 49
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 142
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-49",
+  "slug": "azure-apac25",
+  "name": "Azure",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 49,
+   "solved": 4,
+   "penalty": 417,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 67
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 197
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "I",
+     "tries": 1
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 83
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-50",
+  "slug": "hcmut-fieryfirefly-apac25",
+  "name": "HCMUT FieryFirefly",
+  "organizationId": "o-hcmut",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 50,
+   "solved": 4,
+   "penalty": 451,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 78
+    },
+    {
+     "label": "G",
+     "tries": 2,
+     "solvedAt": 150
+    },
+    {
+     "label": "H",
+     "tries": 8
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 112
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 31
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-51",
+  "slug": "2get-apac25",
+  "name": "2get",
+  "organizationId": "o-waseda",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 51,
+   "solved": 4,
+   "penalty": 460,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 63
+    },
+    {
+     "label": "G",
+     "tries": 3,
+     "solvedAt": 145
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 159
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 33
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-52",
+  "slug": "heroku-apac25",
+  "name": "Heroku",
+  "organizationId": "o-uet",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 52,
+   "solved": 4,
+   "penalty": 482,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 66
+    },
+    {
+     "label": "G",
+     "tries": 6,
+     "solvedAt": 130
+    },
+    {
+     "label": "H",
+     "tries": 2
+    },
+    {
+     "label": "I",
+     "tries": 5
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 118
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 48
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-53",
+  "slug": "everyone-apac25",
+  "name": "Everyone",
+  "organizationId": "o-unist",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 53,
+   "solved": 4,
+   "penalty": 507,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 158
+    },
+    {
+     "label": "G",
+     "tries": 5,
+     "solvedAt": 127
+    },
+    {
+     "label": "H",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 71
+    },
+    {
+     "label": "K",
+     "tries": 1
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 51
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-54",
+  "slug": "kotamanegi-marukajiri-apac25",
+  "name": "kotamanegi_marukajiri",
+  "organizationId": "o-uosaka",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "jp",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 54,
+   "solved": 4,
+   "penalty": 549,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 80
+    },
+    {
+     "label": "G",
+     "tries": 6,
+     "solvedAt": 203
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 125
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 21
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-55",
+  "slug": "breakfasteattofull-apac25",
+  "name": "BreakfastEatToFull",
+  "organizationId": "o-nthu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 55,
+   "solved": 4,
+   "penalty": 565,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 2,
+     "solvedAt": 116
+    },
+    {
+     "label": "G",
+     "tries": 7,
+     "solvedAt": 188
+    },
+    {
+     "label": "I",
+     "tries": 6
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 64
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 37
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-56",
+  "slug": "uit-knt-2mic1cup-apac25",
+  "name": "UIT.KNT.2mic1cup",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 56,
+   "solved": 4,
+   "penalty": 589,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 4,
+     "solvedAt": 133
+    },
+    {
+     "label": "G",
+     "tries": 4,
+     "solvedAt": 155
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 146
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 35
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-57",
+  "slug": "catastrophe-apac25",
+  "name": "Catastrophe",
+  "organizationId": "o-hanyang",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 57,
+   "solved": 4,
+   "penalty": 757,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 80
+    },
+    {
+     "label": "G",
+     "tries": 15,
+     "solvedAt": 210
+    },
+    {
+     "label": "H",
+     "tries": 1
+    },
+    {
+     "label": "I",
+     "tries": 14
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 106
+    },
+    {
+     "label": "K",
+     "tries": 2
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 41
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-58",
+  "slug": "betterthano1-apac25",
+  "name": "BetterThanO1",
+  "organizationId": "o-hanyang",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "kr",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 58,
+   "solved": 4,
+   "penalty": 873,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 74
+    },
+    {
+     "label": "G",
+     "tries": 14,
+     "solvedAt": 298
+    },
+    {
+     "label": "I",
+     "tries": 5
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 131
+    },
+    {
+     "label": "L",
+     "tries": 3,
+     "solvedAt": 70
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-59",
+  "slug": "uit-ttt-baka-apac25",
+  "name": "UIT.TTT.Baka",
+  "organizationId": "o-uit",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 59,
+   "solved": 4,
+   "penalty": 939,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 3,
+     "solvedAt": 194
+    },
+    {
+     "label": "G",
+     "tries": 7,
+     "solvedAt": 217
+    },
+    {
+     "label": "H",
+     "tries": 12
+    },
+    {
+     "label": "J",
+     "tries": 5,
+     "solvedAt": 272
+    },
+    {
+     "label": "K",
+     "tries": 3
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 16
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-60",
+  "slug": "for-you-and-for-me-apac25",
+  "name": "For You and For Me",
+  "organizationId": "o-ui-id",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "id",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 60,
+   "solved": 4,
+   "penalty": 1001,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 142
+    },
+    {
+     "label": "G",
+     "tries": 11,
+     "solvedAt": 299
+    },
+    {
+     "label": "J",
+     "tries": 4,
+     "solvedAt": 264
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 36
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-61",
+  "slug": "redcapeflyingcat-apac25",
+  "name": "RedCapeFlyingCat",
+  "organizationId": "o-nthu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 61,
+   "solved": 3,
+   "penalty": 181,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 65
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "I",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 95
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 21
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-62",
+  "slug": "ntnu-ssh-apac25",
+  "name": "NTNU_SSH",
+  "organizationId": "o-ntnu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "tw",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 62,
+   "solved": 3,
+   "penalty": 264,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 4,
+     "solvedAt": 58
+    },
+    {
+     "label": "G",
+     "tries": 6
+    },
+    {
+     "label": "H",
+     "tries": 5
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 97
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 29
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-63",
+  "slug": "habibi-apac25",
+  "name": "habibi",
+  "organizationId": "o-unimelb",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "au",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 63,
+   "solved": 3,
+   "penalty": 365,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 85
+    },
+    {
+     "label": "G",
+     "tries": 4
+    },
+    {
+     "label": "J",
+     "tries": 2,
+     "solvedAt": 233
+    },
+    {
+     "label": "L",
+     "tries": 1,
+     "solvedAt": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-64",
+  "slug": "bogosort-apac25",
+  "name": "BogoSort",
+  "organizationId": "o-smu-sg",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "countryCode": "sg",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 64,
+   "solved": 3,
+   "penalty": 416,
+   "problems": [
+    {
+     "label": "A",
+     "tries": 1,
+     "solvedAt": 254
+    },
+    {
+     "label": "G",
+     "tries": 3
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 102
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 40
+    }
+   ]
+  }
+ },
+ {
+  "id": "t-apac25-65",
+  "slug": "neu-thq-apac25",
+  "name": "NEU.THQ",
+  "organizationId": "o-neu",
+  "contestEditionId": "e-icpc-apac-2025",
+  "teamType": "university",
+  "memberProfileIds": [],
+  "result": {
+   "rank": 65,
+   "solved": 2,
+   "penalty": 212,
+   "problems": [
+    {
+     "label": "E",
+     "tries": 5
+    },
+    {
+     "label": "G",
+     "tries": 2
+    },
+    {
+     "label": "J",
+     "tries": 1,
+     "solvedAt": 152
+    },
+    {
+     "label": "L",
+     "tries": 2,
+     "solvedAt": 40
+    }
+   ]
+  }
+ }
+]
