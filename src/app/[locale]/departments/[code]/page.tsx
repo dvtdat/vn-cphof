@@ -1,16 +1,18 @@
-import type { Metadata } from 'next'
-import { getTranslations, setRequestLocale } from 'next-intl/server'
-import { notFound } from 'next/navigation'
-import { Link } from '@/i18n/navigation'
-import { getDepartment } from '@/lib/api/store'
 import {
   MedalCluster,
   PersonCell,
   Seal,
   StatCard,
 } from '@/components/hof/tokens'
+import { Link } from '@/i18n/navigation'
+import { getDepartment } from '@/lib/api/store'
+import type { Metadata } from 'next'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
+import { notFound } from 'next/navigation'
 
-type Props = { params: Promise<{ locale: string; code: string }> }
+interface Props {
+  params: Promise<{ locale: string; code: string }>
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, code } = await params
@@ -33,14 +35,17 @@ export default async function DepartmentPage({ params }: Props) {
       <div className="reveal flex flex-wrap items-center gap-5">
         <Seal code={d.code} />
         <div className="min-w-0 flex-1">
-          <h1 className="text-3xl font-extrabold leading-tight tracking-tight">{name}</h1>
+          <h1 className="text-3xl font-extrabold leading-tight tracking-tight">
+            {name}
+          </h1>
           <p className="mt-1 text-body text-ink-soft">
             {t('hallOfFamers', { count: d.peopleCount })} ·{' '}
             {t('organizationsRepresented', { count: d.organizations.length })}
             {d.historicalAliases.length > 0 && (
               <span className="text-ink-faint">
                 {' '}
-                · {t('formerly', {
+                ·{' '}
+                {t('formerly', {
                   names: d.historicalAliases
                     .map((a) => (locale === 'en' ? a.nameEn : a.name))
                     .join(', '),
@@ -72,7 +77,10 @@ export default async function DepartmentPage({ params }: Props) {
             {d.people.map((e) => (
               <tr key={e.profile.id} className="hover:bg-accent-soft">
                 <td className="border-b border-line px-3.5 py-3">
-                  <Link href={`/p/${e.profile.slug}`} className="block hover:text-accent">
+                  <Link
+                    href={`/p/${e.profile.slug}`}
+                    className="block hover:text-accent"
+                  >
                     <PersonCell profile={e.profile} />
                   </Link>
                 </td>
@@ -88,7 +96,13 @@ export default async function DepartmentPage({ params }: Props) {
   )
 }
 
-function Th({ children, className }: { children: React.ReactNode; className?: string }) {
+function Th({
+  children,
+  className,
+}: {
+  children: React.ReactNode
+  className?: string
+}) {
   return (
     <th
       scope="col"

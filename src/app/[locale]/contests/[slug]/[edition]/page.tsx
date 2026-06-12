@@ -16,7 +16,7 @@ import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 
-type Props = {
+interface Props {
   params: Promise<{ locale: string; slug: string; edition: string }>
 }
 
@@ -165,7 +165,7 @@ export default async function EditionPage({ params }: Props) {
     tries: (count: number) => string
     caption: string
   }) {
-    const { problems, rows } = scoreboard!
+    const { problems, rows } = scoreboard
     // Fixed columns (rank 3 + points 4 + penalty 5) + team min 18 + 3.25 per problem.
     const minRem = 30 + problems.length * 3.25
     // Break out of the content column up to the viewport (minus gutters), centered,

@@ -25,7 +25,7 @@ export const viCollator = new Intl.Collator('vi')
 export function initials(fullName: string): string {
   const parts = fullName.trim().split(/\s+/)
   const picked = parts.length >= 2 ? parts.slice(-2) : parts
-  return stripDiacritics(picked.map((p) => p[0] ?? '').join('')).toUpperCase()
+  return stripDiacritics(picked.map((p) => p.charAt(0)).join('')).toUpperCase()
 }
 
 /** Localized date / date-range label for contest editions */

@@ -7,7 +7,7 @@ and SPEC.md disagree, the spec wins.
 ## Theme
 
 Cool & crisp light theme: a record book printed on bright white stock.
-Near-white blue-tinted neutrals, near-black ink, one refreshed blue accent. 
+Near-white blue-tinted neutrals, near-black ink, one refreshed blue accent.
 No dark mode in Phase 1.
 
 ## Color
@@ -15,22 +15,22 @@ No dark mode in Phase 1.
 All tokens live in `globals.css` `@theme` (OKLCH) and are consumed as Tailwind
 classes (`bg-paper`, `bg-wash`, `text-ink-soft`, `border-line`, …).
 
-| Token | Value | Role |
-|---|---|---|
-| `paper` | `oklch(98.6% .003 250)` | Page background, near-white cool |
-| `card` | `oklch(99.6% .0015 250)` | Floating surfaces (dropdowns, dialogs) |
-| `wash` | `oklch(96.6% .005 250)` | Borderless surface fill: stat cards, chips, pills, side panels |
-| `ink` | `oklch(22% .014 260)` | Primary text |
-| `ink-soft` | `oklch(50% .016 258)` | Secondary text |
-| `ink-faint` | `oklch(68% .014 256)` | Tertiary, placeholders |
-| `line` | `oklch(92.6% .006 255)` | Hairline dividers, row borders |
-| `line-strong` | `oklch(87% .009 255)` | Table header rule only |
-| `accent` | `var(--color-blue)` | THE accent: header bar, links, active states, top-3 |
-| `accent-deep` | `var(--color-blue-strong)` | Accent hover |
-| `accent-soft` / `accent-softer` | accent at 7% / 4% alpha | Row hover, active tints |
-| `gold` / `silver` / `bronze` | `oklch(55% .105 87)` / `oklch(58% .012 260)` / `oklch(55% .09 55)` | Medal tokens; gold is yellow-family, ≥4.5:1 on paper |
-| `solve` / `solve-strong` / `fail` | `green-bg` / `green-strong` / `red-bg` | ICPC scoreboard cells (AC / first-solve / tried), aliased into the ramps |
-| `logo-circle` / `logo-star` / `logo-subtract` | `#FFC40C` / `#F99F1B` / `#FFFFFF` | Logo, themeable via `src/components/logo.tsx` |
+| Token                                         | Value                                                              | Role                                                                     |
+| --------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| `paper`                                       | `oklch(98.6% .003 250)`                                            | Page background, near-white cool                                         |
+| `card`                                        | `oklch(99.6% .0015 250)`                                           | Floating surfaces (dropdowns, dialogs)                                   |
+| `wash`                                        | `oklch(96.6% .005 250)`                                            | Borderless surface fill: stat cards, chips, pills, side panels           |
+| `ink`                                         | `oklch(22% .014 260)`                                              | Primary text                                                             |
+| `ink-soft`                                    | `oklch(50% .016 258)`                                              | Secondary text                                                           |
+| `ink-faint`                                   | `oklch(68% .014 256)`                                              | Tertiary, placeholders                                                   |
+| `line`                                        | `oklch(92.6% .006 255)`                                            | Hairline dividers, row borders                                           |
+| `line-strong`                                 | `oklch(87% .009 255)`                                              | Table header rule only                                                   |
+| `accent`                                      | `var(--color-blue)`                                                | THE accent: header bar, links, active states, top-3                      |
+| `accent-deep`                                 | `var(--color-blue-strong)`                                         | Accent hover                                                             |
+| `accent-soft` / `accent-softer`               | accent at 7% / 4% alpha                                            | Row hover, active tints                                                  |
+| `gold` / `silver` / `bronze`                  | `oklch(55% .105 87)` / `oklch(58% .012 260)` / `oklch(55% .09 55)` | Medal tokens; gold is yellow-family, ≥4.5:1 on paper                     |
+| `solve` / `solve-strong` / `fail`             | `green-bg` / `green-strong` / `red-bg`                             | ICPC scoreboard cells (AC / first-solve / tried), aliased into the ramps |
+| `logo-circle` / `logo-star` / `logo-subtract` | `#FFC40C` / `#F99F1B` / `#FFFFFF`                                  | Logo, themeable via `src/components/logo.tsx`                            |
 
 ### Semantic 4-color palette
 
@@ -38,13 +38,13 @@ Flag-anchored hues - red 28 (cờ đỏ), yellow 88 (sao vàng / logo star),
 green 148 (solve), blue 256 (the accent). Five steps per ramp, all WCAG AA
 verified against their intended pairings:
 
-| Step | Role | Red | Green | Blue | Yellow |
-|---|---|---|---|---|---|
-| `*-soft` | faint tint bg | `oklch(96.5% .013 28)` | `oklch(96.5% .025 148)` | `oklch(96.5% .015 256)` | `oklch(97% .03 95)` |
-| `*-bg` | chips, scoreboard cells | `oklch(91% .045 28)` | `oklch(91% .07 148)` | `oklch(91% .04 256)` | `oklch(93% .075 92)` |
-| base | solids, icons, dots | `oklch(55% .2 28)` | `oklch(57% .15 148)` | `oklch(50% .15 256)` | `oklch(80% .16 88)` |
-| `*-strong` | hover, borders, first-solve | `oklch(48% .19 28)` | `oklch(48% .125 148)` | `oklch(43% .14 256)` | `oklch(62% .125 87)` |
-| `*-deep` | text on tint / paper | `oklch(42% .15 28)` | `oklch(40% .11 148)` | `oklch(38% .12 256)` | `oklch(50% .1 86)` |
+| Step       | Role                        | Red                    | Green                   | Blue                    | Yellow               |
+| ---------- | --------------------------- | ---------------------- | ----------------------- | ----------------------- | -------------------- |
+| `*-soft`   | faint tint bg               | `oklch(96.5% .013 28)` | `oklch(96.5% .025 148)` | `oklch(96.5% .015 256)` | `oklch(97% .03 95)`  |
+| `*-bg`     | chips, scoreboard cells     | `oklch(91% .045 28)`   | `oklch(91% .07 148)`    | `oklch(91% .04 256)`    | `oklch(93% .075 92)` |
+| base       | solids, icons, dots         | `oklch(55% .2 28)`     | `oklch(57% .15 148)`    | `oklch(50% .15 256)`    | `oklch(80% .16 88)`  |
+| `*-strong` | hover, borders, first-solve | `oklch(48% .19 28)`    | `oklch(48% .125 148)`   | `oklch(43% .14 256)`    | `oklch(62% .125 87)` |
+| `*-deep`   | text on tint / paper        | `oklch(42% .15 28)`    | `oklch(40% .11 148)`    | `oklch(38% .12 256)`    | `oklch(50% .1 86)`   |
 
 **Pairing rules (AA, all verified ≥4.5:1 text / ≥3:1 UI):**
 
@@ -73,18 +73,18 @@ palette) and table hairlines. Never `border border-line-strong` around a card.
 - Scale: tokenized in `globals.css` `@theme` - the only font sizes allowed in
   JSX. Never use arbitrary `text-[..]` values.
 
-  | Class | Size | Role |
-  |---|---|---|
-  | `text-3xs` | 9px | medal pip letters, scoreboard cell tries |
-  | `text-2xs` | 10.5px | mono micro-labels, handles, captions |
-  | `text-xs` | 12px | secondary table data (Tailwind default) |
-  | `text-body` | 13px | default body, table cells |
-  | `text-sm` | 14px | bold names, row emphasis (Tailwind default) |
-  | `text-md` | 15px | emphasized row titles |
-  | `text-lg` | 18px | h3 (Tailwind default) |
-  | `text-xl` | 22px | section numerals |
-  | `text-stat` | 26px | big stat numerals |
-  | `text-3xl` | 30px | h1 (Tailwind default) |
+  | Class       | Size   | Role                                        |
+  | ----------- | ------ | ------------------------------------------- |
+  | `text-3xs`  | 9px    | medal pip letters, scoreboard cell tries    |
+  | `text-2xs`  | 10.5px | mono micro-labels, handles, captions        |
+  | `text-xs`   | 12px   | secondary table data (Tailwind default)     |
+  | `text-body` | 13px   | default body, table cells                   |
+  | `text-sm`   | 14px   | bold names, row emphasis (Tailwind default) |
+  | `text-md`   | 15px   | emphasized row titles                       |
+  | `text-lg`   | 18px   | h3 (Tailwind default)                       |
+  | `text-xl`   | 22px   | section numerals                            |
+  | `text-stat` | 26px   | big stat numerals                           |
+  | `text-3xl`  | 30px   | h1 (Tailwind default)                       |
 
 ## Layout
 

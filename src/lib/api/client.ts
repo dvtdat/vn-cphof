@@ -2,6 +2,7 @@
  * Typed API client for client components - SPEC §7.
  * Swap NEXT_PUBLIC_API_BASE_URL when the real backend lands; zero component changes.
  */
+import { z } from 'zod'
 import {
   leaderboardResponseSchema,
   searchResponseSchema,
@@ -12,11 +13,15 @@ import type { LeaderboardQuery } from './store'
 
 const BASE = process.env.NEXT_PUBLIC_API_BASE_URL ?? ''
 
+const errorBodySchema = z.object({ error: z.object({ message: z.string() }) })
+
 async function get<T>(path: string, parse: (data: unknown) => T): Promise<T> {
   const res = await fetch(`${BASE}/api/v1${path}`)
   if (!res.ok) {
-    const body = await res.json().catch(() => null)
-    throw new Error(body?.error?.message ?? `API error ${res.status}`)
+    const body = errorBodySchema.safeParse(await res.json().catch(() => null))
+    throw new Error(
+      body.success ? body.data.error.message : `API error ${res.status}`
+    )
   }
   return parse(await res.json())
 }
@@ -42,14 +47,13 @@ export function fetchSearch(q: string): Promise<SearchResponse> {
 }
 
 // ── Paged option lists for infinite-scroll selects ───────────────────
-import { z } from 'zod'
 
 export interface OptionPage {
   items: { value: string; label: string }[]
   nextCursor: string | null
 }
 
-const pageOf = <T extends z.ZodTypeAny>(item: T) =>
+const pageOf = <T extends z.ZodType>(item: T) =>
   z.object({
     items: z.array(item),
     nextCursor: z.string().nullable(),

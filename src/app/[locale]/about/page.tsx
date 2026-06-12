@@ -1,7 +1,9 @@
 import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 
-type Props = { params: Promise<{ locale: string }> }
+interface Props {
+  params: Promise<{ locale: string }>
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
@@ -19,17 +21,26 @@ export default async function AboutPage({ params }: Props) {
       <h1 className="reveal text-3xl font-extrabold leading-tight tracking-tight">
         {t('title')}
       </h1>
-      <p className="reveal mt-4 text-sm leading-relaxed text-ink-soft">{t('intro')}</p>
+      <p className="reveal mt-4 text-sm leading-relaxed text-ink-soft">
+        {t('intro')}
+      </p>
 
-      
       <section className="reveal mt-8">
-        <h2 className="text-lg font-extrabold tracking-tight">{t('dataTitle')}</h2>
-        <p className="mt-2.5 text-sm leading-relaxed text-ink-soft">{t('data')}</p>
+        <h2 className="text-lg font-extrabold tracking-tight">
+          {t('dataTitle')}
+        </h2>
+        <p className="mt-2.5 text-sm leading-relaxed text-ink-soft">
+          {t('data')}
+        </p>
       </section>
 
       <section className="reveal mt-8">
-        <h2 className="text-lg font-extrabold tracking-tight">{t('creditsTitle')}</h2>
-        <p className="mt-2.5 text-sm leading-relaxed text-ink-soft">{t('credits')}</p>
+        <h2 className="text-lg font-extrabold tracking-tight">
+          {t('creditsTitle')}
+        </h2>
+        <p className="mt-2.5 text-sm leading-relaxed text-ink-soft">
+          {t('credits')}
+        </p>
       </section>
     </div>
   )

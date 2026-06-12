@@ -19,7 +19,7 @@ import type { Organization } from '@/lib/api/schemas'
 import { slugify } from '@/lib/text'
 import seeds from './org-seeds.json'
 
-type OrgSeed = {
+interface OrgSeed {
   id: string
   name: string
   nameEn: string

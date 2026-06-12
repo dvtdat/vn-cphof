@@ -1,5 +1,5 @@
-import { useTranslations } from 'next-intl'
 import { Link } from '@/i18n/navigation'
+import { useTranslations } from 'next-intl'
 import { LocaleSwitcher } from './locale-switcher'
 import { LogoSubtract } from './logo'
 
@@ -21,21 +21,27 @@ export function SiteHeader() {
         </Link>
 
         <nav aria-label="Primary" className="ml-2 flex gap-1">
-                    <NavLink href="/contests">{t('nav.contests')}</NavLink>
+          <NavLink href="/contests">{t('nav.contests')}</NavLink>
           <NavLink href="/departments">{t('nav.departments')}</NavLink>
           <NavLink href="/organizations">{t('nav.organizations')}</NavLink>
           <NavLink href="/about">{t('nav.about')}</NavLink>
         </nav>
 
         <div className="ml-auto flex items-center gap-3.5">
-                    <LocaleSwitcher />
+          <LocaleSwitcher />
         </div>
       </div>
     </header>
   )
 }
 
-function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
+function NavLink({
+  href,
+  children,
+}: {
+  href: string
+  children: React.ReactNode
+}) {
   return (
     <Link
       href={href}

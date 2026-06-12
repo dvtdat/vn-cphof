@@ -8,7 +8,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
     () =>
       new QueryClient({
         defaultOptions: { queries: { staleTime: 60_000, retry: 1 } },
-      }),
+      })
   )
   return <QueryClientProvider client={client}>{children}</QueryClientProvider>
 }

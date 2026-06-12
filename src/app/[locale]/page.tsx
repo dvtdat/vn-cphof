@@ -1,5 +1,5 @@
-import { setRequestLocale } from 'next-intl/server'
 import { redirect } from '@/i18n/navigation'
+import { setRequestLocale } from 'next-intl/server'
 
 export default async function HomePage({
   params,

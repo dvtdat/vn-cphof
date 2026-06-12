@@ -379,7 +379,7 @@ export const visualTierMap: Record<string, VisualTier> = {
 }
 
 // ── Profiles ─────────────────────────────────────────────────────────
-type Seed = {
+interface Seed {
   name: string
   handle: string
   dept: string
@@ -598,7 +598,7 @@ export const teams: Team[] = [
 // ── Achievements - SPEC §4.2 ─────────────────────────────────────────
 let achSeq = 0
 const ach = (
-  profileOrTeam: { p?: string; t?: string },
+  profileOrTeam: { p: string } | { t: string },
   editionId: string,
   category: Achievement['category'],
   resultTier: string,
@@ -606,9 +606,10 @@ const ach = (
   extra: Partial<Achievement> = {}
 ): Achievement => ({
   id: `a-${achSeq++}`,
-  subject: profileOrTeam.p
-    ? { kind: 'profile', profileId: profileOrTeam.p }
-    : { kind: 'team', teamId: profileOrTeam.t! },
+  subject:
+    'p' in profileOrTeam
+      ? { kind: 'profile', profileId: profileOrTeam.p }
+      : { kind: 'team', teamId: profileOrTeam.t },
   contestEditionId: editionId,
   category,
   resultTier,

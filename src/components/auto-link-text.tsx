@@ -15,7 +15,7 @@ export function AutoLinkText({ text }: { text: string }) {
         className="text-accent hover:underline"
       >
         {match[0]}
-      </a>,
+      </a>
     )
     last = i + match[0].length
   }

@@ -1,11 +1,13 @@
-import type { Metadata } from 'next'
-import { getTranslations, setRequestLocale } from 'next-intl/server'
-import { notFound } from 'next/navigation'
 import { Link } from '@/i18n/navigation'
 import { getContest, listContests } from '@/lib/api/store'
 import { localName } from '@/lib/text'
+import type { Metadata } from 'next'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
+import { notFound } from 'next/navigation'
 
-type Props = { params: Promise<{ locale: string; slug: string }> }
+interface Props {
+  params: Promise<{ locale: string; slug: string }>
+}
 
 export function generateStaticParams() {
   return listContests().map((c) => ({ slug: c.slug }))
@@ -14,7 +16,9 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params
   const c = getContest(slug)
-  return c ? { title: c.shortName, description: localName(locale, c.name, c.nameEn) } : {}
+  return c
+    ? { title: c.shortName, description: localName(locale, c.name, c.nameEn) }
+    : {}
 }
 
 export default async function ContestPage({ params }: Props) {
@@ -72,7 +76,10 @@ export default async function ContestPage({ params }: Props) {
                   {e.year}
                 </td>
                 <td className="border-b border-line px-3 py-3 text-sm font-bold">
-                  <Link href={`/contests/${c.slug}/${e.year}`} className="hover:text-accent">
+                  <Link
+                    href={`/contests/${c.slug}/${e.year}`}
+                    className="hover:text-accent"
+                  >
                     {localName(locale, e.editionLabel, e.editionLabelEn)}
                   </Link>
                 </td>
@@ -81,7 +88,9 @@ export default async function ContestPage({ params }: Props) {
                 </td>
                 <td className="border-b border-line px-3 py-3 text-right font-mono text-2xs text-ink-faint">
                   {e.resultCount > 0
-                    ? t(c.isTeamBased ? 'teamCount' : 'resultCount', { count: e.resultCount })
+                    ? t(c.isTeamBased ? 'teamCount' : 'resultCount', {
+                        count: e.resultCount,
+                      })
                     : '·'}
                 </td>
               </tr>

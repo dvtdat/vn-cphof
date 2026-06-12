@@ -1,50 +1,50 @@
 [
- {
-  "label": "A",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_a"
- },
- {
-  "label": "B",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_b"
- },
- {
-  "label": "C",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_c"
- },
- {
-  "label": "D",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_d"
- },
- {
-  "label": "E",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_e"
- },
- {
-  "label": "F",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_f"
- },
- {
-  "label": "G",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_g"
- },
- {
-  "label": "H",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_h"
- },
- {
-  "label": "I",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_i"
- },
- {
-  "label": "J",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_j"
- },
- {
-  "label": "K",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_k"
- },
- {
-  "label": "L",
-  "statementUrl": "https://national.vnoi.info/problem/icpc_l"
- }
+  {
+    "label": "A",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_a"
+  },
+  {
+    "label": "B",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_b"
+  },
+  {
+    "label": "C",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_c"
+  },
+  {
+    "label": "D",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_d"
+  },
+  {
+    "label": "E",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_e"
+  },
+  {
+    "label": "F",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_f"
+  },
+  {
+    "label": "G",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_g"
+  },
+  {
+    "label": "H",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_h"
+  },
+  {
+    "label": "I",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_i"
+  },
+  {
+    "label": "J",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_j"
+  },
+  {
+    "label": "K",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_k"
+  },
+  {
+    "label": "L",
+    "statementUrl": "https://national.vnoi.info/problem/icpc_l"
+  }
 ]

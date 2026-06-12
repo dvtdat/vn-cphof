@@ -19,10 +19,7 @@ export type AchievementCategory = z.infer<typeof achievementCategorySchema>
 export const visualTierSchema = z.enum(['gold', 'silver', 'bronze', 'neutral'])
 export type VisualTier = z.infer<typeof visualTierSchema>
 
-const httpUrl = z
-  .string()
-  .url()
-  .regex(/^https?:\/\//, 'http(s) only') // SPEC §10.3
+const httpUrl = z.url({ protocol: /^https?$/, error: 'http(s) only' }) // SPEC §10.3
 
 // ── Department - SPEC §4.6 ──────────────────────────────────────────
 export const departmentSchema = z.object({

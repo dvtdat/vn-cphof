@@ -11,7 +11,8 @@
     "departments": "Departments",
     "organizations": "Organizations",
     "about": "About",
-    "search": "Search"
+    "search": "Search",
+    "close": "Close"
   },
   "modes": {
     "overall": "Overall",

@@ -15,8 +15,8 @@ A community-curated, admin-moderated archive that preserves the history of Vietn
 
 Two things differentiate this from cphof.org:
 
-1. **Depth, not just breadth.** cphof only tracks elite *international* finals. We go all the way down to departmental olympiads, which matters for the Vietnamese pipeline (HSG tỉnh → VOI → TST → IOI; OLP/ICPC at university level).
-2. **Community submission.** cphof is curated top-down by one maintainer. We let anyone submit themselves via a form, with an admin approving/curating into canonical profiles. *(Submission and admin surfaces are spec'd here but deferred to the backend phase - see §2.)*
+1. **Depth, not just breadth.** cphof only tracks elite _international_ finals. We go all the way down to departmental olympiads, which matters for the Vietnamese pipeline (HSG tỉnh → VOI → TST → IOI; OLP/ICPC at university level).
+2. **Community submission.** cphof is curated top-down by one maintainer. We let anyone submit themselves via a form, with an admin approving/curating into canonical profiles. _(Submission and admin surfaces are spec'd here but deferred to the backend phase - see §2.)_
 
 ### Phasing
 
@@ -47,7 +47,7 @@ Two things differentiate this from cphof.org:
 
 ### Non-goals (any phase)
 
-- Live judging / running contests (we archive *results* only).
+- Live judging / running contests (we archive _results_ only).
 - Auto-syncing ratings from Codeforces/AtCoder/etc. - handles are stored as links; rating badges are display-only flair (§5.3).
 - User-to-user social features (comments, follows, messaging).
 - Prize-money tracking.
@@ -79,35 +79,42 @@ Entities are documented as TypeScript shapes. In code, each is a zod schema in `
 
 ```ts
 interface Profile {
-  id: string;
-  slug: string;                      // e.g. "le-van-a"
-  fullName: string;                  // Vietnamese, full diacritics
-  displayHandle?: string;            // optional alias, "tourist"-style
-  bio?: string;                      // PLAIN TEXT only - see §10.3 (XSS)
-  avatarUrl?: string;
-  hometownDepartmentCode?: string;     // FK → Department (hometown, not residence)
-  organizations: OrganizationAffiliation[];
-  externalAccounts: ExternalAccount[];
-  ratingBadges?: RatingBadge[];      // display-only flair, never ranked (§5.3)
-  status: 'published' | 'hidden';
+  id: string
+  slug: string // e.g. "le-van-a"
+  fullName: string // Vietnamese, full diacritics
+  displayHandle?: string // optional alias, "tourist"-style
+  bio?: string // PLAIN TEXT only - see §10.3 (XSS)
+  avatarUrl?: string
+  hometownDepartmentCode?: string // FK → Department (hometown, not residence)
+  organizations: OrganizationAffiliation[]
+  externalAccounts: ExternalAccount[]
+  ratingBadges?: RatingBadge[] // display-only flair, never ranked (§5.3)
+  status: 'published' | 'hidden'
 }
 
 interface OrganizationAffiliation {
-  organizationId: string;            // FK → Organization
-  role: 'student' | 'coach';
-  eraLabel?: string;                 // e.g. "2018–2021"
+  organizationId: string // FK → Organization
+  role: 'student' | 'coach'
+  eraLabel?: string // e.g. "2018–2021"
 }
 
 interface ExternalAccount {
-  platform: 'codeforces' | 'atcoder' | 'topcoder' | 'vnoj' | 'codechef' | 'github' | 'other';
-  handle: string;
-  url: string;                       // http(s) only - validated (§10.3)
+  platform:
+    | 'codeforces'
+    | 'atcoder'
+    | 'topcoder'
+    | 'vnoj'
+    | 'codechef'
+    | 'github'
+    | 'other'
+  handle: string
+  url: string // http(s) only - validated (§10.3)
 }
 
 interface RatingBadge {
-  platform: 'codeforces' | 'atcoder';
-  title: string;                     // e.g. "LGM", "IGM", "Red"
-  colorToken: string;                // design-token key, not a raw hex
+  platform: 'codeforces' | 'atcoder'
+  title: string // e.g. "LGM", "IGM", "Red"
+  colorToken: string // design-token key, not a raw hex
 }
 ```
 
@@ -118,22 +125,22 @@ One result by one person **or** one team at one contest edition. Subject is a di
 ```ts
 type AchievementSubject =
   | { kind: 'profile'; profileId: string }
-  | { kind: 'team'; teamId: string };      // team achievements attach to the Team;
-                                           // the Team links member Profiles
+  | { kind: 'team'; teamId: string } // team achievements attach to the Team;
+// the Team links member Profiles
 
 interface Achievement {
-  id: string;
-  subject: AchievementSubject;
-  contestEditionId: string;          // FK → ContestEdition
-  category: AchievementCategory;     // §5
-  resultTier: string;                // tier key valid for the category (§5)
-  rank?: number;                     // for rank-based results (ICPC)
-  year: number;
-  departmentAliasRef?: string;         // for departmental HSG: the department name AS IT WAS
-                                     // at the time (resolves via Department.historicalAliases)
-  proofUrl?: string;                 // public link to official results
-  verificationStatus: 'verified' | 'pending';
-  notes?: string;
+  id: string
+  subject: AchievementSubject
+  contestEditionId: string // FK → ContestEdition
+  category: AchievementCategory // §5
+  resultTier: string // tier key valid for the category (§5)
+  rank?: number // for rank-based results (ICPC)
+  year: number
+  departmentAliasRef?: string // for departmental HSG: the department name AS IT WAS
+  // at the time (resolves via Department.historicalAliases)
+  proofUrl?: string // public link to official results
+  verificationStatus: 'verified' | 'pending'
+  notes?: string
 }
 ```
 
@@ -143,25 +150,25 @@ interface Achievement {
 
 ```ts
 interface Contest {
-  id: string;
-  slug: string;                      // "ioi", "voi", "icpc-vietnam-national"
-  name: string;                      // localized via i18n key, see §9
-  shortName: string;
-  category: AchievementCategory;     // §5
-  scope: 'international' | 'regional' | 'national' | 'departmental';
-  isTeamBased: boolean;
-  description?: string;
-  homepageUrl?: string;
+  id: string
+  slug: string // "ioi", "voi", "icpc-vietnam-national"
+  name: string // localized via i18n key, see §9
+  shortName: string
+  category: AchievementCategory // §5
+  scope: 'international' | 'regional' | 'national' | 'departmental'
+  isTeamBased: boolean
+  description?: string
+  homepageUrl?: string
 }
 
 interface ContestEdition {
-  id: string;
-  contestId: string;
-  editionLabel: string;              // "IOI 2023", "VOI 2024"
-  year: number;
-  location?: string;
-  date?: string;                     // ISO 8601
-  hostOrganizationId?: string;
+  id: string
+  contestId: string
+  editionLabel: string // "IOI 2023", "VOI 2024"
+  year: number
+  location?: string
+  date?: string // ISO 8601
+  hostOrganizationId?: string
 }
 ```
 
@@ -171,15 +178,15 @@ Admins (Phase 2) create these so submitters select from dropdowns rather than fr
 
 ```ts
 interface Team {
-  id: string;
-  slug: string;
-  name: string;                      // "HCMUS-AleaJactaEst"
-  organizationId: string;            // FK → Organization
-  contestEditionId: string;
-  teamType: 'university' | 'high_school';   // mirrors ICPC VN scoreboard split
-  memberProfileIds: string[];        // 1–3
-  coach?: { profileId?: string; freeText?: string };
-  result?: { rank?: number; medal?: string; solved?: number; penalty?: number };
+  id: string
+  slug: string
+  name: string // "HCMUS-AleaJactaEst"
+  organizationId: string // FK → Organization
+  contestEditionId: string
+  teamType: 'university' | 'high_school' // mirrors ICPC VN scoreboard split
+  memberProfileIds: string[] // 1–3
+  coach?: { profileId?: string; freeText?: string }
+  result?: { rank?: number; medal?: string; solved?: number; penalty?: number }
 }
 ```
 
@@ -187,18 +194,18 @@ interface Team {
 
 ```ts
 interface Organization {
-  id: string;
-  slug: string;
-  name: string;
-  shortName?: string;
-  type: 'high_school' | 'university';
-  departmentCode: string;              // FK → Department
-  aliases: string[];                 // scoreboard-name matching, renames
-  logoUrl?: string;
+  id: string
+  slug: string
+  name: string
+  shortName?: string
+  type: 'high_school' | 'university'
+  departmentCode: string // FK → Department
+  aliases: string[] // scoreboard-name matching, renames
+  logoUrl?: string
 }
 ```
 
-> Naming convention observed on ICPC VN scoreboards and used in fixtures: gifted high schools as `HSGS <Name> - <Department>` (e.g. *HSGS Le Hong Phong - Ho Chi Minh City*); universities by full name (e.g. *University of Science, VNU-HCM*). That scoreboard list is the seed set - §11.
+> Naming convention observed on ICPC VN scoreboards and used in fixtures: gifted high schools as `HSGS <Name> - <Department>` (e.g. _HSGS Le Hong Phong - Ho Chi Minh City_); universities by full name (e.g. _University of Science, VNU-HCM_). That scoreboard list is the seed set - §11.
 
 ### 4.6 Department
 
@@ -206,14 +213,14 @@ interface Organization {
 
 ```ts
 interface Department {
-  code: string;                      // canonical, stable ID
-  name: string;                      // Vietnamese
-  nameEn: string;
+  code: string // canonical, stable ID
+  name: string // Vietnamese
+  nameEn: string
   historicalAliases: {
-    name: string;
-    nameEn: string;
-    validUntil: number;              // year the alias ceased (e.g. merged 2025 → 2025)
-  }[];
+    name: string
+    nameEn: string
+    validUntil: number // year the alias ceased (e.g. merged 2025 → 2025)
+  }[]
 }
 ```
 
@@ -223,8 +230,8 @@ Weights powering the "Overall" leaderboard mode (§6). Served by the API so the 
 
 ```ts
 interface RankingConfig {
-  version: number;
-  weights: Record<AchievementCategory, Record<string /* tier key */, number>>;
+  version: number
+  weights: Record<AchievementCategory, Record<string /* tier key */, number>>
 }
 ```
 
@@ -240,18 +247,18 @@ Raw output of the public form: claimed identity, accounts, achievements, selecte
 
 ### 5.1 Categories and result tiers
 
-| Category key | Contest(s) | Level | Subject | Result tiers |
-|---|---|---|---|---|
-| `ioi` | IOI | International, individual | profile | Gold / Silver / Bronze / Honorable Mention / Participant |
-| `apio` | APIO | International, individual | profile | Gold / Silver / Bronze / Participant |
-| `intl_other` | Other international olympiads (invitationals, ISIJ-style, etc.) | International, individual | profile | Gold / Silver / Bronze / Other |
-| `icpc_wf` | ICPC World Finals | International, team | team | Champion / Gold / Silver / Bronze / Rank / Honorable Mention |
-| `icpc_asia` | ICPC Asia-Pacific Championship, Asia regionals | Regional, team | team | Rank / Medal |
-| `icpc_vn` | ICPC Vietnam National & Regional | National, team | team | Rank / Award (split by `teamType`: university vs high school) |
-| `voi` | VOI - HSG Quốc gia môn Tin học | National, individual | profile | Giải Nhất / Giải Nhì / Giải Ba / Khuyến khích |
-| `tst` | TST / đội tuyển quốc gia (IOI/APIO selection) | National, individual | profile | Selected / Rank |
-| `olp` | Olympic Tin học Sinh viên | National (university), individual | profile | Siêu cúp / Chuyên tin (Nhất/Nhì/Ba/KK) / Không chuyên (Nhất/Nhì/Ba/KK) |
-| `departmental` | HSG cấp Tỉnh/Thành phố môn Tin học | Departmental, individual | profile | Nhất / Nhì / Ba / Khuyến khích |
+| Category key   | Contest(s)                                                      | Level                             | Subject | Result tiers                                                           |
+| -------------- | --------------------------------------------------------------- | --------------------------------- | ------- | ---------------------------------------------------------------------- |
+| `ioi`          | IOI                                                             | International, individual         | profile | Gold / Silver / Bronze / Honorable Mention / Participant               |
+| `apio`         | APIO                                                            | International, individual         | profile | Gold / Silver / Bronze / Participant                                   |
+| `intl_other`   | Other international olympiads (invitationals, ISIJ-style, etc.) | International, individual         | profile | Gold / Silver / Bronze / Other                                         |
+| `icpc_wf`      | ICPC World Finals                                               | International, team               | team    | Champion / Gold / Silver / Bronze / Rank / Honorable Mention           |
+| `icpc_asia`    | ICPC Asia-Pacific Championship, Asia regionals                  | Regional, team                    | team    | Rank / Medal                                                           |
+| `icpc_vn`      | ICPC Vietnam National & Regional                                | National, team                    | team    | Rank / Award (split by `teamType`: university vs high school)          |
+| `voi`          | VOI - HSG Quốc gia môn Tin học                                  | National, individual              | profile | Giải Nhất / Giải Nhì / Giải Ba / Khuyến khích                          |
+| `tst`          | TST / đội tuyển quốc gia (IOI/APIO selection)                   | National, individual              | profile | Selected / Rank                                                        |
+| `olp`          | Olympic Tin học Sinh viên                                       | National (university), individual | profile | Siêu cúp / Chuyên tin (Nhất/Nhì/Ba/KK) / Không chuyên (Nhất/Nhì/Ba/KK) |
+| `departmental` | HSG cấp Tỉnh/Thành phố môn Tin học                              | Departmental, individual          | profile | Nhất / Nhì / Ba / Khuyến khích                                         |
 
 Tier keys are stable slugs (`gold`, `giai-nhat`, `sieu-cup`, …); display names localize via i18n (§9).
 
@@ -292,12 +299,12 @@ Scores and rank ordering are **computed by the API** (mock now, backend later), 
 
 Leaderboard rows and other compact summaries use a single medal-token language even for non-medal Vietnamese tiers. Each `resultTier` maps to a **visual tier** for the compact cluster; the true tier name always appears on hover (tooltip) and on the profile/contest pages.
 
-| Visual tier | Maps from |
-|---|---|
-| Gold token | IOI/APIO/intl Gold · ICPC Champion/Gold · Giải Nhất · OLP Siêu cúp / Nhất |
-| Silver token | Silver medals · ICPC Silver · Giải Nhì · OLP Nhì |
-| Bronze token | Bronze medals · ICPC Bronze · Giải Ba · OLP Ba |
-| Neutral token | Khuyến khích · Honorable Mention · Participant / other |
+| Visual tier   | Maps from                                                                 |
+| ------------- | ------------------------------------------------------------------------- |
+| Gold token    | IOI/APIO/intl Gold · ICPC Champion/Gold · Giải Nhất · OLP Siêu cúp / Nhất |
+| Silver token  | Silver medals · ICPC Silver · Giải Nhì · OLP Nhì                          |
+| Bronze token  | Bronze medals · ICPC Bronze · Giải Ba · OLP Ba                            |
+| Neutral token | Khuyến khích · Honorable Mention · Participant / other                    |
 
 The mapping lives in the taxonomy data (each tier key carries a `visualTier` field), not in component code.
 
@@ -309,27 +316,27 @@ REST, JSON, base path `/api/v1`. All responses zod-validated at the client bound
 
 ### 7.1 Endpoints
 
-| Endpoint | Query params | Returns |
-|---|---|---|
-| `GET /leaderboard` | `mode` (overall\|ioi\|apio\|icpc\|voi\|olp\|departmental), `department`, `organization`, `category`, `year`, `teamType`, `sort`, `cursor`, `limit` (default 50) | `{ items: RankedEntry[], nextCursor: string \| null, total: number, configVersion: number }` |
-| `GET /profiles/:slug` | - | `Profile` + `achievements: AchievementExpanded[]` + `teams: TeamSummary[]` + `pointsBreakdown` |
-| `GET /contests` | `scope`, `category` | `Contest[]` with edition counts |
-| `GET /contests/:slug` | - | `Contest` + `editions: ContestEdition[]` |
-| `GET /contests/:slug/editions/:editionLabel` | - | Edition + ranked results (people or teams, expanded) |
-| `GET /departments` | - | `Department[]` + per-department aggregate medal counts |
-| `GET /departments/:code` | - | `Department` + people (ranked) + organizations + aggregates |
-| `GET /organizations` | `type`, `department` | `Organization[]` + counts |
-| `GET /organizations/:slug` | - | `Organization` + people + teams + aggregates |
-| `GET /teams/:slug` | - | `Team` expanded (members, org, edition, result) |
-| `GET /search` | `q` (min 2 chars) | `{ profiles: [], contests: [], organizations: [], departments: [] }` - grouped, max 5 each |
-| `GET /config/ranking` | - | `RankingConfig` |
+| Endpoint                                     | Query params                                                                                                                                                    | Returns                                                                                        |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| `GET /leaderboard`                           | `mode` (overall\|ioi\|apio\|icpc\|voi\|olp\|departmental), `department`, `organization`, `category`, `year`, `teamType`, `sort`, `cursor`, `limit` (default 50) | `{ items: RankedEntry[], nextCursor: string \| null, total: number, configVersion: number }`   |
+| `GET /profiles/:slug`                        | -                                                                                                                                                               | `Profile` + `achievements: AchievementExpanded[]` + `teams: TeamSummary[]` + `pointsBreakdown` |
+| `GET /contests`                              | `scope`, `category`                                                                                                                                             | `Contest[]` with edition counts                                                                |
+| `GET /contests/:slug`                        | -                                                                                                                                                               | `Contest` + `editions: ContestEdition[]`                                                       |
+| `GET /contests/:slug/editions/:editionLabel` | -                                                                                                                                                               | Edition + ranked results (people or teams, expanded)                                           |
+| `GET /departments`                           | -                                                                                                                                                               | `Department[]` + per-department aggregate medal counts                                         |
+| `GET /departments/:code`                     | -                                                                                                                                                               | `Department` + people (ranked) + organizations + aggregates                                    |
+| `GET /organizations`                         | `type`, `department`                                                                                                                                            | `Organization[]` + counts                                                                      |
+| `GET /organizations/:slug`                   | -                                                                                                                                                               | `Organization` + people + teams + aggregates                                                   |
+| `GET /teams/:slug`                           | -                                                                                                                                                               | `Team` expanded (members, org, edition, result)                                                |
+| `GET /search`                                | `q` (min 2 chars)                                                                                                                                               | `{ profiles: [], contests: [], organizations: [], departments: [] }` - grouped, max 5 each     |
+| `GET /config/ranking`                        | -                                                                                                                                                               | `RankingConfig`                                                                                |
 
 ```ts
 interface RankedEntry {
-  rank: number;
-  profile: ProfileSummary;           // id, slug, fullName, displayHandle, avatarUrl, departmentCode
-  medalSummary: { category: AchievementCategory; tier: string; count: number }[];
-  points?: number;                   // overall mode only
+  rank: number
+  profile: ProfileSummary // id, slug, fullName, displayHandle, avatarUrl, departmentCode
+  medalSummary: { category: AchievementCategory; tier: string; count: number }[]
+  points?: number // overall mode only
 }
 ```
 
@@ -477,22 +484,22 @@ Merged from the Claude Design handoff (wireframes, 2026-06-10) and the approved 
 
 ### 12.2 Color tokens
 
-| Token | Value | Use |
-|---|---|---|
-| `paper` | `#FAF9F5` | Page background (warm off-white) |
-| `card` | `#FFFFFF` | Cards, table surfaces |
-| `ink` | `#1C1B17` | Primary text |
-| `ink-soft` | `#6E6B62` | Secondary text |
-| `ink-faint` | `#A8A49A` | Tertiary / placeholders |
-| `line` | `#E7E4DC` | Hairline dividers, row borders |
-| `line-strong` | `#CFCBBF` | Card borders, table header rule |
-| `accent` | `#08558C` | THE accent - links, active states, top-3 markers, emphasis. Single accent; deep blue chosen over red in design review |
-| `accent-deep` | `#07406B` | Accent hover |
-| `accent-soft` | `rgba(8,85,140,.06)` | Row hover, tinted fills |
-| `gold` / `silver` / `bronze` | `#A8821F` / `#81817B` / `#9A6537` | Medal tokens, each with a 10%-alpha tinted background |
-| `logo-circle` | `#FFC40C` | Full-color logo background circle. SVG sources live in `public/logos/` (`logo.svg`, `logo-substract.svg`); both variants render inline via `src/components/logo.tsx` so all logo tokens are themeable via CSS variables |
-| `logo-star` | `#F99F1B` | Full-color logo star |
-| `logo-subtract` | `#FFFFFF` | Single-color subtract variant (star cut from circle), used on the blue header; falls back to `currentColor` |
+| Token                        | Value                             | Use                                                                                                                                                                                                                     |
+| ---------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `paper`                      | `#FAF9F5`                         | Page background (warm off-white)                                                                                                                                                                                        |
+| `card`                       | `#FFFFFF`                         | Cards, table surfaces                                                                                                                                                                                                   |
+| `ink`                        | `#1C1B17`                         | Primary text                                                                                                                                                                                                            |
+| `ink-soft`                   | `#6E6B62`                         | Secondary text                                                                                                                                                                                                          |
+| `ink-faint`                  | `#A8A49A`                         | Tertiary / placeholders                                                                                                                                                                                                 |
+| `line`                       | `#E7E4DC`                         | Hairline dividers, row borders                                                                                                                                                                                          |
+| `line-strong`                | `#CFCBBF`                         | Card borders, table header rule                                                                                                                                                                                         |
+| `accent`                     | `#08558C`                         | THE accent - links, active states, top-3 markers, emphasis. Single accent; deep blue chosen over red in design review                                                                                                   |
+| `accent-deep`                | `#07406B`                         | Accent hover                                                                                                                                                                                                            |
+| `accent-soft`                | `rgba(8,85,140,.06)`              | Row hover, tinted fills                                                                                                                                                                                                 |
+| `gold` / `silver` / `bronze` | `#A8821F` / `#81817B` / `#9A6537` | Medal tokens, each with a 10%-alpha tinted background                                                                                                                                                                   |
+| `logo-circle`                | `#FFC40C`                         | Full-color logo background circle. SVG sources live in `public/logos/` (`logo.svg`, `logo-substract.svg`); both variants render inline via `src/components/logo.tsx` so all logo tokens are themeable via CSS variables |
+| `logo-star`                  | `#F99F1B`                         | Full-color logo star                                                                                                                                                                                                    |
+| `logo-subtract`              | `#FFFFFF`                         | Single-color subtract variant (star cut from circle), used on the blue header; falls back to `currentColor`                                                                                                             |
 
 Per-department identity: a small deterministic muted color dot per department on department tags (token set, not random). Optional dark mode: deferred, not in Phase 1.
 
@@ -500,13 +507,13 @@ Per-department identity: a small deterministic muted color dot per department on
 
 **Primary family: SVN-Gotham** (licensed, Vietnamese-diacritic-complete; files in repo). Loaded via `next/font/local` from `src/fonts/svn-gotham/`:
 
-| File | Weight | Role |
-|---|---|---|
-| `SVN-Gotham-Book.otf` | 400 | Body |
-| `SVN-Gotham-Book-Italic.otf` | 400 italic | Rare emphasis |
-| `SVN-Gotham-Regular.otf` | 500 | Labels, nav, chips |
-| `SVN-Gotham-Bold.otf` | 700 | Names, row emphasis |
-| `SVN-Gotham-Black.otf` | 800 | Headings, rank numerals, big stats |
+| File                         | Weight     | Role                               |
+| ---------------------------- | ---------- | ---------------------------------- |
+| `SVN-Gotham-Book.otf`        | 400        | Body                               |
+| `SVN-Gotham-Book-Italic.otf` | 400 italic | Rare emphasis                      |
+| `SVN-Gotham-Regular.otf`     | 500        | Labels, nav, chips                 |
+| `SVN-Gotham-Bold.otf`        | 700        | Names, row emphasis                |
+| `SVN-Gotham-Black.otf`       | 800        | Headings, rank numerals, big stats |
 
 Fallback stack: `Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif`. The full SVN-Gotham family (Thin→Ultra) stays in `assets/fonts/svn-gotham/` source folder; only the five files above ship.
 
@@ -576,28 +583,28 @@ Canonical pieces (all visible in `design-preview.html`); build each once in `src
 
 ## 15. Decision Log
 
-| # | Question (v0.1) | Resolution |
-|---|---|---|
-| OPEN-1 | Ranking approach; weights? | Multi-mode (weighted Overall + per-category tables). Weights are admin-tunable placeholders served by `GET /config/ranking`; breakdown shown on profiles. |
-| OPEN-2 | Auth: admin-only vs user accounts? | Admin-only. No self-service profile ownership for now. |
-| OPEN-3 | One unified profile per person? | Yes - one profile spans high-organization and university eras, deduped by handles. |
-| OPEN-4 | Taxonomy extensions? | All included: TST, OLP Tin học Sinh viên, other-intl olympiads. CF/AtCoder ratings = display-only badges, never achievements. |
-| OPEN-5 | Department reorganization (2025)? | Canonical 34 current units + historical aliases with validity periods; era-correct display, canonical roll-up. |
-| OPEN-6 | Proof visibility? | Proof files admin-only, absent from the public API entirely. Public sees verified ✓ badge + public `proofUrl`. |
-| OPEN-7 | Language? | Bilingual, VI default, `/vi` `/en` path prefixes, hreflang alternates. |
-| OPEN-8 | Stack? | Frontend-only project (backend separate, later). Next.js App Router + shadcn/ui + TanStack Query/Virtual + zod + MSW + next-intl. |
-| OPEN-9 | Design/build priority? | Public browse only: Leaderboard → Profile → Contest → Department/Organization/Team. Submit form and admin deferred to Phase 2. Desktop-first; mobile later. |
+| #      | Question (v0.1)                    | Resolution                                                                                                                                                  |
+| ------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OPEN-1 | Ranking approach; weights?         | Multi-mode (weighted Overall + per-category tables). Weights are admin-tunable placeholders served by `GET /config/ranking`; breakdown shown on profiles.   |
+| OPEN-2 | Auth: admin-only vs user accounts? | Admin-only. No self-service profile ownership for now.                                                                                                      |
+| OPEN-3 | One unified profile per person?    | Yes - one profile spans high-organization and university eras, deduped by handles.                                                                          |
+| OPEN-4 | Taxonomy extensions?               | All included: TST, OLP Tin học Sinh viên, other-intl olympiads. CF/AtCoder ratings = display-only badges, never achievements.                               |
+| OPEN-5 | Department reorganization (2025)?  | Canonical 34 current units + historical aliases with validity periods; era-correct display, canonical roll-up.                                              |
+| OPEN-6 | Proof visibility?                  | Proof files admin-only, absent from the public API entirely. Public sees verified ✓ badge + public `proofUrl`.                                              |
+| OPEN-7 | Language?                          | Bilingual, VI default, `/vi` `/en` path prefixes, hreflang alternates.                                                                                      |
+| OPEN-8 | Stack?                             | Frontend-only project (backend separate, later). Next.js App Router + shadcn/ui + TanStack Query/Virtual + zod + MSW + next-intl.                           |
+| OPEN-9 | Design/build priority?             | Public browse only: Leaderboard → Profile → Contest → Department/Organization/Team. Submit form and admin deferred to Phase 2. Desktop-first; mobile later. |
 
 ### Design review resolutions (v0.3 - design handoff merged)
 
-| # | Conflict (design vs spec) | Resolution |
-|---|---|---|
-| D-1 | Screen layouts - wireframes offered 2 approaches per screen | **Approach A everywhere**: dense ranked table, two-column profile rail, single results table, stats-header department page. Submission-form screen not built (Phase 2). |
-| D-2 | Accent color - brief proposed deep red | **Blue `#08558C`** (chosen during design session, confirmed). |
-| D-3 | Mode tabs - design had 6 ("National", no OLP) | **Spec's 7 tabs canonical**: Overall / IOI / APIO / ICPC / VOI / OLP / Departmental. |
-| D-4 | "+ Submit a profile" button on leaderboard | **Hidden until Phase 2** - no dead buttons in production. |
-| D-5 | Typography - Gotham requested, license concern | **SVN-Gotham** (licensed family provided in repo, full Vietnamese diacritics). Five faces mapped to `src/fonts/svn-gotham/`, loaded via `next/font/local`; Montserrat documented fallback. |
-| D-6 | Non-medal VN tiers in compact medal clusters | **Map to G/S/B visual tiers** (§6.5): Giải Nhất→gold, Nhì→silver, Ba→bronze, KK→neutral; true tier name on hover and detail pages. Mapping lives in taxonomy data. |
-| D-7 | Dark mode - brief said "consider optional" | **Deferred** - not in Phase 1. |
-| D-8 | Terminology (v0.4) | **Province → Department, everywhere**: entity (`Department`, `departmentCode`, `departmentAliasRef`), API (`GET /departments`), routes (`/departments/[code]`), EN UI copy, and achievement category `provincial` → `departmental`. Vietnamese display copy unchanged (Tỉnh/Thành phố, HSG tỉnh) via i18n. Earlier log rows predate the rename and were updated mechanically. |
-| D-9 | Terminology (v0.5) | **School → Organization, everywhere**: `Profile.organizations` (`OrganizationAffiliation`), leaderboard `?organization=` param, routes (`/organizations`, `/organizations/[slug]`), nav + EN copy "Organizations", VI copy "Tổ chức". The org **type value** `high_school` and "high school"/"THPT" display strings are intentionally untouched - they describe the organization's kind, not the entity. |
+| #   | Conflict (design vs spec)                                   | Resolution                                                                                                                                                                                                                                                                                                                                                                                               |
+| --- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| D-1 | Screen layouts - wireframes offered 2 approaches per screen | **Approach A everywhere**: dense ranked table, two-column profile rail, single results table, stats-header department page. Submission-form screen not built (Phase 2).                                                                                                                                                                                                                                  |
+| D-2 | Accent color - brief proposed deep red                      | **Blue `#08558C`** (chosen during design session, confirmed).                                                                                                                                                                                                                                                                                                                                            |
+| D-3 | Mode tabs - design had 6 ("National", no OLP)               | **Spec's 7 tabs canonical**: Overall / IOI / APIO / ICPC / VOI / OLP / Departmental.                                                                                                                                                                                                                                                                                                                     |
+| D-4 | "+ Submit a profile" button on leaderboard                  | **Hidden until Phase 2** - no dead buttons in production.                                                                                                                                                                                                                                                                                                                                                |
+| D-5 | Typography - Gotham requested, license concern              | **SVN-Gotham** (licensed family provided in repo, full Vietnamese diacritics). Five faces mapped to `src/fonts/svn-gotham/`, loaded via `next/font/local`; Montserrat documented fallback.                                                                                                                                                                                                               |
+| D-6 | Non-medal VN tiers in compact medal clusters                | **Map to G/S/B visual tiers** (§6.5): Giải Nhất→gold, Nhì→silver, Ba→bronze, KK→neutral; true tier name on hover and detail pages. Mapping lives in taxonomy data.                                                                                                                                                                                                                                       |
+| D-7 | Dark mode - brief said "consider optional"                  | **Deferred** - not in Phase 1.                                                                                                                                                                                                                                                                                                                                                                           |
+| D-8 | Terminology (v0.4)                                          | **Province → Department, everywhere**: entity (`Department`, `departmentCode`, `departmentAliasRef`), API (`GET /departments`), routes (`/departments/[code]`), EN UI copy, and achievement category `provincial` → `departmental`. Vietnamese display copy unchanged (Tỉnh/Thành phố, HSG tỉnh) via i18n. Earlier log rows predate the rename and were updated mechanically.                            |
+| D-9 | Terminology (v0.5)                                          | **School → Organization, everywhere**: `Profile.organizations` (`OrganizationAffiliation`), leaderboard `?organization=` param, routes (`/organizations`, `/organizations/[slug]`), nav + EN copy "Organizations", VI copy "Tổ chức". The org **type value** `high_school` and "high school"/"THPT" display strings are intentionally untouched - they describe the organization's kind, not the entity. |

@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils'
 import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 
-type Props = {
+interface Props {
   params: Promise<{ locale: string }>
   searchParams: Promise<{ type?: string }>
 }

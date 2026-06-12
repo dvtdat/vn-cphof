@@ -7,7 +7,7 @@ export function GET(request: Request) {
     pageList(
       listDepartments(),
       sp.get('cursor') ?? undefined,
-      sp.get('limit') ? Number(sp.get('limit')) : undefined,
-    ),
+      sp.get('limit') ? Number(sp.get('limit')) : undefined
+    )
   )
 }

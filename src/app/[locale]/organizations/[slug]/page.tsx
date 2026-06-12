@@ -6,7 +6,9 @@ import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 
-type Props = { params: Promise<{ locale: string; slug: string }> }
+interface Props {
+  params: Promise<{ locale: string; slug: string }>
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params
@@ -105,7 +107,8 @@ export default async function OrganizationPage({ params }: Props) {
                           colSpan={4}
                           className="label border-b border-line px-3.5 pb-2 pt-4 text-left font-medium text-accent"
                         >
-                          {year} · {tc('teamCount', { count: yearTeams.length })}
+                          {year} ·{' '}
+                          {tc('teamCount', { count: yearTeams.length })}
                         </th>
                       </tr>
                       {yearTeams.map((team) => (
@@ -139,35 +142,35 @@ export default async function OrganizationPage({ params }: Props) {
       )}
 
       {o.people.length > 0 && (
-      <div className="reveal mt-8">
-        <div className="label">{t('people')}</div>
-        <table className="mt-2.5 w-full border-collapse">
-          <caption className="sr-only">{o.name}</caption>
-          <thead>
-            <tr>
-              <Th>{tl('person')}</Th>
-              <Th>{tl('medals')}</Th>
-            </tr>
-          </thead>
-          <tbody>
-            {o.people.map((e) => (
-              <tr key={e.profile.id} className="hover:bg-accent-soft">
-                <td className="border-b border-line px-3.5 py-3">
-                  <Link
-                    href={`/p/${e.profile.slug}`}
-                    className="block hover:text-accent"
-                  >
-                    <PersonCell profile={e.profile} />
-                  </Link>
-                </td>
-                <td className="border-b border-line px-3.5 py-3">
-                  <MedalCluster summary={e.medalSummary} />
-                </td>
+        <div className="reveal mt-8">
+          <div className="label">{t('people')}</div>
+          <table className="mt-2.5 w-full border-collapse">
+            <caption className="sr-only">{o.name}</caption>
+            <thead>
+              <tr>
+                <Th>{tl('person')}</Th>
+                <Th>{tl('medals')}</Th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+            </thead>
+            <tbody>
+              {o.people.map((e) => (
+                <tr key={e.profile.id} className="hover:bg-accent-soft">
+                  <td className="border-b border-line px-3.5 py-3">
+                    <Link
+                      href={`/p/${e.profile.slug}`}
+                      className="block hover:text-accent"
+                    >
+                      <PersonCell profile={e.profile} />
+                    </Link>
+                  </td>
+                  <td className="border-b border-line px-3.5 py-3">
+                    <MedalCluster summary={e.medalSummary} />
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       )}
     </div>
   )

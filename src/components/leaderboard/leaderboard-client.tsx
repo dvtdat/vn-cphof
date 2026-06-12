@@ -58,7 +58,7 @@ export function LeaderboardClient({
 
   const query: Query = useMemo(() => {
     const mode =
-      (searchParams.get('mode') as LeaderboardMode) ?? initialQuery.mode
+      (searchParams.get('mode') as LeaderboardMode | null) ?? initialQuery.mode
     return {
       mode: MODES.includes(mode) ? mode : 'overall',
       department: searchParams.get('department') ?? undefined,
@@ -75,7 +75,7 @@ export function LeaderboardClient({
       const sp = new URLSearchParams(searchParams.toString())
       if (value) sp.set(key, value)
       else sp.delete(key)
-      router.replace(`${pathname}?${sp.toString()}` as never, { scroll: false })
+      router.replace(`${pathname}?${sp.toString()}`, { scroll: false })
     },
     [router, pathname, searchParams]
   )
@@ -107,7 +107,7 @@ export function LeaderboardClient({
     const io = new IntersectionObserver(
       (entries) => {
         if (entries[0].isIntersecting && hasNextPage && !isFetchingNextPage)
-          fetchNextPage()
+          void fetchNextPage()
       },
       { rootMargin: '300px' }
     )

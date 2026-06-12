@@ -1,54 +1,54 @@
 [
- {
-  "label": "A",
-  "statementUrl": "https://national21.vnoi.info/problem/arrangingmarbles"
- },
- {
-  "label": "B",
-  "statementUrl": "https://national21.vnoi.info/problem/beautifulboard"
- },
- {
-  "label": "C",
-  "statementUrl": "https://national21.vnoi.info/problem/congruenttriangles"
- },
- {
-  "label": "D",
-  "statementUrl": "https://national21.vnoi.info/problem/distinctivetours"
- },
- {
-  "label": "E",
-  "statementUrl": "https://national21.vnoi.info/problem/evenpaths"
- },
- {
-  "label": "F",
-  "statementUrl": "https://national21.vnoi.info/problem/finalranking"
- },
- {
-  "label": "G",
-  "statementUrl": "https://national21.vnoi.info/problem/grouptesting"
- },
- {
-  "label": "H",
-  "statementUrl": "https://national21.vnoi.info/problem/hallwaytiling"
- },
- {
-  "label": "I",
-  "statementUrl": "https://national21.vnoi.info/problem/icpcproblemselection"
- },
- {
-  "label": "J",
-  "statementUrl": "https://national21.vnoi.info/problem/jewelbox"
- },
- {
-  "label": "K",
-  "statementUrl": "https://national21.vnoi.info/problem/kquery"
- },
- {
-  "label": "L",
-  "statementUrl": "https://national21.vnoi.info/problem/luckypair"
- },
- {
-  "label": "M",
-  "statementUrl": "https://national21.vnoi.info/problem/masterchef"
- }
+  {
+    "label": "A",
+    "statementUrl": "https://national21.vnoi.info/problem/arrangingmarbles"
+  },
+  {
+    "label": "B",
+    "statementUrl": "https://national21.vnoi.info/problem/beautifulboard"
+  },
+  {
+    "label": "C",
+    "statementUrl": "https://national21.vnoi.info/problem/congruenttriangles"
+  },
+  {
+    "label": "D",
+    "statementUrl": "https://national21.vnoi.info/problem/distinctivetours"
+  },
+  {
+    "label": "E",
+    "statementUrl": "https://national21.vnoi.info/problem/evenpaths"
+  },
+  {
+    "label": "F",
+    "statementUrl": "https://national21.vnoi.info/problem/finalranking"
+  },
+  {
+    "label": "G",
+    "statementUrl": "https://national21.vnoi.info/problem/grouptesting"
+  },
+  {
+    "label": "H",
+    "statementUrl": "https://national21.vnoi.info/problem/hallwaytiling"
+  },
+  {
+    "label": "I",
+    "statementUrl": "https://national21.vnoi.info/problem/icpcproblemselection"
+  },
+  {
+    "label": "J",
+    "statementUrl": "https://national21.vnoi.info/problem/jewelbox"
+  },
+  {
+    "label": "K",
+    "statementUrl": "https://national21.vnoi.info/problem/kquery"
+  },
+  {
+    "label": "L",
+    "statementUrl": "https://national21.vnoi.info/problem/luckypair"
+  },
+  {
+    "label": "M",
+    "statementUrl": "https://national21.vnoi.info/problem/masterchef"
+  }
 ]

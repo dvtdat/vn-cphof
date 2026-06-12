@@ -1,10 +1,10 @@
 'use client'
 
-import { useLocale } from 'next-intl'
-import { useParams } from 'next/navigation'
 import { usePathname, useRouter } from '@/i18n/navigation'
 import { routing } from '@/i18n/routing'
 import { cn } from '@/lib/utils'
+import { useLocale } from 'next-intl'
+import { useParams } from 'next/navigation'
 
 export function LocaleSwitcher() {
   const locale = useLocale()
@@ -29,7 +29,9 @@ export function LocaleSwitcher() {
           }
           className={cn(
             'px-2.5 py-1.5 font-mono text-2xs font-semibold uppercase',
-            l === locale ? 'bg-white text-accent' : 'bg-transparent text-white/60 hover:text-white',
+            l === locale
+              ? 'bg-white text-accent'
+              : 'bg-transparent text-white/60 hover:text-white'
           )}
         >
           {l}

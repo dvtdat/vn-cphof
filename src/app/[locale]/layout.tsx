@@ -1,12 +1,12 @@
+import { Providers } from '@/components/providers'
+import { ScrollReset } from '@/components/scroll-reset'
+import { SiteHeader } from '@/components/site-header'
+import { routing } from '@/i18n/routing'
+import { gotham, plexMono } from '@/lib/fonts'
 import type { Metadata } from 'next'
 import { hasLocale, NextIntlClientProvider } from 'next-intl'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import { notFound } from 'next/navigation'
-import { routing } from '@/i18n/routing'
-import { gotham, plexMono } from '@/lib/fonts'
-import { Providers } from '@/components/providers'
-import { ScrollReset } from '@/components/scroll-reset'
-import { SiteHeader } from '@/components/site-header'
 import '../globals.css'
 
 export function generateStaticParams() {
@@ -23,7 +23,11 @@ export async function generateMetadata({
   return {
     title: { default: t('title'), template: `%s · ${t('title')}` },
     description: t('description'),
-    openGraph: { title: t('title'), description: t('description'), type: 'website' },
+    openGraph: {
+      title: t('title'),
+      description: t('description'),
+      type: 'website',
+    },
     alternates: {
       languages: Object.fromEntries(routing.locales.map((l) => [l, `/${l}`])),
     },
@@ -44,7 +48,9 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body className={`${gotham.variable} ${plexMono.variable} flex h-dvh flex-col overflow-hidden`}>
+      <body
+        className={`${gotham.variable} ${plexMono.variable} flex h-dvh flex-col overflow-hidden`}
+      >
         <NextIntlClientProvider>
           <Providers>
             <a
@@ -59,7 +65,10 @@ export default async function LocaleLayout({
               className="flex flex-1 flex-col overflow-y-auto [scrollbar-gutter:stable]"
             >
               <ScrollReset />
-              <main id="main" className="mx-auto w-full max-w-[73.75rem] flex-1 px-6 pb-24 pt-9">
+              <main
+                id="main"
+                className="mx-auto w-full max-w-[73.75rem] flex-1 px-6 pb-24 pt-9"
+              >
                 {children}
               </main>
               <footer className="border-t border-line">

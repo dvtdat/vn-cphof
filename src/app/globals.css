@@ -65,7 +65,9 @@
   --color-solve-strong: var(--color-green-strong); /* first to solve */
   --color-fail: var(--color-red-bg); /* tried, not solved */
 
-  --font-sans: var(--font-gotham), 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-sans:
+    var(--font-gotham), 'Montserrat', 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   --font-mono: var(--font-plex-mono), ui-monospace, Menlo, Consolas, monospace;
 
   /* Type scale - the only font sizes used in JSX (text-3xs … text-3xl).

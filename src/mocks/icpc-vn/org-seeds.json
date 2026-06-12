@@ -1,2072 +1,1706 @@
 [
- {
-  "id": "o-uet",
-  "name": "Trường Đại học Công nghệ, ĐHQG Hà Nội",
-  "nameEn": "University of Engineering and Technology, VNU",
-  "type": "university",
-  "shortName": "UET",
-  "raw": [
-   "University of Engineering and Technology - VNU"
-  ]
- },
- {
-  "id": "o-hus-vnu",
-  "name": "Trường Đại học Khoa học Tự nhiên, ĐHQG Hà Nội",
-  "nameEn": "University of Science, VNU",
-  "type": "university",
-  "shortName": "HUS",
-  "raw": [
-   "Hanoi University of Science"
-  ]
- },
- {
-  "id": "o-hus",
-  "name": "Trường Đại học Khoa học Tự nhiên, ĐHQG TP.HCM",
-  "nameEn": "University of Science, VNUHCM",
-  "type": "university",
-  "shortName": "HCMUS",
-  "raw": [
-   "University of Science, VNU-HCM"
-  ]
- },
- {
-  "id": "o-hcmut",
-  "name": "Trường Đại học Bách khoa, ĐHQG TP.HCM",
-  "nameEn": "University of Technology, VNUHCM",
-  "type": "university",
-  "shortName": "HCMUT",
-  "raw": [
-   "Ho Chi Minh City University of Technology"
-  ]
- },
- {
-  "id": "o-uit",
-  "name": "Trường Đại học Công nghệ Thông tin, ĐHQG TP.HCM",
-  "nameEn": "University of Information Technology, VNUHCM",
-  "type": "university",
-  "shortName": "UIT",
-  "raw": [
-   "University of Information Technology - Vietnam National University HCM"
-  ]
- },
- {
-  "id": "o-iu-hcm",
-  "name": "Trường Đại học Quốc tế, ĐHQG TP.HCM",
-  "nameEn": "International University, VNUHCM",
-  "type": "university",
-  "shortName": "IU",
-  "raw": [
-   "Ho Chi Minh City International University"
-  ]
- },
- {
-  "id": "o-ussh-hcm",
-  "name": "Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQG TP.HCM",
-  "nameEn": "University of Social Sciences and Humanities, VNUHCM",
-  "type": "university",
-  "shortName": "USSH",
-  "raw": [
-   "University of Social Sciences and Humanities, VNUHCM",
-   "University of Social Sciences and Humanities"
-  ]
- },
- {
-  "id": "o-dut",
-  "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
-  "nameEn": "University of Science and Technology, UDN",
-  "type": "university",
-  "shortName": "DUT",
-  "raw": [
-   "University of Science and Technology – The University of Danang",
-   "University of Science and Technology - The University of Danang"
-  ]
- },
- {
-  "id": "o-vku",
-  "name": "Trường Đại học CNTT&TT Việt-Hàn, Đại học Đà Nẵng",
-  "nameEn": "Vietnam-Korea University of ICT, UDN",
-  "type": "university",
-  "shortName": "VKU",
-  "raw": [
-   "The University of Danang, Vietnam-Korea University of ICT",
-   "Vietnam-Korea University of ICT, The University of Danang",
-   "Vietnam-Korea University of Information and Communication Technology, The University of Danang"
-  ]
- },
- {
-  "id": "o-ued-dn",
-  "name": "Trường Đại học Sư phạm, Đại học Đà Nẵng",
-  "nameEn": "University of Science and Education, UDN",
-  "type": "university",
-  "shortName": "UED",
-  "raw": [
-   "Danang University of Education",
-   "Da Nang University of Education"
-  ]
- },
- {
-  "id": "o-due-dn",
-  "name": "Trường Đại học Kinh tế, Đại học Đà Nẵng",
-  "nameEn": "University of Economics, UDN",
-  "type": "university",
-  "shortName": "DUE",
-  "raw": [
-   "Da Nang University of Economics",
-   "Danang University of Economics"
-  ]
- },
- {
-  "id": "o-ute-dn",
-  "name": "Trường Đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng",
-  "nameEn": "University of Technology and Education, UDN",
-  "type": "university",
-  "raw": [
-   "University of Technology and Education-The University of Danag"
-  ]
- },
- {
-  "id": "o-husc",
-  "name": "Trường Đại học Khoa học, Đại học Huế",
-  "nameEn": "University of Science, UHue",
-  "type": "university",
-  "shortName": "HUSC",
-  "raw": [
-   "Hue University of Science"
-  ]
- },
- {
-  "id": "o-hust",
-  "name": "Đại học Bách khoa Hà Nội",
-  "nameEn": "Hanoi University of Science and Technology",
-  "type": "university",
-  "shortName": "HUST",
-  "raw": [
-   "Hanoi University of Science and Technology"
-  ]
- },
- {
-  "id": "o-haui",
-  "name": "Trường Đại học Công nghiệp Hà Nội",
-  "nameEn": "Hanoi University of Industry",
-  "type": "university",
-  "shortName": "HaUI",
-  "raw": [
-   "Hanoi University of Industry"
-  ]
- },
- {
-  "id": "o-ptit",
-  "name": "Học viện Công nghệ Bưu chính Viễn thông",
-  "nameEn": "Posts and Telecommunications Institute of Technology",
-  "type": "university",
-  "shortName": "PTIT",
-  "raw": [
-   "Posts and Telecommunications Institute of Technology, HN"
-  ]
- },
- {
-  "id": "o-hnue",
-  "name": "Trường Đại học Sư phạm Hà Nội",
-  "nameEn": "Hanoi National University of Education",
-  "type": "university",
-  "shortName": "HNUE",
-  "raw": [
-   "Hanoi National University of Education"
-  ]
- },
- {
-  "id": "o-neu",
-  "name": "Đại học Kinh tế Quốc dân",
-  "nameEn": "National Economics University",
-  "type": "university",
-  "shortName": "NEU",
-  "raw": [
-   "National Economics University"
-  ]
- },
- {
-  "id": "o-phenikaa",
-  "name": "Trường Đại học Phenikaa",
-  "nameEn": "Phenikaa University",
-  "type": "university",
-  "raw": [
-   "Phenikaa University"
-  ]
- },
- {
-  "id": "o-tlu",
-  "name": "Trường Đại học Thủy lợi",
-  "nameEn": "Thuyloi University",
-  "type": "university",
-  "shortName": "TLU",
-  "raw": [
-   "Thuyloi University"
-  ]
- },
- {
-  "id": "o-thanglong-u",
-  "name": "Trường Đại học Thăng Long",
-  "nameEn": "Thang Long University",
-  "type": "university",
-  "raw": [
-   "Thang Long University"
-  ]
- },
- {
-  "id": "o-hou",
-  "name": "Trường Đại học Mở Hà Nội",
-  "nameEn": "Hanoi Open University",
-  "type": "university",
-  "shortName": "HOU",
-  "raw": [
-   "Hanoi Open University",
-   "Faculty of Information Technology - Hanoi Open University"
-  ]
- },
- {
-  "id": "o-utc",
-  "name": "Trường Đại học Giao thông Vận tải",
-  "nameEn": "University of Transport and Communications",
-  "type": "university",
-  "shortName": "UTC",
-  "raw": [
-   "University of Transport and Communications"
-  ]
- },
- {
-  "id": "o-ftu",
-  "name": "Trường Đại học Ngoại thương",
-  "nameEn": "Foreign Trade University",
-  "type": "university",
-  "shortName": "FTU",
-  "raw": [
-   "Foreign Trade University"
-  ]
- },
- {
-  "id": "o-mta",
-  "name": "Học viện Kỹ thuật Quân sự",
-  "nameEn": "Le Quy Don Technical University",
-  "type": "university",
-  "shortName": "MTA",
-  "raw": [
-   "Military Technical Academy",
-   "Le Quy Don Technical University"
-  ]
- },
- {
-  "id": "o-vinuni",
-  "name": "Trường Đại học VinUni",
-  "nameEn": "VinUniversity",
-  "type": "university",
-  "shortName": "VinUni",
-  "raw": [
-   "VinUniversity"
-  ]
- },
- {
-  "id": "o-usth",
-  "name": "Trường Đại học Khoa học và Công nghệ Hà Nội",
-  "nameEn": "University of Science and Technology of Hanoi",
-  "type": "university",
-  "shortName": "USTH",
-  "raw": [
-   "University of Science and Technology of Hanoi"
-  ]
- },
- {
-  "id": "o-epu",
-  "name": "Trường Đại học Điện lực",
-  "nameEn": "Electric Power University",
-  "type": "university",
-  "shortName": "EPU",
-  "raw": [
-   "Electric Power University"
-  ]
- },
- {
-  "id": "o-bav",
-  "name": "Học viện Ngân hàng",
-  "nameEn": "Banking Academy of Vietnam",
-  "type": "university",
-  "shortName": "BAV",
-  "raw": [
-   "Banking Academy of Vietnam"
-  ]
- },
- {
-  "id": "o-aof",
-  "name": "Học viện Tài chính",
-  "nameEn": "Academy of Finance",
-  "type": "university",
-  "shortName": "AOF",
-  "raw": [
-   "Academy of Finance"
-  ]
- },
- {
-  "id": "o-hau",
-  "name": "Trường Đại học Kiến trúc Hà Nội",
-  "nameEn": "Hanoi Architectural University",
-  "type": "university",
-  "shortName": "HAU",
-  "raw": [
-   "Hanoi Architectural University"
-  ]
- },
- {
-  "id": "o-hnmu",
-  "name": "Trường Đại học Thủ đô Hà Nội",
-  "nameEn": "Hanoi Metropolitan University",
-  "type": "university",
-  "shortName": "HNMU",
-  "raw": [
-   "Hanoi Metropolitan University"
-  ]
- },
- {
-  "id": "o-huce",
-  "name": "Trường Đại học Xây dựng Hà Nội",
-  "nameEn": "Hanoi University of Civil Engineering",
-  "type": "university",
-  "shortName": "HUCE",
-  "raw": [
-   "Hanoi University of Civil Engineering"
-  ]
- },
- {
-  "id": "o-cmc",
-  "name": "Trường Đại học CMC",
-  "nameEn": "CMC University",
-  "type": "university",
-  "shortName": "CMC",
-  "raw": [
-   "CMC University"
-  ]
- },
- {
-  "id": "o-psa",
-  "name": "Học viện An ninh nhân dân",
-  "nameEn": "People's Security Academy",
-  "type": "university",
-  "raw": [
-   "People's Security Academy"
-  ]
- },
- {
-  "id": "o-ppa",
-  "name": "Học viện Cảnh sát nhân dân",
-  "nameEn": "People's Police Academy",
-  "type": "university",
-  "raw": [
-   "People’s Police Academy"
-  ]
- },
- {
-  "id": "o-ufp",
-  "name": "Trường Đại học Phòng cháy Chữa cháy",
-  "nameEn": "University of Fire Prevention and Fighting",
-  "type": "university",
-  "raw": [
-   "University of Fire Fighting and Prevention"
-  ]
- },
- {
-  "id": "o-utl-ps",
-  "name": "Trường Đại học Kỹ thuật - Hậu cần Công an nhân dân",
-  "nameEn": "University of Technology and Logistics of Public Security",
-  "type": "university",
-  "raw": [
-   "University of Technology – Logistics of Public Security"
-  ]
- },
- {
-  "id": "o-swinburne",
-  "name": "Swinburne Việt Nam",
-  "nameEn": "Swinburne University of Technology (Vietnam)",
-  "type": "university",
-  "raw": [
-   "Swinburne University of Technology"
-  ]
- },
- {
-  "id": "o-iuh",
-  "name": "Trường Đại học Công nghiệp TP.HCM",
-  "nameEn": "Industrial University of HCMC",
-  "type": "university",
-  "shortName": "IUH",
-  "raw": [
-   "Industrial University of Ho Chi Minh City"
-  ]
- },
- {
-  "id": "o-fptu",
-  "name": "Trường Đại học FPT",
-  "nameEn": "FPT University",
-  "type": "university",
-  "shortName": "FPTU",
-  "raw": [
-   "FPT University"
-  ]
- },
- {
-  "id": "o-hcmute",
-  "name": "Trường Đại học Sư phạm Kỹ thuật TP.HCM",
-  "nameEn": "HCMC University of Technology and Education",
-  "type": "university",
-  "shortName": "HCMUTE",
-  "raw": [
-   "HCMC University of Technology and Education",
-   "HCMC University of Technology and Engineering"
-  ]
- },
- {
-  "id": "o-ptit-hcm",
-  "name": "Học viện Công nghệ Bưu chính Viễn thông (cơ sở TP.HCM)",
-  "nameEn": "Posts and Telecommunications Institute of Technology, HCMC",
-  "type": "university",
-  "shortName": "PTITHCM",
-  "raw": [
-   "Posts and Telecommunications Institute of Technology, HCMC"
-  ]
- },
- {
-  "id": "o-hcmue",
-  "name": "Trường Đại học Sư phạm TP.HCM",
-  "nameEn": "HCMC University of Education",
-  "type": "university",
-  "shortName": "HCMUE",
-  "raw": [
-   "Ho Chi Minh City University of Education"
-  ]
- },
- {
-  "id": "o-hutech",
-  "name": "Trường Đại học Công nghệ TP.HCM",
-  "nameEn": "HCMC University of Technology (HUTECH)",
-  "type": "university",
-  "shortName": "HUTECH",
-  "raw": [
-   "Ho Chi Minh City University of Technology, HUTECH"
-  ]
- },
- {
-  "id": "o-uth",
-  "name": "Trường Đại học Giao thông Vận tải TP.HCM",
-  "nameEn": "HCMC University of Transport",
-  "type": "university",
-  "shortName": "UTH",
-  "raw": [
-   "University of Transport in Ho Chi Minh City",
-   "Ho Chi Minh City University of Transport"
-  ]
- },
- {
-  "id": "o-utc2",
-  "name": "Phân hiệu Trường Đại học Giao thông Vận tải tại TP.HCM",
-  "nameEn": "University of Transport and Communications, HCMC Campus",
-  "type": "university",
-  "shortName": "UTC2",
-  "raw": [
-   "University of Transport and Communications, Campus in Ho Chi Minh City"
-  ]
- },
- {
-  "id": "o-rmit",
-  "name": "Trường Đại học RMIT Việt Nam",
-  "nameEn": "RMIT University Vietnam",
-  "type": "university",
-  "shortName": "RMIT",
-  "raw": [
-   "RMIT University Vietnam"
-  ]
- },
- {
-  "id": "o-sgu",
-  "name": "Trường Đại học Sài Gòn",
-  "nameEn": "Saigon University",
-  "type": "university",
-  "shortName": "SGU",
-  "raw": [
-   "Saigon University"
-  ]
- },
- {
-  "id": "o-tdtu",
-  "name": "Trường Đại học Tôn Đức Thắng",
-  "nameEn": "Ton Duc Thang University",
-  "type": "university",
-  "shortName": "TDTU",
-  "raw": [
-   "Ton Duc Thang University"
-  ]
- },
- {
-  "id": "o-siu",
-  "name": "Trường Đại học Quốc tế Sài Gòn",
-  "nameEn": "The Saigon International University",
-  "type": "university",
-  "shortName": "SIU",
-  "raw": [
-   "The Saigon International University"
-  ]
- },
- {
-  "id": "o-vlu",
-  "name": "Trường Đại học Văn Lang",
-  "nameEn": "Van Lang University",
-  "type": "university",
-  "shortName": "VLU",
-  "raw": [
-   "Van Lang University"
-  ]
- },
- {
-  "id": "o-huflit",
-  "name": "Trường Đại học Ngoại ngữ - Tin học TP.HCM",
-  "nameEn": "HCMC University of Foreign Languages and Information Technology",
-  "type": "university",
-  "shortName": "HUFLIT",
-  "raw": [
-   "Ho Chi Minh City University of Foreign Languages - Information Technology"
-  ]
- },
- {
-  "id": "o-umt",
-  "name": "Trường Đại học Quản lý và Công nghệ TP.HCM",
-  "nameEn": "University of Management and Technology, HCMC",
-  "type": "university",
-  "shortName": "UMT",
-  "raw": [
-   "University of Management and Technology, Ho Chi Minh City"
-  ]
- },
- {
-  "id": "o-ou-hcm",
-  "name": "Trường Đại học Mở TP.HCM",
-  "nameEn": "HCMC Open University",
-  "type": "university",
-  "shortName": "OU",
-  "raw": [
-   "Ho Chi Minh City Open University",
-   "HCM City Open University",
-   "Dai hoc Mo Tp. HCM - HCM City Open University"
-  ]
- },
- {
-  "id": "o-vhu",
-  "name": "Trường Đại học Văn Hiến",
-  "nameEn": "Van Hien University",
-  "type": "university",
-  "shortName": "VHU",
-  "raw": [
-   "Van Hien University"
-  ]
- },
- {
-  "id": "o-ueh",
-  "name": "Đại học Kinh tế TP.HCM",
-  "nameEn": "University of Economics HCMC",
-  "type": "university",
-  "shortName": "UEH",
-  "raw": [
-   "University of Economics Ho Chi Minh City"
-  ]
- },
- {
-  "id": "o-hiu",
-  "name": "Trường Đại học Quốc tế Hồng Bàng",
-  "nameEn": "Hong Bang International University",
-  "type": "university",
-  "shortName": "HIU",
-  "raw": [
-   "HongBang International University"
-  ]
- },
- {
-  "id": "o-nlu",
-  "name": "Trường Đại học Nông Lâm TP.HCM",
-  "nameEn": "Nong Lam University",
-  "type": "university",
-  "shortName": "NLU",
-  "raw": [
-   "HCM University of Agriculture and Forestry"
-  ]
- },
- {
-  "id": "o-huit",
-  "name": "Trường Đại học Công Thương TP.HCM",
-  "nameEn": "HCMC University of Industry and Trade",
-  "type": "university",
-  "shortName": "HUIT",
-  "raw": [
-   "Ho Chi Minh City University of Industry and Trade"
-  ]
- },
- {
-  "id": "o-ppu",
-  "name": "Trường Đại học Cảnh sát nhân dân",
-  "nameEn": "People's Police University",
-  "type": "university",
-  "raw": [
-   "People's Police University"
-  ]
- },
- {
-  "id": "o-fuv",
-  "name": "Trường Đại học Fulbright Việt Nam",
-  "nameEn": "Fulbright University Vietnam",
-  "type": "university",
-  "shortName": "FUV",
-  "raw": [
-   "Fulbright University Vietnam"
-  ]
- },
- {
-  "id": "o-ctu",
-  "name": "Trường Đại học Cần Thơ",
-  "nameEn": "Can Tho University",
-  "type": "university",
-  "shortName": "CTU",
-  "raw": [
-   "Can Tho University"
-  ]
- },
- {
-  "id": "o-tdmu",
-  "name": "Trường Đại học Thủ Dầu Một",
-  "nameEn": "Thu Dau Mot University",
-  "type": "university",
-  "shortName": "TDMU",
-  "raw": [
-   "Thu Dau Mot University"
-  ]
- },
- {
-  "id": "o-eiu",
-  "name": "Trường Đại học Quốc tế Miền Đông",
-  "nameEn": "Eastern International University",
-  "type": "university",
-  "shortName": "EIU",
-  "raw": [
-   "Eastern International University"
-  ]
- },
- {
-  "id": "o-dtu",
-  "name": "Trường Đại học Duy Tân",
-  "nameEn": "Duy Tan University",
-  "type": "university",
-  "shortName": "DTU",
-  "raw": [
-   "Duy Tan University"
-  ]
- },
- {
-  "id": "o-hdu",
-  "name": "Trường Đại học Hồng Đức",
-  "nameEn": "Hong Duc University",
-  "type": "university",
-  "shortName": "HDU",
-  "raw": [
-   "Hongduc University"
-  ]
- },
- {
-  "id": "o-vmu",
-  "name": "Trường Đại học Hàng hải Việt Nam",
-  "nameEn": "Vietnam Maritime University",
-  "type": "university",
-  "shortName": "VMU",
-  "raw": [
-   "Vietnam Maritime University"
-  ]
- },
- {
-  "id": "o-ntu",
-  "name": "Trường Đại học Nha Trang",
-  "nameEn": "Nha Trang University",
-  "type": "university",
-  "shortName": "NTU",
-  "raw": [
-   "Nha Trang University"
-  ]
- },
- {
-  "id": "o-tcu",
-  "name": "Trường Đại học Thông tin Liên lạc",
-  "nameEn": "Telecommunications University",
-  "type": "university",
-  "shortName": "TCU",
-  "raw": [
-   "TeleCommunications University"
-  ]
- },
- {
-  "id": "o-tvu",
-  "name": "Đại học Trà Vinh",
-  "nameEn": "Tra Vinh University",
-  "type": "university",
-  "shortName": "TVU",
-  "raw": [
-   "Tra Vinh University"
-  ]
- },
- {
-  "id": "o-vlute",
-  "name": "Trường Đại học Sư phạm Kỹ thuật Vĩnh Long",
-  "nameEn": "Vinh Long University of Technology Education",
-  "type": "university",
-  "shortName": "VLUTE",
-  "raw": [
-   "Vinh Long University of Technology Education"
-  ]
- },
- {
-  "id": "o-naval",
-  "name": "Học viện Hải quân",
-  "nameEn": "Naval Academy",
-  "type": "university",
-  "raw": [
-   "Naval Academy"
-  ]
- },
- {
-  "id": "o-ictu",
-  "name": "Trường Công nghệ Thông tin và Truyền thông, Đại học Thái Nguyên",
-  "nameEn": "University of Information and Communication Technology, TNU",
-  "type": "university",
-  "shortName": "ICTU",
-  "raw": [
-   "College of Information and Communication Technology - Thai Nguyen University"
-  ]
- },
- {
-  "id": "o-tnue",
-  "name": "Trường Đại học Sư phạm, Đại học Thái Nguyên",
-  "nameEn": "University of Education, TNU",
-  "type": "university",
-  "shortName": "TUE",
-  "raw": [
-   "Thai Nguyen University of Education"
-  ]
- },
- {
-  "id": "o-qnu",
-  "name": "Trường Đại học Quy Nhơn",
-  "nameEn": "Quy Nhon University",
-  "type": "university",
-  "shortName": "QNU",
-  "raw": [
-   "Quynhon University"
-  ]
- },
- {
-  "id": "o-dthu",
-  "name": "Trường Đại học Đồng Tháp",
-  "nameEn": "Dong Thap University",
-  "type": "university",
-  "shortName": "DThU",
-  "raw": [
-   "Dong Thap University"
-  ]
- },
- {
-  "id": "o-tgu",
-  "name": "Trường Đại học Tiền Giang",
-  "nameEn": "Tien Giang University",
-  "type": "university",
-  "shortName": "TGU",
-  "raw": [
-   "TienGiang University"
-  ]
- },
- {
-  "id": "o-dau",
-  "name": "Trường Đại học Kiến trúc Đà Nẵng",
-  "nameEn": "Da Nang Architecture University",
-  "type": "university",
-  "shortName": "DAU",
-  "raw": [
-   "Danang Architecture University"
-  ]
- },
- {
-  "id": "o-yersin",
-  "name": "Trường Đại học Yersin Đà Lạt",
-  "nameEn": "Yersin University of Da Lat",
-  "type": "university",
-  "raw": [
-   "Yersin University of Da Lat"
-  ]
- },
- {
-  "id": "o-khtn-hn",
-  "name": "THPT chuyên Khoa học Tự nhiên, ĐHQG Hà Nội",
-  "nameEn": "High School for Gifted Students, VNU",
-  "type": "high_school",
-  "departmentCode": "35",
-  "raw": [
-   "HSGS Vietnam National University Hanoi",
-   "THPT chuyên Khoa học Tự nhiên Đại học Quốc gia Hà Nội"
-  ]
- },
- {
-  "id": "o-ptnk",
-  "name": "Phổ thông Năng khiếu, ĐHQG TP.HCM",
-  "nameEn": "High School for the Gifted, VNUHCM",
-  "type": "high_school",
-  "departmentCode": "36",
-  "raw": [
-   "HSGS Vietnam National University Ho Chi Minh",
-   "THPT chuyên Đại học Quốc Gia Thành phố Hồ Chí Minh"
-  ]
- },
- {
-  "id": "o-sphn",
-  "name": "THPT chuyên Đại học Sư phạm Hà Nội",
-  "nameEn": "HNUE High School for Gifted Students",
-  "type": "high_school",
-  "departmentCode": "38",
-  "raw": [
-   "HSGS Hanoi National University of Education",
-   "THPT chuyên Đại học Sư Phạm",
-   "THPT chuyên Sư phạm Hà Nội"
-  ]
- },
- {
-  "id": "o-chuyen-vinh",
-  "name": "THPT chuyên Đại học Vinh",
-  "nameEn": "High School for Gifted Students, Vinh University",
-  "type": "high_school",
-  "departmentCode": "40",
-  "raw": [
-   "HSGS Vinh University"
-  ]
- },
- {
-  "id": "o-ams",
-  "name": "THPT chuyên Hà Nội - Amsterdam",
-  "nameEn": "Hanoi - Amsterdam High School for the Gifted",
-  "type": "high_school",
-  "departmentCode": "03",
-  "raw": [
-   "HSGS Hanoi Amsterdam",
-   "THPT chuyên Amsterdam Hà Nội"
-  ]
- },
- {
-  "id": "o-nguyenhue-hn",
-  "name": "THPT chuyên Nguyễn Huệ, Hà Nội",
-  "nameEn": "Nguyen Hue HSGS, Hanoi",
-  "type": "high_school",
-  "departmentCode": "03",
-  "raw": [
-   "HSGS Nguyen Hue - Hanoi",
-   "THPT chuyên Nguyễn Huệ Hà Nội"
-  ]
- },
- {
-  "id": "o-cva-hn",
-  "name": "THPT Chu Văn An, Hà Nội",
-  "nameEn": "Chu Van An High School, Hanoi",
-  "type": "high_school",
-  "departmentCode": "03",
-  "raw": [
-   "HSGS Chu Van An - Hanoi"
-  ]
- },
- {
-  "id": "o-newton-hn",
-  "name": "Trường THCS-THPT Newton, Hà Nội",
-  "nameEn": "Newton Secondary and High School, Hanoi",
-  "type": "high_school",
-  "departmentCode": "03",
-  "raw": [
-   "Newton Secondary and High School - Hanoi"
-  ]
- },
- {
-  "id": "o-lhp-hcm",
-  "name": "THPT chuyên Lê Hồng Phong, TP.HCM",
-  "nameEn": "Le Hong Phong HSGS, Ho Chi Minh City",
-  "type": "high_school",
-  "departmentCode": "05",
-  "raw": [
-   "HSGS Le Hong Phong - Ho Chi Minh City",
-   "THPT chuyên Lê Hồng Phong Thành phố Hồ Chí Minh"
-  ]
- },
- {
-  "id": "o-tdn-hcm",
-  "name": "THPT chuyên Trần Đại Nghĩa, TP.HCM",
-  "nameEn": "Tran Dai Nghia HSGS, Ho Chi Minh City",
-  "type": "high_school",
-  "departmentCode": "05",
-  "raw": [
-   "HSGS Tran Dai Nghia - Ho Chi Minh City",
-   "THPT chuyên Trần Đại Nghĩa Thành phố Hồ Chí Minh"
-  ]
- },
- {
-  "id": "o-giadinh-hcm",
-  "name": "THPT Gia Định, TP.HCM",
-  "nameEn": "Gia Dinh High School, Ho Chi Minh City",
-  "type": "high_school",
-  "departmentCode": "05",
-  "raw": [
-   "HS Gia Dinh - Ho Chi Minh City",
-   "THPT Gia Định Thành phố Hồ Chí Minh"
-  ]
- },
- {
-  "id": "o-hungvuong-bd",
-  "name": "THPT chuyên Hùng Vương, Bình Dương",
-  "nameEn": "Hung Vuong HSGS, Binh Duong",
-  "type": "high_school",
-  "departmentCode": "05",
-  "raw": [
-   "HSGS Hung Vuong - Binh Duong",
-   "THPT chuyên Hùng Vương Bình Dương"
-  ]
- },
- {
-  "id": "o-lqd-brvt",
-  "name": "THPT chuyên Lê Quý Đôn, Bà Rịa - Vũng Tàu",
-  "nameEn": "Le Quy Don HSGS, Ba Ria - Vung Tau",
-  "type": "high_school",
-  "departmentCode": "05",
-  "raw": [
-   "HSGS Le Quy Don - Ba Ria Vung Tau"
-  ]
- },
- {
-  "id": "o-lqd-dn",
-  "name": "THPT chuyên Lê Quý Đôn, Đà Nẵng",
-  "nameEn": "Le Quy Don HSGS, Da Nang",
-  "type": "high_school",
-  "departmentCode": "02",
-  "raw": [
-   "HSGS Le Quy Don - Danang",
-   "THPT chuyên Lê Quý Đôn Đà Nẵng"
-  ]
- },
- {
-  "id": "o-nbk-qn",
-  "name": "THPT chuyên Nguyễn Bỉnh Khiêm, Quảng Nam",
-  "nameEn": "Nguyen Binh Khiem HSGS, Quang Nam",
-  "type": "high_school",
-  "departmentCode": "02",
-  "raw": [
-   "HSGS Nguyen Binh Khiem - Quang Nam"
-  ]
- },
- {
-  "id": "o-ltt-qn",
-  "name": "THPT chuyên Lê Thánh Tông, Quảng Nam",
-  "nameEn": "Le Thanh Tong HSGS, Quang Nam",
-  "type": "high_school",
-  "departmentCode": "02",
-  "raw": [
-   "HSGS Le Thanh Tong - Quang Nam",
-   "THPT chuyên Lê Thánh Tông Quảng Nam"
-  ]
- },
- {
-  "id": "o-tranphu-hp",
-  "name": "THPT chuyên Trần Phú, Hải Phòng",
-  "nameEn": "Tran Phu HSGS, Hai Phong",
-  "type": "high_school",
-  "departmentCode": "04",
-  "raw": [
-   "HSGS Tran Phu - Hai Phong",
-   "HSGS Tran Phu - Haiphong",
-   "THPT chuyên Trần Phú Hải Phòng"
-  ]
- },
- {
-  "id": "o-nguyentrai-hd",
-  "name": "THPT chuyên Nguyễn Trãi, Hải Dương",
-  "nameEn": "Nguyen Trai HSGS, Hai Duong",
-  "type": "high_school",
-  "departmentCode": "04",
-  "raw": [
-   "HSGS Nguyen Trai - Hai Duong",
-   "THPT chuyên Nguyễn Trãi Hải Dương"
-  ]
- },
- {
-  "id": "o-anlao-hp",
-  "name": "THPT An Lão, Hải Phòng",
-  "nameEn": "An Lao High School, Hai Phong",
-  "type": "high_school",
-  "departmentCode": "04",
-  "raw": [
-   "An Lao High School"
-  ]
- },
- {
-  "id": "o-phanboichau",
-  "name": "THPT chuyên Phan Bội Châu, Nghệ An",
-  "nameEn": "Phan Boi Chau HSGS, Nghe An",
-  "type": "high_school",
-  "departmentCode": "23",
-  "raw": [
-   "HSGS Phan Boi Chau - Nghe An"
-  ]
- },
- {
-  "id": "o-lamson",
-  "name": "THPT chuyên Lam Sơn, Thanh Hóa",
-  "nameEn": "Lam Son HSGS, Thanh Hoa",
-  "type": "high_school",
-  "departmentCode": "32",
-  "raw": [
-   "HSGS Lam Son - Thanh Hoa"
-  ]
- },
- {
-  "id": "o-quochoc",
-  "name": "THPT chuyên Quốc Học, Huế",
-  "nameEn": "Quoc Hoc HSGS, Hue",
-  "type": "high_school",
-  "departmentCode": "06",
-  "raw": [
-   "HSGS Quoc Hoc - Thua Thien Hue"
-  ]
- },
- {
-  "id": "o-lqd-qt",
-  "name": "THPT chuyên Lê Quý Đôn, Quảng Trị",
-  "nameEn": "Le Quy Don HSGS, Quang Tri",
-  "type": "high_school",
-  "departmentCode": "28",
-  "raw": [
-   "HSGS Le Quy Don - Quang Tri"
-  ]
- },
- {
-  "id": "o-vng-qb",
-  "name": "THPT chuyên Võ Nguyên Giáp, Quảng Bình",
-  "nameEn": "Vo Nguyen Giap HSGS, Quang Binh",
-  "type": "high_school",
-  "departmentCode": "28",
-  "raw": [
-   "HSGS Vo Nguyen Giap - Quang Binh",
-   "THPT chuyên Võ Nguyên Giáp Quảng Bình"
-  ]
- },
- {
-  "id": "o-hungyen-hs",
-  "name": "THPT chuyên Hưng Yên",
-  "nameEn": "Hung Yen HSGS",
-  "type": "high_school",
-  "departmentCode": "17",
-  "raw": [
-   "HSGS Hung Yen"
-  ]
- },
- {
-  "id": "o-thaibinh-hs",
-  "name": "THPT chuyên Thái Bình",
-  "nameEn": "Thai Binh HSGS",
-  "type": "high_school",
-  "departmentCode": "17",
-  "raw": [
-   "HSGS Thai Binh"
-  ]
- },
- {
-  "id": "o-ltv-dn",
-  "name": "THPT chuyên Lương Thế Vinh, Đồng Nai",
-  "nameEn": "Luong The Vinh HSGS, Dong Nai",
-  "type": "high_school",
-  "departmentCode": "13",
-  "raw": [
-   "HSGS Luong The Vinh - Dong Nai"
-  ]
- },
- {
-  "id": "o-binhlong",
-  "name": "THPT chuyên Bình Long, Bình Phước",
-  "nameEn": "Binh Long HSGS, Binh Phuoc",
-  "type": "high_school",
-  "departmentCode": "13",
-  "raw": [
-   "HSGS Binh Long - Binh Phuoc",
-   "THPT chuyên Bình Long Bình Phước"
-  ]
- },
- {
-  "id": "o-quangtrung-bp",
-  "name": "THPT chuyên Quang Trung, Bình Phước",
-  "nameEn": "Quang Trung HSGS, Binh Phuoc",
-  "type": "high_school",
-  "departmentCode": "13",
-  "raw": [
-   "HSGS Quang Trung - Binh Phuoc"
-  ]
- },
- {
-  "id": "o-lhp-nd",
-  "name": "THPT chuyên Lê Hồng Phong, Nam Định",
-  "nameEn": "Le Hong Phong HSGS, Nam Dinh",
-  "type": "high_school",
-  "departmentCode": "24",
-  "raw": [
-   "HSGS Le Hong Phong - Nam Dinh",
-   "THPT chuyên Lê Hồng Phong Nam Định"
-  ]
- },
- {
-  "id": "o-lvt-nb",
-  "name": "THPT chuyên Lương Văn Tụy, Ninh Bình",
-  "nameEn": "Luong Van Tuy HSGS, Ninh Binh",
-  "type": "high_school",
-  "departmentCode": "24",
-  "raw": [
-   "HSGS Luong Van Tuy - Ninh Binh"
-  ]
- },
- {
-  "id": "o-bienhoa-hn",
-  "name": "THPT chuyên Biên Hòa, Hà Nam",
-  "nameEn": "Bien Hoa HSGS, Ha Nam",
-  "type": "high_school",
-  "departmentCode": "24",
-  "raw": [
-   "HSGS Bien Hoa - Ha Nam",
-   "THPT chuyên Biên hòa Hà Nam"
-  ]
- },
- {
-  "id": "o-hungvuong-pt",
-  "name": "THPT chuyên Hùng Vương, Phú Thọ",
-  "nameEn": "Hung Vuong HSGS, Phu Tho",
-  "type": "high_school",
-  "departmentCode": "25",
-  "raw": [
-   "HSGS Hung Vuong - Phu Tho"
-  ]
- },
- {
-  "id": "o-vinhphuc-hs",
-  "name": "THPT chuyên Vĩnh Phúc",
-  "nameEn": "Vinh Phuc HSGS",
-  "type": "high_school",
-  "departmentCode": "25",
-  "raw": [
-   "HSGS Vinh Phuc"
-  ]
- },
- {
-  "id": "o-hvt-hb",
-  "name": "THPT chuyên Hoàng Văn Thụ, Hòa Bình",
-  "nameEn": "Hoang Van Thu HSGS, Hoa Binh",
-  "type": "high_school",
-  "departmentCode": "25",
-  "raw": [
-   "HSGS Hoang Van Thu - Hoa Binh"
-  ]
- },
- {
-  "id": "o-halong-qn",
-  "name": "THPT chuyên Hạ Long, Quảng Ninh",
-  "nameEn": "Ha Long HSGS, Quang Ninh",
-  "type": "high_school",
-  "departmentCode": "27",
-  "raw": [
-   "HSGS Ha Long - Quang Ninh",
-   "THPT chuyên Hạ Long Quảng Ninh"
-  ]
- },
- {
-  "id": "o-bacninh-hs",
-  "name": "THPT chuyên Bắc Ninh",
-  "nameEn": "Bac Ninh HSGS",
-  "type": "high_school",
-  "departmentCode": "08",
-  "raw": [
-   "HSGS Bac Ninh"
-  ]
- },
- {
-  "id": "o-bacgiang-hs",
-  "name": "THPT chuyên Bắc Giang",
-  "nameEn": "Bac Giang HSGS",
-  "type": "high_school",
-  "departmentCode": "08",
-  "raw": [
-   "HSGS Bac Giang"
-  ]
- },
- {
-  "id": "o-thainguyen-hs",
-  "name": "THPT chuyên Thái Nguyên",
-  "nameEn": "Thai Nguyen HSGS",
-  "type": "high_school",
-  "departmentCode": "31",
-  "raw": [
-   "HSGS Thai Nguyen"
-  ]
- },
- {
-  "id": "o-hatinh-hs",
-  "name": "THPT chuyên Hà Tĩnh",
-  "nameEn": "Ha Tinh HSGS",
-  "type": "high_school",
-  "departmentCode": "16",
-  "raw": [
-   "HSGS Ha Tinh",
-   "THPT chuyên Hà Tĩnh"
-  ]
- },
- {
-  "id": "o-tnh-ag",
-  "name": "THPT chuyên Thoại Ngọc Hầu, An Giang",
-  "nameEn": "Thoai Ngoc Hau HSGS, An Giang",
-  "type": "high_school",
-  "departmentCode": "07",
-  "raw": [
-   "HSGS Thoai Ngoc Hau - An Giang"
-  ]
- },
- {
-  "id": "o-tkn-ag",
-  "name": "THPT chuyên Thủ Khoa Nghĩa, An Giang",
-  "nameEn": "Thu Khoa Nghia HSGS, An Giang",
-  "type": "high_school",
-  "departmentCode": "07",
-  "raw": [
-   "HSGS Thu Khoa Nghia - An Giang"
-  ]
- },
- {
-  "id": "o-hmd-kg",
-  "name": "THPT chuyên Huỳnh Mẫn Đạt, Kiên Giang",
-  "nameEn": "Huynh Man Dat HSGS, Kien Giang",
-  "type": "high_school",
-  "departmentCode": "07",
-  "raw": [
-   "HSGS Huynh Man Dat - Kien Giang",
-   "THPT chuyên Huỳnh Mẫn Đạt - tỉnh An Giang"
-  ]
- },
- {
-  "id": "o-lqd-kh",
-  "name": "THPT chuyên Lê Quý Đôn, Khánh Hòa",
-  "nameEn": "Le Quy Don HSGS, Khanh Hoa",
-  "type": "high_school",
-  "departmentCode": "18",
-  "raw": [
-   "HSGS Le Quy Don - Khanh Hoa"
-  ]
- },
- {
-  "id": "o-lqd-nt",
-  "name": "THPT chuyên Lê Quý Đôn, Ninh Thuận",
-  "nameEn": "Le Quy Don HSGS, Ninh Thuan",
-  "type": "high_school",
-  "departmentCode": "18",
-  "raw": [
-   "HSGS Le Quy Don - Ninh Thuan"
-  ]
- },
- {
-  "id": "o-hlk-tn",
-  "name": "THPT chuyên Hoàng Lê Kha, Tây Ninh",
-  "nameEn": "Hoang Le Kha HSGS, Tay Ninh",
-  "type": "high_school",
-  "departmentCode": "30",
-  "raw": [
-   "HSGS Hoang Le Kha - Tay Ninh",
-   "THPT chuyên Hoàng Lê Kha Tây Ninh"
-  ]
- },
- {
-  "id": "o-longan-hs",
-  "name": "THPT chuyên Long An",
-  "nameEn": "Long An HSGS",
-  "type": "high_school",
-  "departmentCode": "30",
-  "raw": [
-   "HSGS Long An"
-  ]
- },
- {
-  "id": "o-nct-dn",
-  "name": "THPT chuyên Nguyễn Chí Thanh, Đắk Nông",
-  "nameEn": "Nguyen Chi Thanh HSGS, Dak Nong",
-  "type": "high_school",
-  "departmentCode": "22",
-  "raw": [
-   "HSGS Nguyen Chi Thanh - Dak Nong",
-   "THPT chuyên Nguyễn Chí Thanh Lâm Đồng"
-  ]
- },
- {
-  "id": "o-thanglong-ld",
-  "name": "THPT chuyên Thăng Long, Đà Lạt",
-  "nameEn": "Thang Long HSGS, Da Lat",
-  "type": "high_school",
-  "departmentCode": "22",
-  "raw": [
-   "HSGS Thang Long, Da Lat - Lam Dong",
-   "HSGS Thang Long - Lam Dong",
-   "THPT chuyên Thăng Long Đà Lạt"
-  ]
- },
- {
-  "id": "o-baoloc-ld",
-  "name": "THPT chuyên Bảo Lộc, Lâm Đồng",
-  "nameEn": "Bao Loc HSGS, Lam Dong",
-  "type": "high_school",
-  "departmentCode": "22",
-  "raw": [
-   "HSGS Bao Loc - Lam Dong"
-  ]
- },
- {
-  "id": "o-thd-bt",
-  "name": "THPT chuyên Trần Hưng Đạo, Bình Thuận",
-  "nameEn": "Tran Hung Dao HSGS, Binh Thuan",
-  "type": "high_school",
-  "departmentCode": "22",
-  "raw": [
-   "HSGS Tran Hung Dao - Binh Thuan"
-  ]
- },
- {
-  "id": "o-nguyendu-dl",
-  "name": "THPT chuyên Nguyễn Du, Đắk Lắk",
-  "nameEn": "Nguyen Du HSGS, Dak Lak",
-  "type": "high_school",
-  "departmentCode": "11",
-  "raw": [
-   "HSGS Nguyen Du - Dak Lak",
-   "THPT chuyên Nguyễn Du Đắk Lắk"
-  ]
- },
- {
-  "id": "o-lvc-py",
-  "name": "THPT chuyên Lương Văn Chánh, Phú Yên",
-  "nameEn": "Luong Van Chanh HSGS, Phu Yen",
-  "type": "high_school",
-  "departmentCode": "11",
-  "raw": [
-   "HSGS Luong Van Chanh - Phu Yen"
-  ]
- },
- {
-  "id": "o-hungvuong-gl",
-  "name": "THPT chuyên Hùng Vương, Gia Lai",
-  "nameEn": "Hung Vuong HSGS, Gia Lai",
-  "type": "high_school",
-  "departmentCode": "15",
-  "raw": [
-   "HSGS Hung Vuong - Gia Lai"
-  ]
- },
- {
-  "id": "o-lqd-bd",
-  "name": "THPT chuyên Lê Quý Đôn, Bình Định",
-  "nameEn": "Le Quy Don HSGS, Binh Dinh",
-  "type": "high_school",
-  "departmentCode": "15",
-  "raw": [
-   "HSGS Le Quy Don - Binh Dinh",
-   "THPT chuyên Lê Quý Đôn Bình Định"
-  ]
- },
- {
-  "id": "o-cva-bd",
-  "name": "THPT chuyên Chu Văn An, Bình Định",
-  "nameEn": "Chu Van An HSGS, Binh Dinh",
-  "type": "high_school",
-  "departmentCode": "15",
-  "raw": [
-   "HSGS Chu Van An - Binh Dinh"
-  ]
- },
- {
-  "id": "o-ntt-kt",
-  "name": "THPT chuyên Nguyễn Tất Thành, Kon Tum",
-  "nameEn": "Nguyen Tat Thanh HSGS, Kon Tum",
-  "type": "high_school",
-  "departmentCode": "26",
-  "raw": [
-   "HSGS Nguyen Tat Thanh - Kon Tum"
-  ]
- },
- {
-  "id": "o-lekhiet-qn",
-  "name": "THPT chuyên Lê Khiết, Quảng Ngãi",
-  "nameEn": "Le Khiet HSGS, Quang Ngai",
-  "type": "high_school",
-  "departmentCode": "26",
-  "raw": [
-   "HSGS Le Khiet - Quang Ngai"
-  ]
- },
- {
-  "id": "o-ltt-ct",
-  "name": "THPT chuyên Lý Tự Trọng, Cần Thơ",
-  "nameEn": "Ly Tu Trong HSGS, Can Tho",
-  "type": "high_school",
-  "departmentCode": "01",
-  "raw": [
-   "Ly Tu Trong High School for the Gifted - Can Tho",
-   "THPT chuyên Lý Tự Trọng",
-   "HSGS Ly Tu Trong - Can Tho"
-  ]
- },
- {
-  "id": "o-ntmk-st",
-  "name": "THPT chuyên Nguyễn Thị Minh Khai, Sóc Trăng",
-  "nameEn": "Nguyen Thi Minh Khai HSGS, Soc Trang",
-  "type": "high_school",
-  "departmentCode": "01",
-  "raw": [
-   "HSGS Nguyen Thi Minh Khai - Soc Trang"
-  ]
- },
- {
-  "id": "o-vithanh-hg",
-  "name": "THPT chuyên Vị Thanh, Hậu Giang",
-  "nameEn": "Vi Thanh HSGS, Hau Giang",
-  "type": "high_school",
-  "departmentCode": "01",
-  "raw": [
-   "HSGS Vi Thanh - Hau Giang"
-  ]
- },
- {
-  "id": "o-nqd-dt",
-  "name": "THPT chuyên Nguyễn Quang Diêu, Đồng Tháp",
-  "nameEn": "Nguyen Quang Dieu HSGS, Dong Thap",
-  "type": "high_school",
-  "departmentCode": "14",
-  "raw": [
-   "HSGS Nguyen Quang Dieu - Dong Thap"
-  ]
- },
- {
-  "id": "o-tiengiang-hs",
-  "name": "THPT chuyên Tiền Giang",
-  "nameEn": "Tien Giang HSGS",
-  "type": "high_school",
-  "departmentCode": "14",
-  "raw": [
-   "HSGS Tien Giang"
-  ]
- },
- {
-  "id": "o-baclieu-hs",
-  "name": "THPT chuyên Bạc Liêu",
-  "nameEn": "Bac Lieu HSGS",
-  "type": "high_school",
-  "departmentCode": "09",
-  "raw": [
-   "HSGS Bac Lieu",
-   "Bac Lieu High School",
-   "THPT chuyên Bạc Liêu"
-  ]
- },
- {
-  "id": "o-laocai-hs",
-  "name": "THPT chuyên Lào Cai",
-  "nameEn": "Lao Cai HSGS",
-  "type": "high_school",
-  "departmentCode": "21",
-  "raw": [
-   "HSGS Lao Cai",
-   "THPT chuyên Lào Cai"
-  ]
- },
- {
-  "id": "o-ntt-yb",
-  "name": "THPT chuyên Nguyễn Tất Thành, Yên Bái",
-  "nameEn": "Nguyen Tat Thanh HSGS, Yen Bai",
-  "type": "high_school",
-  "departmentCode": "21",
-  "raw": [
-   "HSGS Nguyen Tat Thanh - Yen Bai"
-  ]
- },
- {
-  "id": "o-hagiang-hs",
-  "name": "THPT chuyên Hà Giang",
-  "nameEn": "Ha Giang HSGS",
-  "type": "high_school",
-  "departmentCode": "33",
-  "raw": [
-   "HSGS Ha Giang",
-   "Trường THPT chuyên Hà Giang"
-  ]
- },
- {
-  "id": "o-chilang-gl",
-  "name": "THPT Chi Lăng, Gia Lai",
-  "nameEn": "Chi Lang High School, Gia Lai",
-  "type": "high_school",
-  "departmentCode": "15",
-  "raw": [
-   "Trường THPT Chi Lăng Gia Lai"
-  ]
- },
- {
-  "id": "o-ntu-tw",
-  "name": "Đại học Quốc lập Đài Loan",
-  "type": "university",
-  "shortName": "NTU",
-  "countryCode": "tw",
-  "raw": [
-   "National Taiwan University"
-  ],
-  "nameEn": "National Taiwan University"
- },
- {
-  "id": "o-ncku",
-  "name": "Đại học Quốc lập Thành Công",
-  "type": "university",
-  "shortName": "NCKU",
-  "countryCode": "tw",
-  "raw": [
-   "National Cheng Kung University"
-  ],
-  "nameEn": "National Cheng Kung University"
- },
- {
-  "id": "o-ntou",
-  "name": "Đại học Quốc lập Hải Dương Đài Loan",
-  "type": "university",
-  "shortName": "NTOU",
-  "countryCode": "tw",
-  "raw": [
-   "National Taiwan Ocean University"
-  ],
-  "nameEn": "National Taiwan Ocean University"
- },
- {
-  "id": "o-nus",
-  "name": "Đại học Quốc gia Singapore",
-  "type": "university",
-  "shortName": "NUS",
-  "countryCode": "sg",
-  "raw": [
-   "National University of Singapore"
-  ],
-  "nameEn": "National University of Singapore"
- },
- {
-  "id": "o-ntu-sg",
-  "name": "Đại học Công nghệ Nanyang",
-  "type": "university",
-  "shortName": "NTU (Singapore)",
-  "countryCode": "sg",
-  "raw": [
-   "Nanyang Technological University"
-  ],
-  "nameEn": "Nanyang Technological University"
- },
- {
-  "id": "o-smu-sg",
-  "name": "Đại học Quản lý Singapore",
-  "type": "university",
-  "shortName": "SMU",
-  "countryCode": "sg",
-  "raw": [
-   "Singapore Management University"
-  ],
-  "nameEn": "Singapore Management University"
- },
- {
-  "id": "o-kaist",
-  "name": "Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc",
-  "nameEn": "Korea Advanced Institute of Science and Technology",
-  "type": "university",
-  "shortName": "KAIST",
-  "countryCode": "kr",
-  "raw": [
-   "KAIST"
-  ]
- },
- {
-  "id": "o-snu",
-  "name": "Đại học Quốc gia Seoul",
-  "type": "university",
-  "shortName": "SNU",
-  "countryCode": "kr",
-  "raw": [
-   "Seoul National University"
-  ],
-  "nameEn": "Seoul National University"
- },
- {
-  "id": "o-postech",
-  "name": "Đại học Khoa học và Công nghệ Pohang",
-  "type": "university",
-  "shortName": "POSTECH",
-  "countryCode": "kr",
-  "raw": [
-   "Pohang University of Science and Technology"
-  ],
-  "nameEn": "Pohang University of Science and Technology"
- },
- {
-  "id": "o-hanyang",
-  "name": "Đại học Hanyang",
-  "type": "university",
-  "shortName": "HYU",
-  "countryCode": "kr",
-  "raw": [
-   "Hanyang University"
-  ],
-  "nameEn": "Hanyang University"
- },
- {
-  "id": "o-skku",
-  "name": "Đại học Sungkyunkwan",
-  "type": "university",
-  "shortName": "SKKU",
-  "countryCode": "kr",
-  "raw": [
-   "SungKyunKwan University"
-  ],
-  "nameEn": "Sungkyunkwan University"
- },
- {
-  "id": "o-chula",
-  "name": "Đại học Chulalongkorn",
-  "type": "university",
-  "shortName": "CU",
-  "countryCode": "th",
-  "raw": [
-   "Chulalongkorn University"
-  ],
-  "nameEn": "Chulalongkorn University"
- },
- {
-  "id": "o-cmu-th",
-  "name": "Đại học Chiang Mai",
-  "type": "university",
-  "shortName": "CMU",
-  "countryCode": "th",
-  "raw": [
-   "Chiang Mai University"
-  ],
-  "nameEn": "Chiang Mai University"
- },
- {
-  "id": "o-utcc",
-  "name": "Đại học Phòng Thương mại Thái Lan",
-  "type": "university",
-  "shortName": "UTCC",
-  "countryCode": "th",
-  "raw": [
-   "University of the Thai Chamber of Commerce"
-  ],
-  "nameEn": "University of the Thai Chamber of Commerce"
- },
- {
-  "id": "o-ui-id",
-  "name": "Đại học Indonesia",
-  "type": "university",
-  "shortName": "UI",
-  "countryCode": "id",
-  "raw": [
-   "Universitas Indonesia"
-  ],
-  "nameEn": "Universitas Indonesia"
- },
- {
-  "id": "o-binus",
-  "name": "Đại học Bina Nusantara",
-  "type": "university",
-  "shortName": "BINUS",
-  "countryCode": "id",
-  "raw": [
-   "Bina Nusantara University",
-   "BINUS UNIVERSITY",
-   "BINUS University"
-  ],
-  "nameEn": "Bina Nusantara University"
- },
- {
-  "id": "o-unpar",
-  "name": "Đại học Công giáo Parahyangan",
-  "type": "university",
-  "shortName": "UNPAR",
-  "countryCode": "id",
-  "raw": [
-   "Parahyangan University"
-  ],
-  "nameEn": "Parahyangan Catholic University"
- },
- {
-  "id": "o-admu",
-  "name": "Đại học Ateneo de Manila",
-  "type": "university",
-  "shortName": "ADMU",
-  "countryCode": "ph",
-  "raw": [
-   "Ateneo de Manila University"
-  ],
-  "nameEn": "Ateneo de Manila University"
- },
- {
-  "id": "o-xmum",
-  "name": "Đại học Hạ Môn Malaysia",
-  "type": "university",
-  "shortName": "XMUM",
-  "countryCode": "my",
-  "raw": [
-   "Xiamen University Malaysia"
-  ],
-  "nameEn": "Xiamen University Malaysia"
- },
- {
-  "id": "o-utokyo",
-  "name": "Đại học Tokyo",
-  "nameEn": "The University of Tokyo",
-  "type": "university",
-  "shortName": "UTokyo",
-  "countryCode": "jp",
-  "raw": [
-   "The University of Tokyo"
-  ]
- },
- {
-  "id": "o-kyoto",
-  "name": "Đại học Kyoto",
-  "nameEn": "Kyoto University",
-  "type": "university",
-  "shortName": "KyotoU",
-  "countryCode": "jp",
-  "raw": [
-   "Kyoto University"
-  ]
- },
- {
-  "id": "o-sci-tokyo",
-  "name": "Viện Khoa học Tokyo",
-  "nameEn": "Institute of Science Tokyo",
-  "type": "university",
-  "shortName": "Science Tokyo",
-  "countryCode": "jp",
-  "raw": [
-   "Institute of Science Tokyo",
-   "Tokyo Institute of Technology"
-  ]
- },
- {
-  "id": "o-uosaka",
-  "name": "Đại học Osaka",
-  "nameEn": "The University of Osaka",
-  "type": "university",
-  "shortName": "UOsaka",
-  "countryCode": "jp",
-  "raw": [
-   "The University of Osaka",
-   "Osaka University"
-  ]
- },
- {
-  "id": "o-tohoku",
-  "name": "Đại học Tohoku",
-  "nameEn": "Tohoku University",
-  "type": "university",
-  "shortName": "Tohoku",
-  "countryCode": "jp",
-  "raw": [
-   "Tohoku University"
-  ]
- },
- {
-  "id": "o-hokudai",
-  "name": "Đại học Hokkaido",
-  "nameEn": "Hokkaido University",
-  "type": "university",
-  "shortName": "Hokudai",
-  "countryCode": "jp",
-  "raw": [
-   "Hokkaido University"
-  ]
- },
- {
-  "id": "o-keio",
-  "name": "Đại học Keio",
-  "nameEn": "Keio University",
-  "type": "university",
-  "shortName": "Keio",
-  "countryCode": "jp",
-  "raw": [
-   "Keio University"
-  ]
- },
- {
-  "id": "o-waseda",
-  "name": "Đại học Waseda",
-  "nameEn": "Waseda University",
-  "type": "university",
-  "shortName": "Waseda",
-  "countryCode": "jp",
-  "raw": [
-   "Waseda University"
-  ]
- },
- {
-  "id": "o-tsukuba",
-  "name": "Đại học Tsukuba",
-  "nameEn": "University of Tsukuba",
-  "type": "university",
-  "shortName": "Tsukuba",
-  "countryCode": "jp",
-  "raw": [
-   "University of Tsukuba"
-  ]
- },
- {
-  "id": "o-aizu",
-  "name": "Đại học Aizu",
-  "nameEn": "University of Aizu",
-  "type": "university",
-  "shortName": "UoA",
-  "countryCode": "jp",
-  "raw": [
-   "University of Aizu"
-  ]
- },
- {
-  "id": "o-nit-tokuyama",
-  "name": "Trường Cao đẳng Công nghệ Quốc gia Tokuyama",
-  "nameEn": "National Institute of Technology, Tokuyama College",
-  "type": "university",
-  "shortName": "NIT Tokuyama",
-  "countryCode": "jp",
-  "raw": [
-   "National Institute of Technology, Tokuyama College"
-  ]
- },
- {
-  "id": "o-korea",
-  "name": "Đại học Korea",
-  "nameEn": "Korea University",
-  "type": "university",
-  "shortName": "KU",
-  "countryCode": "kr",
-  "raw": [
-   "Korea University"
-  ]
- },
- {
-  "id": "o-yonsei",
-  "name": "Đại học Yonsei",
-  "nameEn": "Yonsei University",
-  "type": "university",
-  "shortName": "Yonsei",
-  "countryCode": "kr",
-  "raw": [
-   "Yonsei University"
-  ]
- },
- {
-  "id": "o-sogang",
-  "name": "Đại học Sogang",
-  "nameEn": "Sogang University",
-  "type": "university",
-  "shortName": "Sogang",
-  "countryCode": "kr",
-  "raw": [
-   "Sogang University"
-  ]
- },
- {
-  "id": "o-soongsil",
-  "name": "Đại học Soongsil",
-  "nameEn": "Soongsil University",
-  "type": "university",
-  "shortName": "SSU",
-  "countryCode": "kr",
-  "raw": [
-   "Soongsil University"
-  ]
- },
- {
-  "id": "o-khu",
-  "name": "Đại học Kyung Hee",
-  "nameEn": "Kyung Hee University",
-  "type": "university",
-  "shortName": "KHU",
-  "countryCode": "kr",
-  "raw": [
-   "Kyung Hee University"
-  ]
- },
- {
-  "id": "o-knu",
-  "name": "Đại học Quốc gia Kyungpook",
-  "nameEn": "Kyungpook National University",
-  "type": "university",
-  "shortName": "KNU",
-  "countryCode": "kr",
-  "raw": [
-   "Kyungpook National University"
-  ]
- },
- {
-  "id": "o-pnu",
-  "name": "Đại học Quốc gia Pusan",
-  "nameEn": "Pusan National University",
-  "type": "university",
-  "shortName": "PNU",
-  "countryCode": "kr",
-  "raw": [
-   "Pusan National University"
-  ]
- },
- {
-  "id": "o-jbnu",
-  "name": "Đại học Quốc gia Jeonbuk",
-  "nameEn": "Jeonbuk National University",
-  "type": "university",
-  "shortName": "JBNU",
-  "countryCode": "kr",
-  "raw": [
-   "Jeonbuk National University"
-  ]
- },
- {
-  "id": "o-unist",
-  "name": "Viện Khoa học và Công nghệ Quốc gia Ulsan",
-  "nameEn": "Ulsan National Institute of Science and Technology",
-  "type": "university",
-  "shortName": "UNIST",
-  "countryCode": "kr",
-  "raw": [
-   "Ulsan National Institute of Science and Technology"
-  ]
- },
- {
-  "id": "o-nthu",
-  "name": "Đại học Quốc lập Thanh Hoa",
-  "nameEn": "National Tsing Hua University",
-  "type": "university",
-  "shortName": "NTHU",
-  "countryCode": "tw",
-  "raw": [
-   "National Tsing Hua University"
-  ]
- },
- {
-  "id": "o-nycu",
-  "name": "Đại học Quốc lập Dương Minh Giao Thông",
-  "nameEn": "National Yang Ming Chiao Tung University",
-  "type": "university",
-  "shortName": "NYCU",
-  "countryCode": "tw",
-  "raw": [
-   "National Yang Ming Chiao Tung University"
-  ]
- },
- {
-  "id": "o-ncu-tw",
-  "name": "Đại học Quốc lập Trung ương",
-  "nameEn": "National Central University",
-  "type": "university",
-  "shortName": "NCU",
-  "countryCode": "tw",
-  "raw": [
-   "National Central University"
-  ]
- },
- {
-  "id": "o-ntnu",
-  "name": "Đại học Quốc lập Sư phạm Đài Loan",
-  "nameEn": "National Taiwan Normal University",
-  "type": "university",
-  "shortName": "NTNU",
-  "countryCode": "tw",
-  "raw": [
-   "National Taiwan Normal University"
-  ]
- },
- {
-  "id": "o-ccu-tw",
-  "name": "Đại học Quốc lập Trung Chính",
-  "nameEn": "National Chung Cheng University",
-  "type": "university",
-  "shortName": "CCU",
-  "countryCode": "tw",
-  "raw": [
-   "National Chung Cheng University"
-  ]
- },
- {
-  "id": "o-mcu-tw",
-  "name": "Đại học Minh Truyền",
-  "nameEn": "Ming Chuan University",
-  "type": "university",
-  "shortName": "MCU",
-  "countryCode": "tw",
-  "raw": [
-   "Ming Chuan University"
-  ]
- },
- {
-  "id": "o-itb",
-  "name": "Viện Công nghệ Bandung",
-  "nameEn": "Institut Teknologi Bandung",
-  "type": "university",
-  "shortName": "ITB",
-  "countryCode": "id",
-  "raw": [
-   "Institut Teknologi Bandung"
-  ]
- },
- {
-  "id": "o-ugm",
-  "name": "Đại học Gadjah Mada",
-  "nameEn": "Universitas Gadjah Mada",
-  "type": "university",
-  "shortName": "UGM",
-  "countryCode": "id",
-  "raw": [
-   "Universitas Gadjah Mada",
-   "Gadjah Mada University"
-  ]
- },
- {
-  "id": "o-dlsu",
-  "name": "Đại học De La Salle",
-  "nameEn": "De La Salle University",
-  "type": "university",
-  "shortName": "DLSU",
-  "countryCode": "ph",
-  "raw": [
-   "De La Salle University"
-  ]
- },
- {
-  "id": "o-unsw",
-  "name": "Đại học New South Wales",
-  "nameEn": "UNSW Sydney",
-  "type": "university",
-  "shortName": "UNSW",
-  "countryCode": "au",
-  "raw": [
-   "UNSW Sydney"
-  ]
- },
- {
-  "id": "o-unimelb",
-  "name": "Đại học Melbourne",
-  "nameEn": "University of Melbourne",
-  "type": "university",
-  "shortName": "UniMelb",
-  "countryCode": "au",
-  "raw": [
-   "University of Melbourne"
-  ]
- }
+  {
+    "id": "o-uet",
+    "name": "Trường Đại học Công nghệ, ĐHQG Hà Nội",
+    "nameEn": "University of Engineering and Technology, VNU",
+    "type": "university",
+    "shortName": "UET",
+    "raw": ["University of Engineering and Technology - VNU"]
+  },
+  {
+    "id": "o-hus-vnu",
+    "name": "Trường Đại học Khoa học Tự nhiên, ĐHQG Hà Nội",
+    "nameEn": "University of Science, VNU",
+    "type": "university",
+    "shortName": "HUS",
+    "raw": ["Hanoi University of Science"]
+  },
+  {
+    "id": "o-hus",
+    "name": "Trường Đại học Khoa học Tự nhiên, ĐHQG TP.HCM",
+    "nameEn": "University of Science, VNUHCM",
+    "type": "university",
+    "shortName": "HCMUS",
+    "raw": ["University of Science, VNU-HCM"]
+  },
+  {
+    "id": "o-hcmut",
+    "name": "Trường Đại học Bách khoa, ĐHQG TP.HCM",
+    "nameEn": "University of Technology, VNUHCM",
+    "type": "university",
+    "shortName": "HCMUT",
+    "raw": ["Ho Chi Minh City University of Technology"]
+  },
+  {
+    "id": "o-uit",
+    "name": "Trường Đại học Công nghệ Thông tin, ĐHQG TP.HCM",
+    "nameEn": "University of Information Technology, VNUHCM",
+    "type": "university",
+    "shortName": "UIT",
+    "raw": [
+      "University of Information Technology - Vietnam National University HCM"
+    ]
+  },
+  {
+    "id": "o-iu-hcm",
+    "name": "Trường Đại học Quốc tế, ĐHQG TP.HCM",
+    "nameEn": "International University, VNUHCM",
+    "type": "university",
+    "shortName": "IU",
+    "raw": ["Ho Chi Minh City International University"]
+  },
+  {
+    "id": "o-ussh-hcm",
+    "name": "Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQG TP.HCM",
+    "nameEn": "University of Social Sciences and Humanities, VNUHCM",
+    "type": "university",
+    "shortName": "USSH",
+    "raw": [
+      "University of Social Sciences and Humanities, VNUHCM",
+      "University of Social Sciences and Humanities"
+    ]
+  },
+  {
+    "id": "o-dut",
+    "name": "Trường Đại học Bách khoa, Đại học Đà Nẵng",
+    "nameEn": "University of Science and Technology, UDN",
+    "type": "university",
+    "shortName": "DUT",
+    "raw": [
+      "University of Science and Technology – The University of Danang",
+      "University of Science and Technology - The University of Danang"
+    ]
+  },
+  {
+    "id": "o-vku",
+    "name": "Trường Đại học CNTT&TT Việt-Hàn, Đại học Đà Nẵng",
+    "nameEn": "Vietnam-Korea University of ICT, UDN",
+    "type": "university",
+    "shortName": "VKU",
+    "raw": [
+      "The University of Danang, Vietnam-Korea University of ICT",
+      "Vietnam-Korea University of ICT, The University of Danang",
+      "Vietnam-Korea University of Information and Communication Technology, The University of Danang"
+    ]
+  },
+  {
+    "id": "o-ued-dn",
+    "name": "Trường Đại học Sư phạm, Đại học Đà Nẵng",
+    "nameEn": "University of Science and Education, UDN",
+    "type": "university",
+    "shortName": "UED",
+    "raw": ["Danang University of Education", "Da Nang University of Education"]
+  },
+  {
+    "id": "o-due-dn",
+    "name": "Trường Đại học Kinh tế, Đại học Đà Nẵng",
+    "nameEn": "University of Economics, UDN",
+    "type": "university",
+    "shortName": "DUE",
+    "raw": ["Da Nang University of Economics", "Danang University of Economics"]
+  },
+  {
+    "id": "o-ute-dn",
+    "name": "Trường Đại học Sư phạm Kỹ thuật, Đại học Đà Nẵng",
+    "nameEn": "University of Technology and Education, UDN",
+    "type": "university",
+    "raw": ["University of Technology and Education-The University of Danag"]
+  },
+  {
+    "id": "o-husc",
+    "name": "Trường Đại học Khoa học, Đại học Huế",
+    "nameEn": "University of Science, UHue",
+    "type": "university",
+    "shortName": "HUSC",
+    "raw": ["Hue University of Science"]
+  },
+  {
+    "id": "o-hust",
+    "name": "Đại học Bách khoa Hà Nội",
+    "nameEn": "Hanoi University of Science and Technology",
+    "type": "university",
+    "shortName": "HUST",
+    "raw": ["Hanoi University of Science and Technology"]
+  },
+  {
+    "id": "o-haui",
+    "name": "Trường Đại học Công nghiệp Hà Nội",
+    "nameEn": "Hanoi University of Industry",
+    "type": "university",
+    "shortName": "HaUI",
+    "raw": ["Hanoi University of Industry"]
+  },
+  {
+    "id": "o-ptit",
+    "name": "Học viện Công nghệ Bưu chính Viễn thông",
+    "nameEn": "Posts and Telecommunications Institute of Technology",
+    "type": "university",
+    "shortName": "PTIT",
+    "raw": ["Posts and Telecommunications Institute of Technology, HN"]
+  },
+  {
+    "id": "o-hnue",
+    "name": "Trường Đại học Sư phạm Hà Nội",
+    "nameEn": "Hanoi National University of Education",
+    "type": "university",
+    "shortName": "HNUE",
+    "raw": ["Hanoi National University of Education"]
+  },
+  {
+    "id": "o-neu",
+    "name": "Đại học Kinh tế Quốc dân",
+    "nameEn": "National Economics University",
+    "type": "university",
+    "shortName": "NEU",
+    "raw": ["National Economics University"]
+  },
+  {
+    "id": "o-phenikaa",
+    "name": "Trường Đại học Phenikaa",
+    "nameEn": "Phenikaa University",
+    "type": "university",
+    "raw": ["Phenikaa University"]
+  },
+  {
+    "id": "o-tlu",
+    "name": "Trường Đại học Thủy lợi",
+    "nameEn": "Thuyloi University",
+    "type": "university",
+    "shortName": "TLU",
+    "raw": ["Thuyloi University"]
+  },
+  {
+    "id": "o-thanglong-u",
+    "name": "Trường Đại học Thăng Long",
+    "nameEn": "Thang Long University",
+    "type": "university",
+    "raw": ["Thang Long University"]
+  },
+  {
+    "id": "o-hou",
+    "name": "Trường Đại học Mở Hà Nội",
+    "nameEn": "Hanoi Open University",
+    "type": "university",
+    "shortName": "HOU",
+    "raw": [
+      "Hanoi Open University",
+      "Faculty of Information Technology - Hanoi Open University"
+    ]
+  },
+  {
+    "id": "o-utc",
+    "name": "Trường Đại học Giao thông Vận tải",
+    "nameEn": "University of Transport and Communications",
+    "type": "university",
+    "shortName": "UTC",
+    "raw": ["University of Transport and Communications"]
+  },
+  {
+    "id": "o-ftu",
+    "name": "Trường Đại học Ngoại thương",
+    "nameEn": "Foreign Trade University",
+    "type": "university",
+    "shortName": "FTU",
+    "raw": ["Foreign Trade University"]
+  },
+  {
+    "id": "o-mta",
+    "name": "Học viện Kỹ thuật Quân sự",
+    "nameEn": "Le Quy Don Technical University",
+    "type": "university",
+    "shortName": "MTA",
+    "raw": ["Military Technical Academy", "Le Quy Don Technical University"]
+  },
+  {
+    "id": "o-vinuni",
+    "name": "Trường Đại học VinUni",
+    "nameEn": "VinUniversity",
+    "type": "university",
+    "shortName": "VinUni",
+    "raw": ["VinUniversity"]
+  },
+  {
+    "id": "o-usth",
+    "name": "Trường Đại học Khoa học và Công nghệ Hà Nội",
+    "nameEn": "University of Science and Technology of Hanoi",
+    "type": "university",
+    "shortName": "USTH",
+    "raw": ["University of Science and Technology of Hanoi"]
+  },
+  {
+    "id": "o-epu",
+    "name": "Trường Đại học Điện lực",
+    "nameEn": "Electric Power University",
+    "type": "university",
+    "shortName": "EPU",
+    "raw": ["Electric Power University"]
+  },
+  {
+    "id": "o-bav",
+    "name": "Học viện Ngân hàng",
+    "nameEn": "Banking Academy of Vietnam",
+    "type": "university",
+    "shortName": "BAV",
+    "raw": ["Banking Academy of Vietnam"]
+  },
+  {
+    "id": "o-aof",
+    "name": "Học viện Tài chính",
+    "nameEn": "Academy of Finance",
+    "type": "university",
+    "shortName": "AOF",
+    "raw": ["Academy of Finance"]
+  },
+  {
+    "id": "o-hau",
+    "name": "Trường Đại học Kiến trúc Hà Nội",
+    "nameEn": "Hanoi Architectural University",
+    "type": "university",
+    "shortName": "HAU",
+    "raw": ["Hanoi Architectural University"]
+  },
+  {
+    "id": "o-hnmu",
+    "name": "Trường Đại học Thủ đô Hà Nội",
+    "nameEn": "Hanoi Metropolitan University",
+    "type": "university",
+    "shortName": "HNMU",
+    "raw": ["Hanoi Metropolitan University"]
+  },
+  {
+    "id": "o-huce",
+    "name": "Trường Đại học Xây dựng Hà Nội",
+    "nameEn": "Hanoi University of Civil Engineering",
+    "type": "university",
+    "shortName": "HUCE",
+    "raw": ["Hanoi University of Civil Engineering"]
+  },
+  {
+    "id": "o-cmc",
+    "name": "Trường Đại học CMC",
+    "nameEn": "CMC University",
+    "type": "university",
+    "shortName": "CMC",
+    "raw": ["CMC University"]
+  },
+  {
+    "id": "o-psa",
+    "name": "Học viện An ninh nhân dân",
+    "nameEn": "People's Security Academy",
+    "type": "university",
+    "raw": ["People's Security Academy"]
+  },
+  {
+    "id": "o-ppa",
+    "name": "Học viện Cảnh sát nhân dân",
+    "nameEn": "People's Police Academy",
+    "type": "university",
+    "raw": ["People’s Police Academy"]
+  },
+  {
+    "id": "o-ufp",
+    "name": "Trường Đại học Phòng cháy Chữa cháy",
+    "nameEn": "University of Fire Prevention and Fighting",
+    "type": "university",
+    "raw": ["University of Fire Fighting and Prevention"]
+  },
+  {
+    "id": "o-utl-ps",
+    "name": "Trường Đại học Kỹ thuật - Hậu cần Công an nhân dân",
+    "nameEn": "University of Technology and Logistics of Public Security",
+    "type": "university",
+    "raw": ["University of Technology – Logistics of Public Security"]
+  },
+  {
+    "id": "o-swinburne",
+    "name": "Swinburne Việt Nam",
+    "nameEn": "Swinburne University of Technology (Vietnam)",
+    "type": "university",
+    "raw": ["Swinburne University of Technology"]
+  },
+  {
+    "id": "o-iuh",
+    "name": "Trường Đại học Công nghiệp TP.HCM",
+    "nameEn": "Industrial University of HCMC",
+    "type": "university",
+    "shortName": "IUH",
+    "raw": ["Industrial University of Ho Chi Minh City"]
+  },
+  {
+    "id": "o-fptu",
+    "name": "Trường Đại học FPT",
+    "nameEn": "FPT University",
+    "type": "university",
+    "shortName": "FPTU",
+    "raw": ["FPT University"]
+  },
+  {
+    "id": "o-hcmute",
+    "name": "Trường Đại học Sư phạm Kỹ thuật TP.HCM",
+    "nameEn": "HCMC University of Technology and Education",
+    "type": "university",
+    "shortName": "HCMUTE",
+    "raw": [
+      "HCMC University of Technology and Education",
+      "HCMC University of Technology and Engineering"
+    ]
+  },
+  {
+    "id": "o-ptit-hcm",
+    "name": "Học viện Công nghệ Bưu chính Viễn thông (cơ sở TP.HCM)",
+    "nameEn": "Posts and Telecommunications Institute of Technology, HCMC",
+    "type": "university",
+    "shortName": "PTITHCM",
+    "raw": ["Posts and Telecommunications Institute of Technology, HCMC"]
+  },
+  {
+    "id": "o-hcmue",
+    "name": "Trường Đại học Sư phạm TP.HCM",
+    "nameEn": "HCMC University of Education",
+    "type": "university",
+    "shortName": "HCMUE",
+    "raw": ["Ho Chi Minh City University of Education"]
+  },
+  {
+    "id": "o-hutech",
+    "name": "Trường Đại học Công nghệ TP.HCM",
+    "nameEn": "HCMC University of Technology (HUTECH)",
+    "type": "university",
+    "shortName": "HUTECH",
+    "raw": ["Ho Chi Minh City University of Technology, HUTECH"]
+  },
+  {
+    "id": "o-uth",
+    "name": "Trường Đại học Giao thông Vận tải TP.HCM",
+    "nameEn": "HCMC University of Transport",
+    "type": "university",
+    "shortName": "UTH",
+    "raw": [
+      "University of Transport in Ho Chi Minh City",
+      "Ho Chi Minh City University of Transport"
+    ]
+  },
+  {
+    "id": "o-utc2",
+    "name": "Phân hiệu Trường Đại học Giao thông Vận tải tại TP.HCM",
+    "nameEn": "University of Transport and Communications, HCMC Campus",
+    "type": "university",
+    "shortName": "UTC2",
+    "raw": [
+      "University of Transport and Communications, Campus in Ho Chi Minh City"
+    ]
+  },
+  {
+    "id": "o-rmit",
+    "name": "Trường Đại học RMIT Việt Nam",
+    "nameEn": "RMIT University Vietnam",
+    "type": "university",
+    "shortName": "RMIT",
+    "raw": ["RMIT University Vietnam"]
+  },
+  {
+    "id": "o-sgu",
+    "name": "Trường Đại học Sài Gòn",
+    "nameEn": "Saigon University",
+    "type": "university",
+    "shortName": "SGU",
+    "raw": ["Saigon University"]
+  },
+  {
+    "id": "o-tdtu",
+    "name": "Trường Đại học Tôn Đức Thắng",
+    "nameEn": "Ton Duc Thang University",
+    "type": "university",
+    "shortName": "TDTU",
+    "raw": ["Ton Duc Thang University"]
+  },
+  {
+    "id": "o-siu",
+    "name": "Trường Đại học Quốc tế Sài Gòn",
+    "nameEn": "The Saigon International University",
+    "type": "university",
+    "shortName": "SIU",
+    "raw": ["The Saigon International University"]
+  },
+  {
+    "id": "o-vlu",
+    "name": "Trường Đại học Văn Lang",
+    "nameEn": "Van Lang University",
+    "type": "university",
+    "shortName": "VLU",
+    "raw": ["Van Lang University"]
+  },
+  {
+    "id": "o-huflit",
+    "name": "Trường Đại học Ngoại ngữ - Tin học TP.HCM",
+    "nameEn": "HCMC University of Foreign Languages and Information Technology",
+    "type": "university",
+    "shortName": "HUFLIT",
+    "raw": [
+      "Ho Chi Minh City University of Foreign Languages - Information Technology"
+    ]
+  },
+  {
+    "id": "o-umt",
+    "name": "Trường Đại học Quản lý và Công nghệ TP.HCM",
+    "nameEn": "University of Management and Technology, HCMC",
+    "type": "university",
+    "shortName": "UMT",
+    "raw": ["University of Management and Technology, Ho Chi Minh City"]
+  },
+  {
+    "id": "o-ou-hcm",
+    "name": "Trường Đại học Mở TP.HCM",
+    "nameEn": "HCMC Open University",
+    "type": "university",
+    "shortName": "OU",
+    "raw": [
+      "Ho Chi Minh City Open University",
+      "HCM City Open University",
+      "Dai hoc Mo Tp. HCM - HCM City Open University"
+    ]
+  },
+  {
+    "id": "o-vhu",
+    "name": "Trường Đại học Văn Hiến",
+    "nameEn": "Van Hien University",
+    "type": "university",
+    "shortName": "VHU",
+    "raw": ["Van Hien University"]
+  },
+  {
+    "id": "o-ueh",
+    "name": "Đại học Kinh tế TP.HCM",
+    "nameEn": "University of Economics HCMC",
+    "type": "university",
+    "shortName": "UEH",
+    "raw": ["University of Economics Ho Chi Minh City"]
+  },
+  {
+    "id": "o-hiu",
+    "name": "Trường Đại học Quốc tế Hồng Bàng",
+    "nameEn": "Hong Bang International University",
+    "type": "university",
+    "shortName": "HIU",
+    "raw": ["HongBang International University"]
+  },
+  {
+    "id": "o-nlu",
+    "name": "Trường Đại học Nông Lâm TP.HCM",
+    "nameEn": "Nong Lam University",
+    "type": "university",
+    "shortName": "NLU",
+    "raw": ["HCM University of Agriculture and Forestry"]
+  },
+  {
+    "id": "o-huit",
+    "name": "Trường Đại học Công Thương TP.HCM",
+    "nameEn": "HCMC University of Industry and Trade",
+    "type": "university",
+    "shortName": "HUIT",
+    "raw": ["Ho Chi Minh City University of Industry and Trade"]
+  },
+  {
+    "id": "o-ppu",
+    "name": "Trường Đại học Cảnh sát nhân dân",
+    "nameEn": "People's Police University",
+    "type": "university",
+    "raw": ["People's Police University"]
+  },
+  {
+    "id": "o-fuv",
+    "name": "Trường Đại học Fulbright Việt Nam",
+    "nameEn": "Fulbright University Vietnam",
+    "type": "university",
+    "shortName": "FUV",
+    "raw": ["Fulbright University Vietnam"]
+  },
+  {
+    "id": "o-ctu",
+    "name": "Trường Đại học Cần Thơ",
+    "nameEn": "Can Tho University",
+    "type": "university",
+    "shortName": "CTU",
+    "raw": ["Can Tho University"]
+  },
+  {
+    "id": "o-tdmu",
+    "name": "Trường Đại học Thủ Dầu Một",
+    "nameEn": "Thu Dau Mot University",
+    "type": "university",
+    "shortName": "TDMU",
+    "raw": ["Thu Dau Mot University"]
+  },
+  {
+    "id": "o-eiu",
+    "name": "Trường Đại học Quốc tế Miền Đông",
+    "nameEn": "Eastern International University",
+    "type": "university",
+    "shortName": "EIU",
+    "raw": ["Eastern International University"]
+  },
+  {
+    "id": "o-dtu",
+    "name": "Trường Đại học Duy Tân",
+    "nameEn": "Duy Tan University",
+    "type": "university",
+    "shortName": "DTU",
+    "raw": ["Duy Tan University"]
+  },
+  {
+    "id": "o-hdu",
+    "name": "Trường Đại học Hồng Đức",
+    "nameEn": "Hong Duc University",
+    "type": "university",
+    "shortName": "HDU",
+    "raw": ["Hongduc University"]
+  },
+  {
+    "id": "o-vmu",
+    "name": "Trường Đại học Hàng hải Việt Nam",
+    "nameEn": "Vietnam Maritime University",
+    "type": "university",
+    "shortName": "VMU",
+    "raw": ["Vietnam Maritime University"]
+  },
+  {
+    "id": "o-ntu",
+    "name": "Trường Đại học Nha Trang",
+    "nameEn": "Nha Trang University",
+    "type": "university",
+    "shortName": "NTU",
+    "raw": ["Nha Trang University"]
+  },
+  {
+    "id": "o-tcu",
+    "name": "Trường Đại học Thông tin Liên lạc",
+    "nameEn": "Telecommunications University",
+    "type": "university",
+    "shortName": "TCU",
+    "raw": ["TeleCommunications University"]
+  },
+  {
+    "id": "o-tvu",
+    "name": "Đại học Trà Vinh",
+    "nameEn": "Tra Vinh University",
+    "type": "university",
+    "shortName": "TVU",
+    "raw": ["Tra Vinh University"]
+  },
+  {
+    "id": "o-vlute",
+    "name": "Trường Đại học Sư phạm Kỹ thuật Vĩnh Long",
+    "nameEn": "Vinh Long University of Technology Education",
+    "type": "university",
+    "shortName": "VLUTE",
+    "raw": ["Vinh Long University of Technology Education"]
+  },
+  {
+    "id": "o-naval",
+    "name": "Học viện Hải quân",
+    "nameEn": "Naval Academy",
+    "type": "university",
+    "raw": ["Naval Academy"]
+  },
+  {
+    "id": "o-ictu",
+    "name": "Trường Công nghệ Thông tin và Truyền thông, Đại học Thái Nguyên",
+    "nameEn": "University of Information and Communication Technology, TNU",
+    "type": "university",
+    "shortName": "ICTU",
+    "raw": [
+      "College of Information and Communication Technology - Thai Nguyen University"
+    ]
+  },
+  {
+    "id": "o-tnue",
+    "name": "Trường Đại học Sư phạm, Đại học Thái Nguyên",
+    "nameEn": "University of Education, TNU",
+    "type": "university",
+    "shortName": "TUE",
+    "raw": ["Thai Nguyen University of Education"]
+  },
+  {
+    "id": "o-qnu",
+    "name": "Trường Đại học Quy Nhơn",
+    "nameEn": "Quy Nhon University",
+    "type": "university",
+    "shortName": "QNU",
+    "raw": ["Quynhon University"]
+  },
+  {
+    "id": "o-dthu",
+    "name": "Trường Đại học Đồng Tháp",
+    "nameEn": "Dong Thap University",
+    "type": "university",
+    "shortName": "DThU",
+    "raw": ["Dong Thap University"]
+  },
+  {
+    "id": "o-tgu",
+    "name": "Trường Đại học Tiền Giang",
+    "nameEn": "Tien Giang University",
+    "type": "university",
+    "shortName": "TGU",
+    "raw": ["TienGiang University"]
+  },
+  {
+    "id": "o-dau",
+    "name": "Trường Đại học Kiến trúc Đà Nẵng",
+    "nameEn": "Da Nang Architecture University",
+    "type": "university",
+    "shortName": "DAU",
+    "raw": ["Danang Architecture University"]
+  },
+  {
+    "id": "o-yersin",
+    "name": "Trường Đại học Yersin Đà Lạt",
+    "nameEn": "Yersin University of Da Lat",
+    "type": "university",
+    "raw": ["Yersin University of Da Lat"]
+  },
+  {
+    "id": "o-khtn-hn",
+    "name": "THPT chuyên Khoa học Tự nhiên, ĐHQG Hà Nội",
+    "nameEn": "High School for Gifted Students, VNU",
+    "type": "high_school",
+    "departmentCode": "35",
+    "raw": [
+      "HSGS Vietnam National University Hanoi",
+      "THPT chuyên Khoa học Tự nhiên Đại học Quốc gia Hà Nội"
+    ]
+  },
+  {
+    "id": "o-ptnk",
+    "name": "Phổ thông Năng khiếu, ĐHQG TP.HCM",
+    "nameEn": "High School for the Gifted, VNUHCM",
+    "type": "high_school",
+    "departmentCode": "36",
+    "raw": [
+      "HSGS Vietnam National University Ho Chi Minh",
+      "THPT chuyên Đại học Quốc Gia Thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "id": "o-sphn",
+    "name": "THPT chuyên Đại học Sư phạm Hà Nội",
+    "nameEn": "HNUE High School for Gifted Students",
+    "type": "high_school",
+    "departmentCode": "38",
+    "raw": [
+      "HSGS Hanoi National University of Education",
+      "THPT chuyên Đại học Sư Phạm",
+      "THPT chuyên Sư phạm Hà Nội"
+    ]
+  },
+  {
+    "id": "o-chuyen-vinh",
+    "name": "THPT chuyên Đại học Vinh",
+    "nameEn": "High School for Gifted Students, Vinh University",
+    "type": "high_school",
+    "departmentCode": "40",
+    "raw": ["HSGS Vinh University"]
+  },
+  {
+    "id": "o-ams",
+    "name": "THPT chuyên Hà Nội - Amsterdam",
+    "nameEn": "Hanoi - Amsterdam High School for the Gifted",
+    "type": "high_school",
+    "departmentCode": "03",
+    "raw": ["HSGS Hanoi Amsterdam", "THPT chuyên Amsterdam Hà Nội"]
+  },
+  {
+    "id": "o-nguyenhue-hn",
+    "name": "THPT chuyên Nguyễn Huệ, Hà Nội",
+    "nameEn": "Nguyen Hue HSGS, Hanoi",
+    "type": "high_school",
+    "departmentCode": "03",
+    "raw": ["HSGS Nguyen Hue - Hanoi", "THPT chuyên Nguyễn Huệ Hà Nội"]
+  },
+  {
+    "id": "o-cva-hn",
+    "name": "THPT Chu Văn An, Hà Nội",
+    "nameEn": "Chu Van An High School, Hanoi",
+    "type": "high_school",
+    "departmentCode": "03",
+    "raw": ["HSGS Chu Van An - Hanoi"]
+  },
+  {
+    "id": "o-newton-hn",
+    "name": "Trường THCS-THPT Newton, Hà Nội",
+    "nameEn": "Newton Secondary and High School, Hanoi",
+    "type": "high_school",
+    "departmentCode": "03",
+    "raw": ["Newton Secondary and High School - Hanoi"]
+  },
+  {
+    "id": "o-lhp-hcm",
+    "name": "THPT chuyên Lê Hồng Phong, TP.HCM",
+    "nameEn": "Le Hong Phong HSGS, Ho Chi Minh City",
+    "type": "high_school",
+    "departmentCode": "05",
+    "raw": [
+      "HSGS Le Hong Phong - Ho Chi Minh City",
+      "THPT chuyên Lê Hồng Phong Thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "id": "o-tdn-hcm",
+    "name": "THPT chuyên Trần Đại Nghĩa, TP.HCM",
+    "nameEn": "Tran Dai Nghia HSGS, Ho Chi Minh City",
+    "type": "high_school",
+    "departmentCode": "05",
+    "raw": [
+      "HSGS Tran Dai Nghia - Ho Chi Minh City",
+      "THPT chuyên Trần Đại Nghĩa Thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "id": "o-giadinh-hcm",
+    "name": "THPT Gia Định, TP.HCM",
+    "nameEn": "Gia Dinh High School, Ho Chi Minh City",
+    "type": "high_school",
+    "departmentCode": "05",
+    "raw": [
+      "HS Gia Dinh - Ho Chi Minh City",
+      "THPT Gia Định Thành phố Hồ Chí Minh"
+    ]
+  },
+  {
+    "id": "o-hungvuong-bd",
+    "name": "THPT chuyên Hùng Vương, Bình Dương",
+    "nameEn": "Hung Vuong HSGS, Binh Duong",
+    "type": "high_school",
+    "departmentCode": "05",
+    "raw": ["HSGS Hung Vuong - Binh Duong", "THPT chuyên Hùng Vương Bình Dương"]
+  },
+  {
+    "id": "o-lqd-brvt",
+    "name": "THPT chuyên Lê Quý Đôn, Bà Rịa - Vũng Tàu",
+    "nameEn": "Le Quy Don HSGS, Ba Ria - Vung Tau",
+    "type": "high_school",
+    "departmentCode": "05",
+    "raw": ["HSGS Le Quy Don - Ba Ria Vung Tau"]
+  },
+  {
+    "id": "o-lqd-dn",
+    "name": "THPT chuyên Lê Quý Đôn, Đà Nẵng",
+    "nameEn": "Le Quy Don HSGS, Da Nang",
+    "type": "high_school",
+    "departmentCode": "02",
+    "raw": ["HSGS Le Quy Don - Danang", "THPT chuyên Lê Quý Đôn Đà Nẵng"]
+  },
+  {
+    "id": "o-nbk-qn",
+    "name": "THPT chuyên Nguyễn Bỉnh Khiêm, Quảng Nam",
+    "nameEn": "Nguyen Binh Khiem HSGS, Quang Nam",
+    "type": "high_school",
+    "departmentCode": "02",
+    "raw": ["HSGS Nguyen Binh Khiem - Quang Nam"]
+  },
+  {
+    "id": "o-ltt-qn",
+    "name": "THPT chuyên Lê Thánh Tông, Quảng Nam",
+    "nameEn": "Le Thanh Tong HSGS, Quang Nam",
+    "type": "high_school",
+    "departmentCode": "02",
+    "raw": [
+      "HSGS Le Thanh Tong - Quang Nam",
+      "THPT chuyên Lê Thánh Tông Quảng Nam"
+    ]
+  },
+  {
+    "id": "o-tranphu-hp",
+    "name": "THPT chuyên Trần Phú, Hải Phòng",
+    "nameEn": "Tran Phu HSGS, Hai Phong",
+    "type": "high_school",
+    "departmentCode": "04",
+    "raw": [
+      "HSGS Tran Phu - Hai Phong",
+      "HSGS Tran Phu - Haiphong",
+      "THPT chuyên Trần Phú Hải Phòng"
+    ]
+  },
+  {
+    "id": "o-nguyentrai-hd",
+    "name": "THPT chuyên Nguyễn Trãi, Hải Dương",
+    "nameEn": "Nguyen Trai HSGS, Hai Duong",
+    "type": "high_school",
+    "departmentCode": "04",
+    "raw": ["HSGS Nguyen Trai - Hai Duong", "THPT chuyên Nguyễn Trãi Hải Dương"]
+  },
+  {
+    "id": "o-anlao-hp",
+    "name": "THPT An Lão, Hải Phòng",
+    "nameEn": "An Lao High School, Hai Phong",
+    "type": "high_school",
+    "departmentCode": "04",
+    "raw": ["An Lao High School"]
+  },
+  {
+    "id": "o-phanboichau",
+    "name": "THPT chuyên Phan Bội Châu, Nghệ An",
+    "nameEn": "Phan Boi Chau HSGS, Nghe An",
+    "type": "high_school",
+    "departmentCode": "23",
+    "raw": ["HSGS Phan Boi Chau - Nghe An"]
+  },
+  {
+    "id": "o-lamson",
+    "name": "THPT chuyên Lam Sơn, Thanh Hóa",
+    "nameEn": "Lam Son HSGS, Thanh Hoa",
+    "type": "high_school",
+    "departmentCode": "32",
+    "raw": ["HSGS Lam Son - Thanh Hoa"]
+  },
+  {
+    "id": "o-quochoc",
+    "name": "THPT chuyên Quốc Học, Huế",
+    "nameEn": "Quoc Hoc HSGS, Hue",
+    "type": "high_school",
+    "departmentCode": "06",
+    "raw": ["HSGS Quoc Hoc - Thua Thien Hue"]
+  },
+  {
+    "id": "o-lqd-qt",
+    "name": "THPT chuyên Lê Quý Đôn, Quảng Trị",
+    "nameEn": "Le Quy Don HSGS, Quang Tri",
+    "type": "high_school",
+    "departmentCode": "28",
+    "raw": ["HSGS Le Quy Don - Quang Tri"]
+  },
+  {
+    "id": "o-vng-qb",
+    "name": "THPT chuyên Võ Nguyên Giáp, Quảng Bình",
+    "nameEn": "Vo Nguyen Giap HSGS, Quang Binh",
+    "type": "high_school",
+    "departmentCode": "28",
+    "raw": [
+      "HSGS Vo Nguyen Giap - Quang Binh",
+      "THPT chuyên Võ Nguyên Giáp Quảng Bình"
+    ]
+  },
+  {
+    "id": "o-hungyen-hs",
+    "name": "THPT chuyên Hưng Yên",
+    "nameEn": "Hung Yen HSGS",
+    "type": "high_school",
+    "departmentCode": "17",
+    "raw": ["HSGS Hung Yen"]
+  },
+  {
+    "id": "o-thaibinh-hs",
+    "name": "THPT chuyên Thái Bình",
+    "nameEn": "Thai Binh HSGS",
+    "type": "high_school",
+    "departmentCode": "17",
+    "raw": ["HSGS Thai Binh"]
+  },
+  {
+    "id": "o-ltv-dn",
+    "name": "THPT chuyên Lương Thế Vinh, Đồng Nai",
+    "nameEn": "Luong The Vinh HSGS, Dong Nai",
+    "type": "high_school",
+    "departmentCode": "13",
+    "raw": ["HSGS Luong The Vinh - Dong Nai"]
+  },
+  {
+    "id": "o-binhlong",
+    "name": "THPT chuyên Bình Long, Bình Phước",
+    "nameEn": "Binh Long HSGS, Binh Phuoc",
+    "type": "high_school",
+    "departmentCode": "13",
+    "raw": ["HSGS Binh Long - Binh Phuoc", "THPT chuyên Bình Long Bình Phước"]
+  },
+  {
+    "id": "o-quangtrung-bp",
+    "name": "THPT chuyên Quang Trung, Bình Phước",
+    "nameEn": "Quang Trung HSGS, Binh Phuoc",
+    "type": "high_school",
+    "departmentCode": "13",
+    "raw": ["HSGS Quang Trung - Binh Phuoc"]
+  },
+  {
+    "id": "o-lhp-nd",
+    "name": "THPT chuyên Lê Hồng Phong, Nam Định",
+    "nameEn": "Le Hong Phong HSGS, Nam Dinh",
+    "type": "high_school",
+    "departmentCode": "24",
+    "raw": [
+      "HSGS Le Hong Phong - Nam Dinh",
+      "THPT chuyên Lê Hồng Phong Nam Định"
+    ]
+  },
+  {
+    "id": "o-lvt-nb",
+    "name": "THPT chuyên Lương Văn Tụy, Ninh Bình",
+    "nameEn": "Luong Van Tuy HSGS, Ninh Binh",
+    "type": "high_school",
+    "departmentCode": "24",
+    "raw": ["HSGS Luong Van Tuy - Ninh Binh"]
+  },
+  {
+    "id": "o-bienhoa-hn",
+    "name": "THPT chuyên Biên Hòa, Hà Nam",
+    "nameEn": "Bien Hoa HSGS, Ha Nam",
+    "type": "high_school",
+    "departmentCode": "24",
+    "raw": ["HSGS Bien Hoa - Ha Nam", "THPT chuyên Biên hòa Hà Nam"]
+  },
+  {
+    "id": "o-hungvuong-pt",
+    "name": "THPT chuyên Hùng Vương, Phú Thọ",
+    "nameEn": "Hung Vuong HSGS, Phu Tho",
+    "type": "high_school",
+    "departmentCode": "25",
+    "raw": ["HSGS Hung Vuong - Phu Tho"]
+  },
+  {
+    "id": "o-vinhphuc-hs",
+    "name": "THPT chuyên Vĩnh Phúc",
+    "nameEn": "Vinh Phuc HSGS",
+    "type": "high_school",
+    "departmentCode": "25",
+    "raw": ["HSGS Vinh Phuc"]
+  },
+  {
+    "id": "o-hvt-hb",
+    "name": "THPT chuyên Hoàng Văn Thụ, Hòa Bình",
+    "nameEn": "Hoang Van Thu HSGS, Hoa Binh",
+    "type": "high_school",
+    "departmentCode": "25",
+    "raw": ["HSGS Hoang Van Thu - Hoa Binh"]
+  },
+  {
+    "id": "o-halong-qn",
+    "name": "THPT chuyên Hạ Long, Quảng Ninh",
+    "nameEn": "Ha Long HSGS, Quang Ninh",
+    "type": "high_school",
+    "departmentCode": "27",
+    "raw": ["HSGS Ha Long - Quang Ninh", "THPT chuyên Hạ Long Quảng Ninh"]
+  },
+  {
+    "id": "o-bacninh-hs",
+    "name": "THPT chuyên Bắc Ninh",
+    "nameEn": "Bac Ninh HSGS",
+    "type": "high_school",
+    "departmentCode": "08",
+    "raw": ["HSGS Bac Ninh"]
+  },
+  {
+    "id": "o-bacgiang-hs",
+    "name": "THPT chuyên Bắc Giang",
+    "nameEn": "Bac Giang HSGS",
+    "type": "high_school",
+    "departmentCode": "08",
+    "raw": ["HSGS Bac Giang"]
+  },
+  {
+    "id": "o-thainguyen-hs",
+    "name": "THPT chuyên Thái Nguyên",
+    "nameEn": "Thai Nguyen HSGS",
+    "type": "high_school",
+    "departmentCode": "31",
+    "raw": ["HSGS Thai Nguyen"]
+  },
+  {
+    "id": "o-hatinh-hs",
+    "name": "THPT chuyên Hà Tĩnh",
+    "nameEn": "Ha Tinh HSGS",
+    "type": "high_school",
+    "departmentCode": "16",
+    "raw": ["HSGS Ha Tinh", "THPT chuyên Hà Tĩnh"]
+  },
+  {
+    "id": "o-tnh-ag",
+    "name": "THPT chuyên Thoại Ngọc Hầu, An Giang",
+    "nameEn": "Thoai Ngoc Hau HSGS, An Giang",
+    "type": "high_school",
+    "departmentCode": "07",
+    "raw": ["HSGS Thoai Ngoc Hau - An Giang"]
+  },
+  {
+    "id": "o-tkn-ag",
+    "name": "THPT chuyên Thủ Khoa Nghĩa, An Giang",
+    "nameEn": "Thu Khoa Nghia HSGS, An Giang",
+    "type": "high_school",
+    "departmentCode": "07",
+    "raw": ["HSGS Thu Khoa Nghia - An Giang"]
+  },
+  {
+    "id": "o-hmd-kg",
+    "name": "THPT chuyên Huỳnh Mẫn Đạt, Kiên Giang",
+    "nameEn": "Huynh Man Dat HSGS, Kien Giang",
+    "type": "high_school",
+    "departmentCode": "07",
+    "raw": [
+      "HSGS Huynh Man Dat - Kien Giang",
+      "THPT chuyên Huỳnh Mẫn Đạt - tỉnh An Giang"
+    ]
+  },
+  {
+    "id": "o-lqd-kh",
+    "name": "THPT chuyên Lê Quý Đôn, Khánh Hòa",
+    "nameEn": "Le Quy Don HSGS, Khanh Hoa",
+    "type": "high_school",
+    "departmentCode": "18",
+    "raw": ["HSGS Le Quy Don - Khanh Hoa"]
+  },
+  {
+    "id": "o-lqd-nt",
+    "name": "THPT chuyên Lê Quý Đôn, Ninh Thuận",
+    "nameEn": "Le Quy Don HSGS, Ninh Thuan",
+    "type": "high_school",
+    "departmentCode": "18",
+    "raw": ["HSGS Le Quy Don - Ninh Thuan"]
+  },
+  {
+    "id": "o-hlk-tn",
+    "name": "THPT chuyên Hoàng Lê Kha, Tây Ninh",
+    "nameEn": "Hoang Le Kha HSGS, Tay Ninh",
+    "type": "high_school",
+    "departmentCode": "30",
+    "raw": ["HSGS Hoang Le Kha - Tay Ninh", "THPT chuyên Hoàng Lê Kha Tây Ninh"]
+  },
+  {
+    "id": "o-longan-hs",
+    "name": "THPT chuyên Long An",
+    "nameEn": "Long An HSGS",
+    "type": "high_school",
+    "departmentCode": "30",
+    "raw": ["HSGS Long An"]
+  },
+  {
+    "id": "o-nct-dn",
+    "name": "THPT chuyên Nguyễn Chí Thanh, Đắk Nông",
+    "nameEn": "Nguyen Chi Thanh HSGS, Dak Nong",
+    "type": "high_school",
+    "departmentCode": "22",
+    "raw": [
+      "HSGS Nguyen Chi Thanh - Dak Nong",
+      "THPT chuyên Nguyễn Chí Thanh Lâm Đồng"
+    ]
+  },
+  {
+    "id": "o-thanglong-ld",
+    "name": "THPT chuyên Thăng Long, Đà Lạt",
+    "nameEn": "Thang Long HSGS, Da Lat",
+    "type": "high_school",
+    "departmentCode": "22",
+    "raw": [
+      "HSGS Thang Long, Da Lat - Lam Dong",
+      "HSGS Thang Long - Lam Dong",
+      "THPT chuyên Thăng Long Đà Lạt"
+    ]
+  },
+  {
+    "id": "o-baoloc-ld",
+    "name": "THPT chuyên Bảo Lộc, Lâm Đồng",
+    "nameEn": "Bao Loc HSGS, Lam Dong",
+    "type": "high_school",
+    "departmentCode": "22",
+    "raw": ["HSGS Bao Loc - Lam Dong"]
+  },
+  {
+    "id": "o-thd-bt",
+    "name": "THPT chuyên Trần Hưng Đạo, Bình Thuận",
+    "nameEn": "Tran Hung Dao HSGS, Binh Thuan",
+    "type": "high_school",
+    "departmentCode": "22",
+    "raw": ["HSGS Tran Hung Dao - Binh Thuan"]
+  },
+  {
+    "id": "o-nguyendu-dl",
+    "name": "THPT chuyên Nguyễn Du, Đắk Lắk",
+    "nameEn": "Nguyen Du HSGS, Dak Lak",
+    "type": "high_school",
+    "departmentCode": "11",
+    "raw": ["HSGS Nguyen Du - Dak Lak", "THPT chuyên Nguyễn Du Đắk Lắk"]
+  },
+  {
+    "id": "o-lvc-py",
+    "name": "THPT chuyên Lương Văn Chánh, Phú Yên",
+    "nameEn": "Luong Van Chanh HSGS, Phu Yen",
+    "type": "high_school",
+    "departmentCode": "11",
+    "raw": ["HSGS Luong Van Chanh - Phu Yen"]
+  },
+  {
+    "id": "o-hungvuong-gl",
+    "name": "THPT chuyên Hùng Vương, Gia Lai",
+    "nameEn": "Hung Vuong HSGS, Gia Lai",
+    "type": "high_school",
+    "departmentCode": "15",
+    "raw": ["HSGS Hung Vuong - Gia Lai"]
+  },
+  {
+    "id": "o-lqd-bd",
+    "name": "THPT chuyên Lê Quý Đôn, Bình Định",
+    "nameEn": "Le Quy Don HSGS, Binh Dinh",
+    "type": "high_school",
+    "departmentCode": "15",
+    "raw": ["HSGS Le Quy Don - Binh Dinh", "THPT chuyên Lê Quý Đôn Bình Định"]
+  },
+  {
+    "id": "o-cva-bd",
+    "name": "THPT chuyên Chu Văn An, Bình Định",
+    "nameEn": "Chu Van An HSGS, Binh Dinh",
+    "type": "high_school",
+    "departmentCode": "15",
+    "raw": ["HSGS Chu Van An - Binh Dinh"]
+  },
+  {
+    "id": "o-ntt-kt",
+    "name": "THPT chuyên Nguyễn Tất Thành, Kon Tum",
+    "nameEn": "Nguyen Tat Thanh HSGS, Kon Tum",
+    "type": "high_school",
+    "departmentCode": "26",
+    "raw": ["HSGS Nguyen Tat Thanh - Kon Tum"]
+  },
+  {
+    "id": "o-lekhiet-qn",
+    "name": "THPT chuyên Lê Khiết, Quảng Ngãi",
+    "nameEn": "Le Khiet HSGS, Quang Ngai",
+    "type": "high_school",
+    "departmentCode": "26",
+    "raw": ["HSGS Le Khiet - Quang Ngai"]
+  },
+  {
+    "id": "o-ltt-ct",
+    "name": "THPT chuyên Lý Tự Trọng, Cần Thơ",
+    "nameEn": "Ly Tu Trong HSGS, Can Tho",
+    "type": "high_school",
+    "departmentCode": "01",
+    "raw": [
+      "Ly Tu Trong High School for the Gifted - Can Tho",
+      "THPT chuyên Lý Tự Trọng",
+      "HSGS Ly Tu Trong - Can Tho"
+    ]
+  },
+  {
+    "id": "o-ntmk-st",
+    "name": "THPT chuyên Nguyễn Thị Minh Khai, Sóc Trăng",
+    "nameEn": "Nguyen Thi Minh Khai HSGS, Soc Trang",
+    "type": "high_school",
+    "departmentCode": "01",
+    "raw": ["HSGS Nguyen Thi Minh Khai - Soc Trang"]
+  },
+  {
+    "id": "o-vithanh-hg",
+    "name": "THPT chuyên Vị Thanh, Hậu Giang",
+    "nameEn": "Vi Thanh HSGS, Hau Giang",
+    "type": "high_school",
+    "departmentCode": "01",
+    "raw": ["HSGS Vi Thanh - Hau Giang"]
+  },
+  {
+    "id": "o-nqd-dt",
+    "name": "THPT chuyên Nguyễn Quang Diêu, Đồng Tháp",
+    "nameEn": "Nguyen Quang Dieu HSGS, Dong Thap",
+    "type": "high_school",
+    "departmentCode": "14",
+    "raw": ["HSGS Nguyen Quang Dieu - Dong Thap"]
+  },
+  {
+    "id": "o-tiengiang-hs",
+    "name": "THPT chuyên Tiền Giang",
+    "nameEn": "Tien Giang HSGS",
+    "type": "high_school",
+    "departmentCode": "14",
+    "raw": ["HSGS Tien Giang"]
+  },
+  {
+    "id": "o-baclieu-hs",
+    "name": "THPT chuyên Bạc Liêu",
+    "nameEn": "Bac Lieu HSGS",
+    "type": "high_school",
+    "departmentCode": "09",
+    "raw": ["HSGS Bac Lieu", "Bac Lieu High School", "THPT chuyên Bạc Liêu"]
+  },
+  {
+    "id": "o-laocai-hs",
+    "name": "THPT chuyên Lào Cai",
+    "nameEn": "Lao Cai HSGS",
+    "type": "high_school",
+    "departmentCode": "21",
+    "raw": ["HSGS Lao Cai", "THPT chuyên Lào Cai"]
+  },
+  {
+    "id": "o-ntt-yb",
+    "name": "THPT chuyên Nguyễn Tất Thành, Yên Bái",
+    "nameEn": "Nguyen Tat Thanh HSGS, Yen Bai",
+    "type": "high_school",
+    "departmentCode": "21",
+    "raw": ["HSGS Nguyen Tat Thanh - Yen Bai"]
+  },
+  {
+    "id": "o-hagiang-hs",
+    "name": "THPT chuyên Hà Giang",
+    "nameEn": "Ha Giang HSGS",
+    "type": "high_school",
+    "departmentCode": "33",
+    "raw": ["HSGS Ha Giang", "Trường THPT chuyên Hà Giang"]
+  },
+  {
+    "id": "o-chilang-gl",
+    "name": "THPT Chi Lăng, Gia Lai",
+    "nameEn": "Chi Lang High School, Gia Lai",
+    "type": "high_school",
+    "departmentCode": "15",
+    "raw": ["Trường THPT Chi Lăng Gia Lai"]
+  },
+  {
+    "id": "o-ntu-tw",
+    "name": "Đại học Quốc lập Đài Loan",
+    "type": "university",
+    "shortName": "NTU",
+    "countryCode": "tw",
+    "raw": ["National Taiwan University"],
+    "nameEn": "National Taiwan University"
+  },
+  {
+    "id": "o-ncku",
+    "name": "Đại học Quốc lập Thành Công",
+    "type": "university",
+    "shortName": "NCKU",
+    "countryCode": "tw",
+    "raw": ["National Cheng Kung University"],
+    "nameEn": "National Cheng Kung University"
+  },
+  {
+    "id": "o-ntou",
+    "name": "Đại học Quốc lập Hải Dương Đài Loan",
+    "type": "university",
+    "shortName": "NTOU",
+    "countryCode": "tw",
+    "raw": ["National Taiwan Ocean University"],
+    "nameEn": "National Taiwan Ocean University"
+  },
+  {
+    "id": "o-nus",
+    "name": "Đại học Quốc gia Singapore",
+    "type": "university",
+    "shortName": "NUS",
+    "countryCode": "sg",
+    "raw": ["National University of Singapore"],
+    "nameEn": "National University of Singapore"
+  },
+  {
+    "id": "o-ntu-sg",
+    "name": "Đại học Công nghệ Nanyang",
+    "type": "university",
+    "shortName": "NTU (Singapore)",
+    "countryCode": "sg",
+    "raw": ["Nanyang Technological University"],
+    "nameEn": "Nanyang Technological University"
+  },
+  {
+    "id": "o-smu-sg",
+    "name": "Đại học Quản lý Singapore",
+    "type": "university",
+    "shortName": "SMU",
+    "countryCode": "sg",
+    "raw": ["Singapore Management University"],
+    "nameEn": "Singapore Management University"
+  },
+  {
+    "id": "o-kaist",
+    "name": "Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc",
+    "nameEn": "Korea Advanced Institute of Science and Technology",
+    "type": "university",
+    "shortName": "KAIST",
+    "countryCode": "kr",
+    "raw": ["KAIST"]
+  },
+  {
+    "id": "o-snu",
+    "name": "Đại học Quốc gia Seoul",
+    "type": "university",
+    "shortName": "SNU",
+    "countryCode": "kr",
+    "raw": ["Seoul National University"],
+    "nameEn": "Seoul National University"
+  },
+  {
+    "id": "o-postech",
+    "name": "Đại học Khoa học và Công nghệ Pohang",
+    "type": "university",
+    "shortName": "POSTECH",
+    "countryCode": "kr",
+    "raw": ["Pohang University of Science and Technology"],
+    "nameEn": "Pohang University of Science and Technology"
+  },
+  {
+    "id": "o-hanyang",
+    "name": "Đại học Hanyang",
+    "type": "university",
+    "shortName": "HYU",
+    "countryCode": "kr",
+    "raw": ["Hanyang University"],
+    "nameEn": "Hanyang University"
+  },
+  {
+    "id": "o-skku",
+    "name": "Đại học Sungkyunkwan",
+    "type": "university",
+    "shortName": "SKKU",
+    "countryCode": "kr",
+    "raw": ["SungKyunKwan University"],
+    "nameEn": "Sungkyunkwan University"
+  },
+  {
+    "id": "o-chula",
+    "name": "Đại học Chulalongkorn",
+    "type": "university",
+    "shortName": "CU",
+    "countryCode": "th",
+    "raw": ["Chulalongkorn University"],
+    "nameEn": "Chulalongkorn University"
+  },
+  {
+    "id": "o-cmu-th",
+    "name": "Đại học Chiang Mai",
+    "type": "university",
+    "shortName": "CMU",
+    "countryCode": "th",
+    "raw": ["Chiang Mai University"],
+    "nameEn": "Chiang Mai University"
+  },
+  {
+    "id": "o-utcc",
+    "name": "Đại học Phòng Thương mại Thái Lan",
+    "type": "university",
+    "shortName": "UTCC",
+    "countryCode": "th",
+    "raw": ["University of the Thai Chamber of Commerce"],
+    "nameEn": "University of the Thai Chamber of Commerce"
+  },
+  {
+    "id": "o-ui-id",
+    "name": "Đại học Indonesia",
+    "type": "university",
+    "shortName": "UI",
+    "countryCode": "id",
+    "raw": ["Universitas Indonesia"],
+    "nameEn": "Universitas Indonesia"
+  },
+  {
+    "id": "o-binus",
+    "name": "Đại học Bina Nusantara",
+    "type": "university",
+    "shortName": "BINUS",
+    "countryCode": "id",
+    "raw": [
+      "Bina Nusantara University",
+      "BINUS UNIVERSITY",
+      "BINUS University"
+    ],
+    "nameEn": "Bina Nusantara University"
+  },
+  {
+    "id": "o-unpar",
+    "name": "Đại học Công giáo Parahyangan",
+    "type": "university",
+    "shortName": "UNPAR",
+    "countryCode": "id",
+    "raw": ["Parahyangan University"],
+    "nameEn": "Parahyangan Catholic University"
+  },
+  {
+    "id": "o-admu",
+    "name": "Đại học Ateneo de Manila",
+    "type": "university",
+    "shortName": "ADMU",
+    "countryCode": "ph",
+    "raw": ["Ateneo de Manila University"],
+    "nameEn": "Ateneo de Manila University"
+  },
+  {
+    "id": "o-xmum",
+    "name": "Đại học Hạ Môn Malaysia",
+    "type": "university",
+    "shortName": "XMUM",
+    "countryCode": "my",
+    "raw": ["Xiamen University Malaysia"],
+    "nameEn": "Xiamen University Malaysia"
+  },
+  {
+    "id": "o-utokyo",
+    "name": "Đại học Tokyo",
+    "nameEn": "The University of Tokyo",
+    "type": "university",
+    "shortName": "UTokyo",
+    "countryCode": "jp",
+    "raw": ["The University of Tokyo"]
+  },
+  {
+    "id": "o-kyoto",
+    "name": "Đại học Kyoto",
+    "nameEn": "Kyoto University",
+    "type": "university",
+    "shortName": "KyotoU",
+    "countryCode": "jp",
+    "raw": ["Kyoto University"]
+  },
+  {
+    "id": "o-sci-tokyo",
+    "name": "Viện Khoa học Tokyo",
+    "nameEn": "Institute of Science Tokyo",
+    "type": "university",
+    "shortName": "Science Tokyo",
+    "countryCode": "jp",
+    "raw": ["Institute of Science Tokyo", "Tokyo Institute of Technology"]
+  },
+  {
+    "id": "o-uosaka",
+    "name": "Đại học Osaka",
+    "nameEn": "The University of Osaka",
+    "type": "university",
+    "shortName": "UOsaka",
+    "countryCode": "jp",
+    "raw": ["The University of Osaka", "Osaka University"]
+  },
+  {
+    "id": "o-tohoku",
+    "name": "Đại học Tohoku",
+    "nameEn": "Tohoku University",
+    "type": "university",
+    "shortName": "Tohoku",
+    "countryCode": "jp",
+    "raw": ["Tohoku University"]
+  },
+  {
+    "id": "o-hokudai",
+    "name": "Đại học Hokkaido",
+    "nameEn": "Hokkaido University",
+    "type": "university",
+    "shortName": "Hokudai",
+    "countryCode": "jp",
+    "raw": ["Hokkaido University"]
+  },
+  {
+    "id": "o-keio",
+    "name": "Đại học Keio",
+    "nameEn": "Keio University",
+    "type": "university",
+    "shortName": "Keio",
+    "countryCode": "jp",
+    "raw": ["Keio University"]
+  },
+  {
+    "id": "o-waseda",
+    "name": "Đại học Waseda",
+    "nameEn": "Waseda University",
+    "type": "university",
+    "shortName": "Waseda",
+    "countryCode": "jp",
+    "raw": ["Waseda University"]
+  },
+  {
+    "id": "o-tsukuba",
+    "name": "Đại học Tsukuba",
+    "nameEn": "University of Tsukuba",
+    "type": "university",
+    "shortName": "Tsukuba",
+    "countryCode": "jp",
+    "raw": ["University of Tsukuba"]
+  },
+  {
+    "id": "o-aizu",
+    "name": "Đại học Aizu",
+    "nameEn": "University of Aizu",
+    "type": "university",
+    "shortName": "UoA",
+    "countryCode": "jp",
+    "raw": ["University of Aizu"]
+  },
+  {
+    "id": "o-nit-tokuyama",
+    "name": "Trường Cao đẳng Công nghệ Quốc gia Tokuyama",
+    "nameEn": "National Institute of Technology, Tokuyama College",
+    "type": "university",
+    "shortName": "NIT Tokuyama",
+    "countryCode": "jp",
+    "raw": ["National Institute of Technology, Tokuyama College"]
+  },
+  {
+    "id": "o-korea",
+    "name": "Đại học Korea",
+    "nameEn": "Korea University",
+    "type": "university",
+    "shortName": "KU",
+    "countryCode": "kr",
+    "raw": ["Korea University"]
+  },
+  {
+    "id": "o-yonsei",
+    "name": "Đại học Yonsei",
+    "nameEn": "Yonsei University",
+    "type": "university",
+    "shortName": "Yonsei",
+    "countryCode": "kr",
+    "raw": ["Yonsei University"]
+  },
+  {
+    "id": "o-sogang",
+    "name": "Đại học Sogang",
+    "nameEn": "Sogang University",
+    "type": "university",
+    "shortName": "Sogang",
+    "countryCode": "kr",
+    "raw": ["Sogang University"]
+  },
+  {
+    "id": "o-soongsil",
+    "name": "Đại học Soongsil",
+    "nameEn": "Soongsil University",
+    "type": "university",
+    "shortName": "SSU",
+    "countryCode": "kr",
+    "raw": ["Soongsil University"]
+  },
+  {
+    "id": "o-khu",
+    "name": "Đại học Kyung Hee",
+    "nameEn": "Kyung Hee University",
+    "type": "university",
+    "shortName": "KHU",
+    "countryCode": "kr",
+    "raw": ["Kyung Hee University"]
+  },
+  {
+    "id": "o-knu",
+    "name": "Đại học Quốc gia Kyungpook",
+    "nameEn": "Kyungpook National University",
+    "type": "university",
+    "shortName": "KNU",
+    "countryCode": "kr",
+    "raw": ["Kyungpook National University"]
+  },
+  {
+    "id": "o-pnu",
+    "name": "Đại học Quốc gia Pusan",
+    "nameEn": "Pusan National University",
+    "type": "university",
+    "shortName": "PNU",
+    "countryCode": "kr",
+    "raw": ["Pusan National University"]
+  },
+  {
+    "id": "o-jbnu",
+    "name": "Đại học Quốc gia Jeonbuk",
+    "nameEn": "Jeonbuk National University",
+    "type": "university",
+    "shortName": "JBNU",
+    "countryCode": "kr",
+    "raw": ["Jeonbuk National University"]
+  },
+  {
+    "id": "o-unist",
+    "name": "Viện Khoa học và Công nghệ Quốc gia Ulsan",
+    "nameEn": "Ulsan National Institute of Science and Technology",
+    "type": "university",
+    "shortName": "UNIST",
+    "countryCode": "kr",
+    "raw": ["Ulsan National Institute of Science and Technology"]
+  },
+  {
+    "id": "o-nthu",
+    "name": "Đại học Quốc lập Thanh Hoa",
+    "nameEn": "National Tsing Hua University",
+    "type": "university",
+    "shortName": "NTHU",
+    "countryCode": "tw",
+    "raw": ["National Tsing Hua University"]
+  },
+  {
+    "id": "o-nycu",
+    "name": "Đại học Quốc lập Dương Minh Giao Thông",
+    "nameEn": "National Yang Ming Chiao Tung University",
+    "type": "university",
+    "shortName": "NYCU",
+    "countryCode": "tw",
+    "raw": ["National Yang Ming Chiao Tung University"]
+  },
+  {
+    "id": "o-ncu-tw",
+    "name": "Đại học Quốc lập Trung ương",
+    "nameEn": "National Central University",
+    "type": "university",
+    "shortName": "NCU",
+    "countryCode": "tw",
+    "raw": ["National Central University"]
+  },
+  {
+    "id": "o-ntnu",
+    "name": "Đại học Quốc lập Sư phạm Đài Loan",
+    "nameEn": "National Taiwan Normal University",
+    "type": "university",
+    "shortName": "NTNU",
+    "countryCode": "tw",
+    "raw": ["National Taiwan Normal University"]
+  },
+  {
+    "id": "o-ccu-tw",
+    "name": "Đại học Quốc lập Trung Chính",
+    "nameEn": "National Chung Cheng University",
+    "type": "university",
+    "shortName": "CCU",
+    "countryCode": "tw",
+    "raw": ["National Chung Cheng University"]
+  },
+  {
+    "id": "o-mcu-tw",
+    "name": "Đại học Minh Truyền",
+    "nameEn": "Ming Chuan University",
+    "type": "university",
+    "shortName": "MCU",
+    "countryCode": "tw",
+    "raw": ["Ming Chuan University"]
+  },
+  {
+    "id": "o-itb",
+    "name": "Viện Công nghệ Bandung",
+    "nameEn": "Institut Teknologi Bandung",
+    "type": "university",
+    "shortName": "ITB",
+    "countryCode": "id",
+    "raw": ["Institut Teknologi Bandung"]
+  },
+  {
+    "id": "o-ugm",
+    "name": "Đại học Gadjah Mada",
+    "nameEn": "Universitas Gadjah Mada",
+    "type": "university",
+    "shortName": "UGM",
+    "countryCode": "id",
+    "raw": ["Universitas Gadjah Mada", "Gadjah Mada University"]
+  },
+  {
+    "id": "o-dlsu",
+    "name": "Đại học De La Salle",
+    "nameEn": "De La Salle University",
+    "type": "university",
+    "shortName": "DLSU",
+    "countryCode": "ph",
+    "raw": ["De La Salle University"]
+  },
+  {
+    "id": "o-unsw",
+    "name": "Đại học New South Wales",
+    "nameEn": "UNSW Sydney",
+    "type": "university",
+    "shortName": "UNSW",
+    "countryCode": "au",
+    "raw": ["UNSW Sydney"]
+  },
+  {
+    "id": "o-unimelb",
+    "name": "Đại học Melbourne",
+    "nameEn": "University of Melbourne",
+    "type": "university",
+    "shortName": "UniMelb",
+    "countryCode": "au",
+    "raw": ["University of Melbourne"]
+  }
 ]

@@ -30,7 +30,7 @@ The data layer is layered so the future real backend slots in with zero componen
 
 1. **`src/lib/api/schemas.ts`** — zod schemas, single source of truth for all entity shapes (SPEC §4) and API responses (SPEC §7). Types via `z.infer`. The backend must implement this contract verbatim.
 2. **`src/mocks/fixtures.ts`** — fixture data: departments (official MOE unit codes with historical aliases), contests, editions, profiles (invented placeholders), achievements, ranking weights. Imports real ICPC data from `src/mocks/icpc-vn/`.
-3. **`src/lib/api/store.ts`** — all query logic (ranking computation SPEC §6, filtering, cursor pagination, diacritic-insensitive search). Builds in-memory indexes over fixtures. *Deleted wholesale when the real backend lands.*
+3. **`src/lib/api/store.ts`** — all query logic (ranking computation SPEC §6, filtering, cursor pagination, diacritic-insensitive search). Builds in-memory indexes over fixtures. _Deleted wholesale when the real backend lands._
 4. **`src/app/api/v1/*/route.ts`** — thin route handlers wrapping store functions, validating params with zod.
 5. **`src/lib/api/client.ts`** — typed fetch client for client components; reads `NEXT_PUBLIC_API_BASE_URL` so the real backend is a env-var swap.
 

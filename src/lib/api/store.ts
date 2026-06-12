@@ -38,15 +38,25 @@ const orgBySlug = new Map(organizations.map((o) => [o.slug, o]))
 // Legacy alias: orgs renamed to Vietnamese keep resolving by their
 // English-derived slug (old URLs redirect to the canonical slug).
 const orgBySlugAlias = new Map(
-  organizations
-    .filter((o) => o.nameEn && !orgBySlug.has(slugify(o.nameEn)))
-    .map((o) => [slugify(o.nameEn!), o])
+  organizations.flatMap((o) =>
+    o.nameEn && !orgBySlug.has(slugify(o.nameEn))
+      ? [[slugify(o.nameEn), o] as const]
+      : []
+  )
 )
 const contestById = new Map(contests.map((c) => [c.id, c]))
 const contestBySlug = new Map(contests.map((c) => [c.slug, c]))
 const editionById = new Map(editions.map((e) => [e.id, e]))
 const teamById = new Map(teams.map((t) => [t.id, t]))
 const teamBySlug = new Map(teams.map((t) => [t.slug, t]))
+
+/** Member summaries for a team roster, skipping unknown profile ids */
+function membersOf(memberProfileIds: string[]): ProfileSummary[] {
+  return memberProfileIds.flatMap((id) => {
+    const p = profileById.get(id)
+    return p ? [toSummary(p)] : []
+  })
+}
 
 /** Achievements credited to a person - team results credit each member (SPEC §6.1) */
 const achievementsByProfile = new Map<string, Achievement[]>()
@@ -63,7 +73,11 @@ for (const a of achievements) {
 }
 
 export function weightOf(a: Achievement): number {
-  return rankingConfig.weights[a.category]?.[a.resultTier] ?? 0
+  // Indexed by arbitrary fixture strings - Partial keeps the undefined case
+  // visible despite noUncheckedIndexedAccess being off.
+  const byTier: Partial<Record<string, number>> =
+    rankingConfig.weights[a.category]
+  return byTier[a.resultTier] ?? 0
 }
 
 export function visualTierOf(a: Achievement): VisualTier {
@@ -187,7 +201,7 @@ export function queryLeaderboard(q: LeaderboardQuery): LeaderboardResponse {
 // ── Profile expansion - SPEC §7.1 GET /profiles/:slug ────────────────
 export function getProfile(slug: string) {
   const p = profileBySlug.get(slug)
-  if (!p || p.status !== 'published') return null
+  if (p?.status !== 'published') return null
   const list = (achievementsByProfile.get(p.id) ?? [])
     .slice()
     .sort((a, b) => b.year - a.year)
@@ -269,10 +283,10 @@ export function listContests() {
 
 /** All (contest slug, edition year) pairs - for generateStaticParams */
 export function listEditionParams() {
-  return editions.map((e) => ({
-    slug: contestById.get(e.contestId)!.slug,
-    edition: String(e.year),
-  }))
+  return editions.flatMap((e) => {
+    const contest = contestById.get(e.contestId)
+    return contest ? [{ slug: contest.slug, edition: String(e.year) }] : []
+  })
 }
 
 export function getContest(slug: string) {
@@ -328,10 +342,7 @@ export function getEditionResults(
           ? {
               ...team,
               organization: orgById.get(team.organizationId),
-              members: team.memberProfileIds
-                .map((id) => profileById.get(id))
-                .filter(Boolean)
-                .map((p) => toSummary(p!)),
+              members: membersOf(team.memberProfileIds),
             }
           : undefined,
       }
@@ -351,10 +362,7 @@ export function getEditionResults(
       .map((t) => ({
         ...t,
         organization: orgById.get(t.organizationId),
-        members: t.memberProfileIds
-          .map((id) => profileById.get(id))
-          .filter(Boolean)
-          .map((p) => toSummary(p!)),
+        members: membersOf(t.memberProfileIds),
       }))
       .sort((a, b) => (a.result?.rank ?? 999) - (b.result?.rank ?? 999))
     const seenLabels = [
@@ -373,10 +381,10 @@ export function getEditionResults(
             (_, i) => String.fromCharCode(65 + i)
           )
         : seenLabels.sort()
-    const problems =
+    const problems: ContestProblem[] =
       e.problems && e.problems.length > 0
         ? e.problems
-        : derivedLabels.map((label) => ({ label }) as ContestProblem)
+        : derivedLabels.map((label) => ({ label }))
     if (rows.length > 0) scoreboard = { problems, rows }
   }
 
@@ -473,27 +481,34 @@ export function getOrganization(slug: string) {
   const orgTeams = teams
     .filter((t) => t.organizationId === o.id)
     .map((t) => ({ ...t, edition: editionById.get(t.contestEditionId) }))
-  const byContest = new Map<string, typeof orgTeams>()
+  type OrgTeam = (typeof orgTeams)[number]
+  type DatedOrgTeam = OrgTeam & { edition: NonNullable<OrgTeam['edition']> }
+  const byContest = new Map<string, DatedOrgTeam[]>()
   for (const t of orgTeams) {
-    if (!t.edition) continue
-    const list = byContest.get(t.edition.contestId) ?? []
-    list.push(t)
-    byContest.set(t.edition.contestId, list)
+    const { edition } = t
+    if (!edition) continue
+    const list = byContest.get(edition.contestId) ?? []
+    list.push({ ...t, edition })
+    byContest.set(edition.contestId, list)
   }
   const teamsByContest = [...byContest.entries()]
-    .map(([contestId, list]) => {
+    .flatMap(([contestId, list]) => {
+      const contest = contestById.get(contestId)
+      if (!contest) return []
       list.sort(
         (a, b) =>
-          b.edition!.year - a.edition!.year ||
+          b.edition.year - a.edition.year ||
           (a.result?.rank ?? Infinity) - (b.result?.rank ?? Infinity)
       )
-      const years = list.map((t) => t.edition!.year)
-      return {
-        contest: contestById.get(contestId)!,
-        teams: list,
-        firstYear: Math.min(...years),
-        lastYear: Math.max(...years),
-      }
+      const years = list.map((t) => t.edition.year)
+      return [
+        {
+          contest,
+          teams: list,
+          firstYear: Math.min(...years),
+          lastYear: Math.max(...years),
+        },
+      ]
     })
     .sort(
       (a, b) =>
@@ -520,18 +535,16 @@ export function getTeam(slug: string) {
   const t = teamBySlug.get(slug)
   if (!t) return null
   const edition = editionById.get(t.contestEditionId)
+  const coach = t.coach?.profileId
+    ? profileById.get(t.coach.profileId)
+    : undefined
   return {
     ...t,
     organization: orgById.get(t.organizationId),
     edition,
     contest: edition ? contestById.get(edition.contestId) : undefined,
-    members: t.memberProfileIds
-      .map((id) => profileById.get(id))
-      .filter(Boolean)
-      .map((p) => toSummary(p!)),
-    coachProfile: t.coach?.profileId
-      ? toSummary(profileById.get(t.coach.profileId)!)
-      : undefined,
+    members: membersOf(t.memberProfileIds),
+    coachProfile: coach ? toSummary(coach) : undefined,
   }
 }
 

@@ -1,11 +1,11 @@
 'use client'
 
+import { Avatar } from '@/components/hof/tokens'
+import { Link, useRouter } from '@/i18n/navigation'
+import { fetchSearch } from '@/lib/api/client'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslations } from 'next-intl'
 import { useEffect, useRef, useState } from 'react'
-import { Link, useRouter } from '@/i18n/navigation'
-import { fetchSearch } from '@/lib/api/client'
-import { Avatar } from '@/components/hof/tokens'
 
 export function SearchCommand() {
   const t = useTranslations('nav')
@@ -70,16 +70,19 @@ export function SearchCommand() {
       </button>
 
       {open && (
-        <div
-          role="dialog"
-          aria-modal="true"
-          aria-label={t('search')}
-          className="fixed inset-0 z-[100] flex items-start justify-center bg-ink/30 pt-[12vh]"
-          onClick={close}
-        >
+        <div className="fixed inset-0 z-[100] flex items-start justify-center pt-[12vh]">
+          <button
+            type="button"
+            tabIndex={-1}
+            aria-label={t('close')}
+            onClick={close}
+            className="absolute inset-0 cursor-default bg-ink/30"
+          />
           <div
-            className="w-[35rem] max-w-[92vw] overflow-hidden rounded-xl border border-line bg-card shadow-lg"
-            onClick={(e) => e.stopPropagation()}
+            role="dialog"
+            aria-modal="true"
+            aria-label={t('search')}
+            className="relative w-[35rem] max-w-[92vw] overflow-hidden rounded-xl border border-line bg-card shadow-lg"
           >
             <input
               ref={inputRef}
@@ -94,7 +97,10 @@ export function SearchCommand() {
                 }
               }}
             />
-            <div className="max-h-[50vh] overflow-y-auto p-2" aria-live="polite">
+            <div
+              className="max-h-[50vh] overflow-y-auto p-2"
+              aria-live="polite"
+            >
               {data && (
                 <>
                   {data.profiles.length > 0 && (
@@ -107,7 +113,9 @@ export function SearchCommand() {
                           className="flex items-center gap-3 rounded-md px-3 py-2 hover:bg-accent-soft"
                         >
                           <Avatar name={p.fullName} id={p.id} />
-                          <span className="text-sm font-bold">{p.fullName}</span>
+                          <span className="text-sm font-bold">
+                            {p.fullName}
+                          </span>
                           {p.displayHandle && (
                             <span className="font-mono text-2xs text-ink-soft">
                               @{p.displayHandle}
@@ -126,7 +134,8 @@ export function SearchCommand() {
                           onClick={close}
                           className="block rounded-md px-3 py-2 text-body font-medium hover:bg-accent-soft"
                         >
-                          {c.shortName} <span className="text-ink-soft">· {c.name}</span>
+                          {c.shortName}{' '}
+                          <span className="text-ink-soft">· {c.name}</span>
                         </Link>
                       ))}
                     </Section>
@@ -162,7 +171,9 @@ export function SearchCommand() {
                 </>
               )}
               {q.trim().length < 2 && (
-                <p className="px-3 py-6 text-center text-xs text-ink-faint">Aa…</p>
+                <p className="px-3 py-6 text-center text-xs text-ink-faint">
+                  Aa…
+                </p>
               )}
             </div>
           </div>
@@ -172,7 +183,13 @@ export function SearchCommand() {
   )
 }
 
-function Section({ label, children }: { label: string; children: React.ReactNode }) {
+function Section({
+  label,
+  children,
+}: {
+  label: string
+  children: React.ReactNode
+}) {
   return (
     <div className="mb-1">
       <div className="label px-3 pb-1 pt-2">{label}</div>

@@ -22,8 +22,8 @@ const securityHeaders = [
 ]
 
 const nextConfig: NextConfig = {
-  async headers() {
-    return [{ source: '/(.*)', headers: securityHeaders }]
+  headers() {
+    return Promise.resolve([{ source: '/(.*)', headers: securityHeaders }])
   },
 }
 

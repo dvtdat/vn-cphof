@@ -7,7 +7,9 @@ import type { Metadata } from 'next'
 import { getTranslations, setRequestLocale } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 
-type Props = { params: Promise<{ locale: string; slug: string }> }
+interface Props {
+  params: Promise<{ locale: string; slug: string }>
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params
@@ -110,10 +112,10 @@ export default async function TeamPage({ params }: Props) {
                     className={cn(
                       'flex h-[2.875rem] flex-col items-center justify-center rounded-[0.25rem] border border-line',
                       solved &&
-                        !cell?.firstSolve &&
+                        !cell.firstSolve &&
                         'border-transparent bg-solve',
                       solved &&
-                        cell?.firstSolve &&
+                        cell.firstSolve &&
                         'border-transparent bg-solve-strong text-white',
                       cell && !solved && 'border-transparent bg-fail',
                       !cell && 'bg-paper/40'

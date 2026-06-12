@@ -1,54 +1,54 @@
 [
- {
-  "label": "A",
-  "name": "Control Towers"
- },
- {
-  "label": "B",
-  "name": "Three-Dimensional Embedding"
- },
- {
-  "label": "C",
-  "name": "Cactus Connectivity"
- },
- {
-  "label": "D",
-  "name": "Tower of Hanoi"
- },
- {
-  "label": "E",
-  "name": "Minus Operator"
- },
- {
-  "label": "F",
-  "name": "Hold the Star"
- },
- {
-  "label": "G",
-  "name": "Corrupted File"
- },
- {
-  "label": "H",
-  "name": "Secret Lilies and Roses"
- },
- {
-  "label": "I",
-  "name": "Squares on Grid Lines"
- },
- {
-  "label": "J",
-  "name": "Gathering Sharks"
- },
- {
-  "label": "K",
-  "name": "Book Sorting"
- },
- {
-  "label": "L",
-  "name": "Boarding Queue"
- },
- {
-  "label": "M",
-  "name": "Can You Reach There?"
- }
+  {
+    "label": "A",
+    "name": "Control Towers"
+  },
+  {
+    "label": "B",
+    "name": "Three-Dimensional Embedding"
+  },
+  {
+    "label": "C",
+    "name": "Cactus Connectivity"
+  },
+  {
+    "label": "D",
+    "name": "Tower of Hanoi"
+  },
+  {
+    "label": "E",
+    "name": "Minus Operator"
+  },
+  {
+    "label": "F",
+    "name": "Hold the Star"
+  },
+  {
+    "label": "G",
+    "name": "Corrupted File"
+  },
+  {
+    "label": "H",
+    "name": "Secret Lilies and Roses"
+  },
+  {
+    "label": "I",
+    "name": "Squares on Grid Lines"
+  },
+  {
+    "label": "J",
+    "name": "Gathering Sharks"
+  },
+  {
+    "label": "K",
+    "name": "Book Sorting"
+  },
+  {
+    "label": "L",
+    "name": "Boarding Queue"
+  },
+  {
+    "label": "M",
+    "name": "Can You Reach There?"
+  }
 ]

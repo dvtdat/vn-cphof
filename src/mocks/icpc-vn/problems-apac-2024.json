@@ -1,54 +1,54 @@
 [
- {
-  "label": "A",
-  "name": "Antiparticle Antiphysics"
- },
- {
-  "label": "B",
-  "name": "Attraction Score"
- },
- {
-  "label": "C",
-  "name": "Bit Counting Sequence"
- },
- {
-  "label": "D",
-  "name": "Bánh Bò"
- },
- {
-  "label": "E",
-  "name": "Duplicates"
- },
- {
-  "label": "F",
-  "name": "Forming Groups"
- },
- {
-  "label": "G",
-  "name": "Personality Test"
- },
- {
-  "label": "H",
-  "name": "Pho Restaurant"
- },
- {
-  "label": "I",
-  "name": "Symmetric Boundary"
- },
- {
-  "label": "J",
-  "name": "There and Back Again"
- },
- {
-  "label": "K",
-  "name": "Tree Quiz"
- },
- {
-  "label": "L",
-  "name": "XOR Operations"
- },
- {
-  "label": "M",
-  "name": "Zig-zag"
- }
+  {
+    "label": "A",
+    "name": "Antiparticle Antiphysics"
+  },
+  {
+    "label": "B",
+    "name": "Attraction Score"
+  },
+  {
+    "label": "C",
+    "name": "Bit Counting Sequence"
+  },
+  {
+    "label": "D",
+    "name": "Bánh Bò"
+  },
+  {
+    "label": "E",
+    "name": "Duplicates"
+  },
+  {
+    "label": "F",
+    "name": "Forming Groups"
+  },
+  {
+    "label": "G",
+    "name": "Personality Test"
+  },
+  {
+    "label": "H",
+    "name": "Pho Restaurant"
+  },
+  {
+    "label": "I",
+    "name": "Symmetric Boundary"
+  },
+  {
+    "label": "J",
+    "name": "There and Back Again"
+  },
+  {
+    "label": "K",
+    "name": "Tree Quiz"
+  },
+  {
+    "label": "L",
+    "name": "XOR Operations"
+  },
+  {
+    "label": "M",
+    "name": "Zig-zag"
+  }
 ]

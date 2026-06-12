@@ -1,5 +1,8 @@
-import { ok, badRequest } from '@/lib/api/http'
-import { leaderboardModeSchema, achievementCategorySchema } from '@/lib/api/schemas'
+import { badRequest, ok } from '@/lib/api/http'
+import {
+  achievementCategorySchema,
+  leaderboardModeSchema,
+} from '@/lib/api/schemas'
 import { queryLeaderboard } from '@/lib/api/store'
 
 export function GET(request: Request) {
@@ -20,6 +23,6 @@ export function GET(request: Request) {
       year: sp.get('year') ? Number(sp.get('year')) : undefined,
       cursor: sp.get('cursor') ?? undefined,
       limit: sp.get('limit') ? Number(sp.get('limit')) : undefined,
-    }),
+    })
   )
 }

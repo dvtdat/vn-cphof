@@ -1,54 +1,54 @@
 [
- {
-  "label": "A",
-  "name": "Compare Suffixes"
- },
- {
-  "label": "B",
-  "name": "Subtree Removal Game"
- },
- {
-  "label": "C",
-  "name": "Upside Down Dijkstra"
- },
- {
-  "label": "D",
-  "name": "Christmas Tree Un-decoration"
- },
- {
-  "label": "E",
-  "name": "Parallel Sums"
- },
- {
-  "label": "F",
-  "name": "Minesweeper String"
- },
- {
-  "label": "G",
-  "name": "Extra Transition"
- },
- {
-  "label": "H",
-  "name": "Reflect Sort"
- },
- {
-  "label": "I",
-  "name": "Growth Factor"
- },
- {
-  "label": "J",
-  "name": "Worldwide Playlist"
- },
- {
-  "label": "K",
-  "name": "Time Display Stickers"
- },
- {
-  "label": "L",
-  "name": "Onion"
- },
- {
-  "label": "M",
-  "name": "Deformed Balance"
- }
+  {
+    "label": "A",
+    "name": "Compare Suffixes"
+  },
+  {
+    "label": "B",
+    "name": "Subtree Removal Game"
+  },
+  {
+    "label": "C",
+    "name": "Upside Down Dijkstra"
+  },
+  {
+    "label": "D",
+    "name": "Christmas Tree Un-decoration"
+  },
+  {
+    "label": "E",
+    "name": "Parallel Sums"
+  },
+  {
+    "label": "F",
+    "name": "Minesweeper String"
+  },
+  {
+    "label": "G",
+    "name": "Extra Transition"
+  },
+  {
+    "label": "H",
+    "name": "Reflect Sort"
+  },
+  {
+    "label": "I",
+    "name": "Growth Factor"
+  },
+  {
+    "label": "J",
+    "name": "Worldwide Playlist"
+  },
+  {
+    "label": "K",
+    "name": "Time Display Stickers"
+  },
+  {
+    "label": "L",
+    "name": "Onion"
+  },
+  {
+    "label": "M",
+    "name": "Deformed Balance"
+  }
 ]

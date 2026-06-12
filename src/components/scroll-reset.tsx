@@ -1,7 +1,7 @@
 'use client'
 
-import { useEffect } from 'react'
 import { usePathname } from 'next/navigation'
+import { useEffect } from 'react'
 
 /**
  * The app scrolls an inner container (#app-scroll), not the viewport, so

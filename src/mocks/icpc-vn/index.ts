@@ -8,14 +8,14 @@
  * Banned/practice teams (negative score marker) are excluded at scrape time.
  */
 import type { ContestProblem, Team } from '@/lib/api/schemas'
-import problemsApac2024 from './problems-apac-2024.json'
-import problemsApac2025 from './problems-apac-2025.json'
-import problemsApac2026 from './problems-apac-2026.json'
 import problems2021 from './problems-2021.json'
 import problems2022 from './problems-2022.json'
 import problems2023 from './problems-2023.json'
 import problems2024 from './problems-2024.json'
 import problems2025 from './problems-2025.json'
+import problemsApac2024 from './problems-apac-2024.json'
+import problemsApac2025 from './problems-apac-2025.json'
+import problemsApac2026 from './problems-apac-2026.json'
 import problemsRegional2021 from './problems-regional-2021.json'
 import problemsRegional2022 from './problems-regional-2022.json'
 import problemsRegional2023 from './problems-regional-2023.json'
@@ -24,14 +24,14 @@ import problemsRegional2025 from './problems-regional-2025.json'
 import problemsRegionalHs2022 from './problems-regional-hsgs-2022.json'
 import problemsRegionalHs2024 from './problems-regional-hsgs-2024.json'
 import problemsRegionalHs2025 from './problems-regional-hsgs-2025.json'
-import teamsApac2024 from './teams-apac-2024.json'
-import teamsApac2025 from './teams-apac-2025.json'
-import teamsApac2026 from './teams-apac-2026.json'
 import teams2021 from './teams-2021.json'
 import teams2022 from './teams-2022.json'
 import teams2023 from './teams-2023.json'
 import teams2024 from './teams-2024.json'
 import teams2025 from './teams-2025.json'
+import teamsApac2024 from './teams-apac-2024.json'
+import teamsApac2025 from './teams-apac-2025.json'
+import teamsApac2026 from './teams-apac-2026.json'
 import teamsRegional2021 from './teams-regional-2021.json'
 import teamsRegional2022 from './teams-regional-2022.json'
 import teamsRegional2023 from './teams-regional-2023.json'
@@ -52,11 +52,11 @@ export const icpcVnTeams: Team[] = [
 ]
 
 export const icpcVnProblems: Record<number, ContestProblem[]> = {
-  2021: problems2021 as ContestProblem[],
-  2022: problems2022 as ContestProblem[],
-  2023: problems2023 as ContestProblem[],
-  2024: problems2024 as ContestProblem[],
-  2025: problems2025 as ContestProblem[],
+  2021: problems2021,
+  2022: problems2022,
+  2023: problems2023,
+  2024: problems2024,
+  2025: problems2025,
 }
 
 export const icpcRegionalTeams: Team[] = [
@@ -68,11 +68,11 @@ export const icpcRegionalTeams: Team[] = [
 ]
 
 export const icpcRegionalProblems: Record<number, ContestProblem[]> = {
-  2021: problemsRegional2021 as ContestProblem[],
-  2022: problemsRegional2022 as ContestProblem[],
-  2023: problemsRegional2023 as ContestProblem[],
-  2024: problemsRegional2024 as ContestProblem[],
-  2025: problemsRegional2025 as ContestProblem[],
+  2021: problemsRegional2021,
+  2022: problemsRegional2022,
+  2023: problemsRegional2023,
+  2024: problemsRegional2024,
+  2025: problemsRegional2025,
 }
 
 export const icpcRegionalHsTeams: Team[] = [
@@ -82,9 +82,9 @@ export const icpcRegionalHsTeams: Team[] = [
 ]
 
 export const icpcRegionalHsProblems: Record<number, ContestProblem[]> = {
-  2022: problemsRegionalHs2022 as ContestProblem[],
-  2024: problemsRegionalHs2024 as ContestProblem[],
-  2025: problemsRegionalHs2025 as ContestProblem[],
+  2022: problemsRegionalHs2022,
+  2024: problemsRegionalHs2024,
+  2025: problemsRegionalHs2025,
 }
 
 export const icpcApacTeams: Team[] = [
@@ -94,7 +94,7 @@ export const icpcApacTeams: Team[] = [
 ]
 
 export const icpcApacProblems: Record<number, ContestProblem[]> = {
-  2024: problemsApac2024 as ContestProblem[],
-  2025: problemsApac2025 as ContestProblem[],
-  2026: problemsApac2026 as ContestProblem[],
+  2024: problemsApac2024,
+  2025: problemsApac2025,
+  2026: problemsApac2026,
 }

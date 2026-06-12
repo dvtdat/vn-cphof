@@ -350,9 +350,7 @@ function parseDomjudge(b, html) {
       .filter((c) => c.attrs.includes('score_cell'))
       .forEach((c, i) => {
         const label = String.fromCharCode(65 + i)
-        const div = c.html.match(
-          /<div class="(score_[^"]*)">([\s\S]*?)<\/div>/
-        )
+        const div = c.html.match(/<div class="(score_[^"]*)">([\s\S]*?)<\/div>/)
         if (!div) return // untouched
         const isSolved = div[1].includes('score_correct')
         const tries = div[2].match(/(\d+)\s*(?:tries|try)/)?.[1]
@@ -383,7 +381,11 @@ function parseDomjudge(b, html) {
     (m, i) => ({ label: String.fromCharCode(65 + i), name: decode(m[1]) })
   )
 
-  return { teams: buildTeams(b, teams), problems: problemSet, rawRows: rows.length }
+  return {
+    teams: buildTeams(b, teams),
+    problems: problemSet,
+    rawRows: rows.length,
+  }
 }
 
 for (const b of BOARDS) {
@@ -393,11 +395,11 @@ for (const b of BOARDS) {
   const { teams, problems, rawRows } = parse(b, html)
   writeFileSync(
     join(OUT, `teams-${b.key}.json`),
-    JSON.stringify(teams, null, 1) + '\n'
+    JSON.stringify(teams, null, 2) + '\n'
   )
   writeFileSync(
     join(OUT, `problems-${b.key}.json`),
-    JSON.stringify(problems, null, 1) + '\n'
+    JSON.stringify(problems, null, 2) + '\n'
   )
   console.log(
     `${b.key}: ${teams.length} teams (of ${rawRows} rows), ${problems.length} problems, top: ${teams[0]?.name} (${teams[0]?.result.solved} solved)`
